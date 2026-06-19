@@ -1,0 +1,60 @@
+Quick's Card
+--------------------------------------------------
+Quick's Card 6: AGI -55%
+Quick's Card 8: AGI -67%
+
+Pierce's Card
+--------------------------------------------------
+Pierce's Card 5: 100% chance Terrain Pierce, Range +20
+Pierce's Card 6: 100% chance Terrain Pierce, Range +40
+Pierce's Card 7: 100% chance Terrain Pierce, Range +60
+Pierce's Card 8: 100% chance Terrain Pierce, Range +80
+
+Explosion's Card
+--------------------------------------------------
+Explosion's Card 5: 100% chance Splash Damage, AT +20%
+Explosion's Card 6: 100% chance Splash Damage, AT +30%
+Explosion's Card 7: 100% chance Splash Damage, AT +40%
+Explosion's Card 8: 100% chance Splash Damage, AT +50%
+
+Big Card
+--------------------------------------------------
+Big Card 6: +400% Attack Hitbox Size
+Big Card 7: +400% Attack Hitbox Size, AT +20%
+Big Card 8: +400% Attack Hitbox Size, AT +30%
+
+Knockback's Card
+--------------------------------------------------
+Knockback's Card 6: 100% chance Knockback 40
+Knockback's Card 7: 50% chance Knockback 100
+Knockback's Card 8: 75% chance Knockback 80
+
+Reflection Card
+--------------------------------------------------
+Reflection Card 5: 100% chance Terrain Reflection, Projectile/Residue Lifespan +12.5%
+Reflection Card 6: 100% chance Terrain Reflection, Projectile/Residue Lifespan +25%
+Reflection Card 7: 100% chance Terrain Reflection, Projectile/Residue Lifespan +37.5%
+Reflection Card 8: 100% chance Terrain Reflection, Projectile/Residue Lifespan +50%
+
+Ring's Card
+--------------------------------------------------
+Ring's Card 7: Ring +1, Max LP +400
+Ring's Card 8: Ring +1, Max LP +500
+
+Heal's Card
+--------------------------------------------------
+Heal's Card 3: Each Attack Heals 3 LP
+
+Vampire's Card
+--------------------------------------------------
+Vampire's Card 7: Each Attack Heals 2.6xlog4(Y) LP, Y = Total Damage of Attack
+
+Other LV8 Cards
+--------------------------------------------------
+Long Sword's Card 8: Sword Length +30
+Catapult's Card 8: Range +200
+Guide's Card 8: +80 Guide Range
+Bullet's Card 8: +200% Projectile Count
+Critical's Card 8: 20% chance AT +1000%
+Berserk Card 8: AT +400%, Damage Taken +200%
+Katana's Card 8: AT +60%, Sword Length +10

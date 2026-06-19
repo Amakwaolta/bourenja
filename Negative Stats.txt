@@ -1,0 +1,68 @@
+Negative Stats
+--------------------------------------------------
+New Concept which can be encountered when the new compos, Exchangers and Distributors are used. When a stat decrement caused by Exchangers/Distributors was greater than the original stat, the stat turns negative and the following will apply instead for each negative point of stat:
+
+Lower Limits 
+LP: 1
+Range: 1
+AT: 0 (any 0 damage non-poison attacks will deal 1 damage instead)
+
+Boxer
+STR: AT -1/3, LP -4
+DEX: AGI +1, LP -3
+MAG: LP -4
+
+Gladiator
+STR: Max AT -1, LP -4
+DEX: Min AT -1, LP -4
+MAG: LP -4
+
+Sniper
+STR: Range -1, LP -2
+DEX: AT -1/4, LP -3
+MAG: LP -3
+
+Magician
+STR: Range -1, LP -2
+DEX: AGI +3/2, LP -2
+MAG: AT -1%, BAT -1%, LP -2
+
+Priest
+STR: AT -1/4, Range -1/2, LP -3
+DEX: AGI +2, Range -1/2, LP -3
+MAG: Range -1, LP -2
+
+Gunner
+STR: AT -1%, LP -2
+DEX: AGI +1, LP -2
+MAG: Shooting Cost +1, LP -2
+
+Whipper
+STR: AT -1/3, LP -3
+DEX: AGI +1, LP -3
+MAG: LP -4
+
+Angel
+STR: AT -1/4, LP -4
+DEX: AGI +1, LP -2
+MAG: LP -4
+
+Dual Swordsman
+STR: Max AT -3/4, Max AGI +1, LP -4
+DEX: Min AT -3/4, Min AGI +1, LP -4
+MAG: LP -4
+
+Hammerer
+STR: AT -1%, LP -4
+DEX: AGI +3/2, LP -3
+MAG: LP -4
+
+Predator
+STR: AT -1/3, LP -3
+DEX: AGI +1, LP -3
+MAG: LP -4
+
+Wizard
+STR: AT -1%, BAT -1%, LP -3
+DEX: Mana Regen -0.1%/s (lose Mana equal to 0.1% of Max Mana per second), LP -2
+MAG: LP -4

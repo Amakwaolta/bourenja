@@ -1,0 +1,33 @@
+Main Weapon Extension (Gloves)
+--------------------------------------------------
+Thunder Gauntlet 9
+AT 13-26, AGI 15-38, Range 15, MP 50, Type Thunder, BAT 1-256 x7, Buy for $23000, Sells for $2875.
+7 Thunderbolts appear as magical attack.
+
+Fire Gauntlet 9
+AT 13-26, AGI 15-38, Range 15, MP 50, Type Fire, BAT 24-32 x8 (Burn 5%), Buy for $24000, Sells for $3000.
+8 Lasers appear as magical attack. Each laser lasts for 1.5s.
+
+Mach Gauntlet 9
+AT 192-216, AGI 3-3, Range 15, Type Physical, Buy for $25000, Sells for $3125.
+The fastest Glove. Creates a Three Arrow as an effect each punch.
+
+Poison Gauntlet 9
+AT 13-26, AGI 15-38, Range 15, MP 60, Type Poison, BAT 48-48 x8 (0.2s), Buy for $26000, Sells for $3250.
+8 Needles which poison enemies appear in a star formation as magical attack.
+
+Freeze Gauntlet 10
+AT 15-30, AGI 15-40, Range 15, MP 75, Type Freeze, BAT 90-120 x6 (0.5s), Buy for $27000, Sells for $3375.
+6 Blazes which freeze enemies appear in a star formation as magical attack.
+
+Needle Gauntlet 10
+AT 15-30, AGI 15-40, Range 15, MP 125, Type Physical, BAT 14-16 x120, Buy for $28000, Sells for $3500.
+Releases 120 tiny Needles. Needles bounce off terrain like those from the Needle Cestus 8.
+
+Spark Gauntlet 10
+AT 15-30, AGI 15-40, Range 15, MP 150, Type Thunder, BAT 1-333 x18, Buy for $29000, Sells for $3625.
+Releases 18 Shurikens with larger homing range and hitbox than mines from Spark Cestus 8.
+
+Sonic Gauntlet 10
+AT 192-216, AGI 4-6, Range 15, Type Physical, Buy for $30000, Sells for $3750.
+Deals splash damage while being as strong as but not as fast as the Mach Gauntlet 9. Creates 9 Waves as an effect each punch.

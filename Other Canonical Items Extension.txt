@@ -1,0 +1,76 @@
+Stones
+--------------------------------------------------
+White Stone 8: Max LP +750
+Red Stone 8: STR +50
+Green Stone 8: DEX +50
+Blue Stone 8: MAG +50
+Black Stone 8: STR DEX MAG +25
+
+Crystals
+--------------------------------------------------
+Red Crystal 8: AT +(10-30)
+Yellow Crystal 8: AT +100%
+Silver Crystal 8: +24 Physical Defense
+Purple Crystal 8: 75% Magical Defense
+Black Crystal 8: 75% Attack Block Rate
+
+Jewels
+--------------------------------------------------
+Ruby 8: Fire AT +(20-30)
+Garnet 8: Fire Projectile/Residue Lifespan +2.4s
+Sapphire 8: Ice AT +(30-50)
+Aquamarine 8: Ice Slow Effect +40%
+Topaz 8: Thunder AT +(0-77)
+Emerald 8: Poison AT +(8-8)
+Peridot 8: Poison Time +8s
+Diamond 8: Freeze Time +0.8s
+
+Medals
+--------------------------------------------------
+Bronze Medal 8: +125% Item Drop Rate
+Silver Medal 8: +125% ONIGIRI Drop Rate
+Gold Medal 8: +125% Gold Gain
+Iron Medal 8: +125% EXP Gain
+
+Charms
+--------------------------------------------------
+Ice Charm 5: 96% Ice Effect Block Rate
+Ice Charm 6: 97% Ice Effect Block Rate
+Ice Charm 7: 98% Ice Effect Block Rate
+Ice Charm 8: 99% Ice Effect Block Rate
+
+Poison Charm 5: 96% Poison Effect Block Rate
+Poison Charm 6: 97% Poison Effect Block Rate
+Poison Charm 7: 98% Poison Effect Block Rate
+Poison Charm 8: 99% Poison Effect Block Rate
+
+Freeze Charm 5: 96% Freeze Effect Block Rate
+Freeze Charm 6: 97% Freeze Effect Block Rate
+Freeze Charm 7: 98% Freeze Effect Block Rate
+Freeze Charm 8: 99% Freeze Effect Block Rate
+
+Spirits
+--------------------------------------------------
+Fire Spirit 5: 10% Enemy Death Flame Bolt, AT 80-120 x2, Burn 10%
+Releases 2 Bolts like the attack of the Yellow Boss Gel Tree (SF8) from the killed enemy. Each bolt lasts for 4s.
+
+Fire Spirit 6: 10% Enemy Death Heat Cloud, AT 120-160, Burn 10%
+A large heat cloud appears on the nearest enemy, dealing splash damage. The heat cloud lasts for 4s.
+
+Fire Spirit 7: 10% Enemy Death Ignition, AT 210-270 x10, Burn 10%
+10 large blazes appears around the nearest enemy. Each blaze lasts for 4s.
+
+Fire Spirit 8: 10% Enemy Death Intense Burn, AT 20-40 x10, Burn 100%
+10 large balls with piercing and homing capabilities appear from the nearest enemy. Each ball lasts for 4s.
+
+Thunder Spirit 5: 10% Enemy Death Thunder Storm, AT 1-999 x9
+9 Thunderbolts drop around the nearest enemy.
+
+Thunder Spirit 6: 10% Enemy Death Mega Shock, AT 1-5555
+A large shock appears on the nearest enemy, dealing splash damage.
+
+Thunder Spirit 7: 10% Enemy Death Electric Spike, AT 1-11111 x8
+8 spikes pops out from the nearest enemy, then homes into enemies. Works like the attack from the Yellow Big Coconut Snake (H2).
+
+Thunder Spirit 8: 10% Enemy Death Extreme Voltage, AT 1-111111
+A giant laser like the residue projectile of Magician's Thunderbolt 8 appears on the nearest enemy, dealing splash damage.

@@ -1,0 +1,33 @@
+Main Weapon Extension (Orbs)
+--------------------------------------------------
+Cluster Explosion 9
+AT 72-84 x12, AGI 80-90, Range 80, Type Fire, BAT 18-36 x4, Buy for $23000, Sells for $2875.
+Shoots 12 bolts with similar properties as the pellets from Spread Explosion 7. When the bolts hit an enemy it explodes into 4 elongated ball projectiles dealing splash damage.
+
+Icicle Blast 9
+AT 40-60 x5, AGI 80-90, Range 90, Type Ice, Slow 50%, Buy for $24000, Sells for $3000.
+Shoots 5 needles at a low arc. Has extreme slowing effects.
+
+Infernal Blaze 9
+AT 4-6 x30, AGI 80-90, Range 60, Type Fire, Burn 8%, Buy for $25000, Sells for $3125.
+Spews 30 blazes from the target enemy over 1s. Blazes bounce off terrain, homes into enemies and last for 2s.
+
+Electrocution 9
+AT 1-99 x60, AGI 80-90, Range 60, Type Thunder, Buy for $26000, Sells for $3250.
+Essentially an upgraded Electric Shock 5. Creates 60 terrain-piercing shocks close to a target enemy over 1.5s with slight homing range.
+
+Diamond Dust 10
+AT 20-24 x12, AGI 80-90, Range 90, Type Freeze, Freeze Time 0.6s, Buy for $27000, Sells for $3375.
+Creates 12 large Mines over 0.5s around the target enemy which does splash damage, freezing all enemies caught within the mines.
+
+Avalanche 10
+AT 360-480 x9, AGI 120-135, Range 90, Type Ice, BAT 30-45 x9 (Slow 30%), Buy for $28000, Sells for $3500.
+Drops 9 snowflakes like the Blizzard 2. Upon collision the snowflakes burst into 9 pellets dealing additional damage like the Ice Meteor 4's projectile.
+
+Meteor Storm 10
+AT 360-480 x9, AGI 120-135, Range 80, Type Fire, BAT 18-24 x5 (Burn 5%), Buy for $29000, Sells for $3625.
+Drops 9 bolts like the Blizzard 2. Upon collision the bolts burst into 5 fires falling down and linger to the ground. Each fire lasts for 2s and deals splash damage. Note that the bolts do NOT burn through enemies.
+
+Holy Light 10
+AT 1-222 x9, AGI 120-135, Range 90, Type Thunder, Buy for $30000, Sells for $3750.
+Summons 9 screen-cutting Lasers, similar to those from the Thunderbolt 8's residue, around the nearest enemy. Lasers deal splash damage.

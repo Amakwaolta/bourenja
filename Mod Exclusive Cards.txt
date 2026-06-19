@@ -1,0 +1,146 @@
+Flare's Card
+--------------------------------------------------
+New card which increases the amount of residue attacks.
+Restrictions: Weapons with magical attacks that produces more than 1 residue or produces residues at a rate, Swords, Dual Swords and Hammers which releases magical attacks one by one/set by set.
+LV1-5 Buyable for $4000xLV (LV2-5 only available at Island), sells for $500xLV.
+Flare's Card 1: +20% Residue Count/Production
+Flare's Card 2: +40% Residue Count/Production
+Flare's Card 3: +60% Residue Count/Production
+Flare's Card 4: +80% Residue Count/Production
+Flare's Card 5: +100% Residue Count/Production
+Flare's Card 6: +120% Residue Count/Production
+Flare's Card 7: +150% Residue Count/Production
+Flare's Card 8: +200% Residue Count/Production
+Equipping a high LV Flare's Card on certain weapons will also increase the spread of the residues. The list includes Ice Meteor 4, Volcano 2, Super Volcano 4, Time Explosion 5 and Napalm Bomb 6 (and possibly more). Equipping a high LV Flare's Card on Ice Meteor 4 may be counterproductive as the great spread of projectiles makes it much easier to miss due the the limited lifespan of residues and reduced accuracy. However doing so on Super Volcano 4 gives a potential for the flames to hit even flying enemies.
+
+Expansion's Card
+--------------------------------------------------
+New card which increases the size of projectiles, both the visible size and the hitbox size.
+Restrictions: Weapons which create projectiles.
+LV1-5 Buyable for $4000xLV (LV2-5 only available at Island), sells for $500xLV.
+Expansion's Card 1: +20% Projectile/Residue Size
+Expansion's Card 2: +40% Projectile/Residue Size
+Expansion's Card 3: +60% Projectile/Residue Size
+Expansion's Card 4: +80% Projectile/Residue Size
+Expansion's Card 5: +100% Projectile/Residue Size
+Expansion's Card 6: +120% Projectile/Residue Size
+Expansion's Card 7: +150% Projectile/Residue Size
+Expansion's Card 8: +200% Projectile/Residue Size
+Makes all projectiles, including residual attacks larger. Can be an effectile boost to weapons that deals splash damage or weapons that creates projectiles with low hit rates.
+
+Slider's Card
+--------------------------------------------------
+New card which allows projectiles to slide on terrain.
+Restrictions: Bows, Orbs, Guns, Whips, Rings, Tomes
+LV1-5 Buyable for $4000xLV (LV2-5 only available at Island), sells for $500xLV.
+Slider's Card 1: 25% chance Terrain Sliding
+Slider's Card 2: 50% chance Terrain Sliding
+Slider's Card 3: 75% chance Terrain Sliding
+Slider's Card 4: 100% chance Terrain Sliding
+Slider's Card 5: 100% chance Terrain Sliding, Projectile/Residue Lifespan +12.5%
+Slider's Card 6: 100% chance Terrain Sliding, Projectile/Residue Lifespan +25%
+Slider's Card 7: 100% chance Terrain Sliding, Projectile/Residue Lifespan +37.5%
+Slider's Card 8: 100% chance Terrain Sliding, Projectile/Residue Lifespan +50%
+This card can change projectiles with reflecting capabilities to have sliding capabilities, but if a Reflection Card is also equipped the Reflection Card takes precedence and makes projectiles reflect off terrain. Sliding capability has no effect if the projectile also has piercing capabilities. Projectile lifespan increment works like the Extension's Card.
+
+Shredder's Card
+--------------------------------------------------
+New card which increases the damage rate of Rings.
+Restrictions: Rings
+LV1-5 Buyable for $4000xLV (LV2-5 only available at Island), sells for $500xLV.
+Shredder's Card 1: 15% Higher Ring Damage Rate
+Shredder's Card 2: 30% Higher Ring Damage Rate
+Shredder's Card 3: 45% Higher Ring Damage Rate
+Shredder's Card 4: 60% Higher Ring Damage Rate
+Shredder's Card 5: 75% Higher Ring Damage Rate
+Shredder's Card 6: 90% Higher Ring Damage Rate
+Shredder's Card 7: 105% Higher Ring Damage Rate
+Shredder's Card 8: 120% Higher Ring Damage Rate
+Increases the frequency for rings to damage enemies, in which most rings is set to a rate of 2 hit/s in each ring. In other words it reduces cooldown that a ring can deal damage again after hitting an enemy.
+
+Extension's Card
+--------------------------------------------------
+New card which increases the time that a projectile can remain on screen.
+Restrictions: Weapons which create projectiles.
+LV1-5 Buyable for $4000xLV (LV2-5 only available at Island), sells for $500xLV.
+Extension's Card 1: Projectile/Residue Lifespan +12.5%
+Extension's Card 2: Projectile/Residue Lifespan +25%
+Extension's Card 3: Projectile/Residue Lifespan +37.5%
+Extension's Card 4: Projectile/Residue Lifespan +50%
+Extension's Card 5: Projectile/Residue Lifespan +62.5%
+Extension's Card 6: Projectile/Residue Lifespan +75%
+Extension's Card 7: Projectile/Residue Lifespan +90%
+Extension's Card 8: Projectile/Residue Lifespan +120%
+This card is useless on many weapons where their projectiles usually hit the enemies immediately or disappears when hitting the terrain. More useful on long lasting projectiles that usually remain active throughout its lifespan such as Atomic Ray 5, or projectiles that cannot reach enemies further away such as Ice Orb 6. This card's effect applies to both primary projectiles and their residues.
+
+Rubber's Card
+--------------------------------------------------
+The card hidden within SR codes is now alive and work as it says! Increases the arm length and hence the range of Boxers. Sells for $500xLV.
+Restrictions: Gloves.
+Rubber's Card 1: Arm Length +3
+Rubber's Card 2: Arm Length +5
+Rubber's Card 3: Arm Length +8
+Rubber's Card 4: Arm Length +10
+Rubber's Card 5: Arm Length +10, AT +20%
+Rubber's Card 6: Arm Length +10, AT +30%
+Rubber's Card 7: Arm Length +10, AT +40%
+Rubber's Card 8: Arm Length +10, AT +50%
+Increases the arm length of the Boxer, giving the Boxer a longer reach for punching enemies. LV5+ of this card will also increase AT of the user by the same magnitude of a Yellow Crystal of 4 LVs lower.
+
+Magic Amp's Card
+--------------------------------------------------
+New Card which gives a massive boost to the AT of Bonus attacks at the expense of increased MP requirement.
+Restrictions: Weapons which have MP-based magical attacks.
+Sells for $625xLV. Only even LVs are available as a way to limit its flexibility.
+Magic Amp's Card 2: +100% MP, +200% Bonus AT
+Magic Amp's Card 4: +200% MP, +400% Bonus AT
+Magic Amp's Card 6: +300% MP, +600% Bonus AT
+Magic Amp's Card 8: +400% MP, +800% Bonus AT
+Highly useful on eligible characters having high MAG wielding weapons which have a relatively low MP cost, or weapons which have prolonged effects such as type Poison weapons. Also provides a whole new set of possible builds to eligible classes.
+
+Focus's Card
+--------------------------------------------------
+New Card which focuses projectiles.
+Restrictions: Bows, Orbs, Guns, Whips, Blowguns and Tomes which fire more than 1 projectile using specific attack modes. (See list below)
+Sells for $625xLV. Only LVs 3, 5 and 7 are available.
+Focus's Card 3: Focused Projectiles
+Focus's Card 5: Focused Projectiles, +50% Projectile Count
+Focus's Card 7: Focused Projectiles, +75% Projectile Count
+Makes some weapons with great spread deal focused damage. Focusing effect is useless if the weapon already has focused attacks like the Thunder Spear 4. Projectile increment on this card is calculated before the Bullet's Card.
+
+Eligible Weapons list
+Bows: 
+Any Bow that fires more than 1 arrow.
+Orbs: 
+Thunder 1, Blizzard 2, Thunder Storm 2, Fire Rise 3, Thunder Spear 4, Inferno 5, Magical Blasts 6, Spread Explosion 7, Ice Bolt 7, Hell Fire 7, Force Shock 7, Ice Missile 8, Cluster Explosion 9, Icicle Blast 9, Energy Bolt 9, Avalanche 10, Meteor Storm 10, Holy Light 10
+Guns: 
+Shotgun 1, Homing Laser 2, Remington 3, Homing Laser Beam 4, 3-round Burst 5, Mini Uzi 5, Scattergun 5, Pierce Homing 6, Micro Uzi 7, Triple Shotgun 7, Homing Laser Wave 8, Death Ray 8, MP5 9, Mossberg 590 9, Homing Laser Storm 10
+Whips: 
+Stone Whip 1, Fire Whip 1, Thunder Whip 1, Ice Whip 2, Thorn Whip 2, Stone Chain 3, Thunder Chain 3, Hail Chain 3, Ice Chain 4, Thorn Chain 4, Flame Chain 4, Stone Flail 5, Thunder Flail 5, Thorn Flail 6, Holy Light Flail 6, Stone Morning Star 7, Thunder Morning Star 7, Thorn Morning Star 8, Frozen Morning Star 8, Stone Energy Whip 9, Fire Energy Whip 9, Thunder Energy Whip 9, Holy Light Energy Whip 9, Thorn Energy Whip 10
+Blowguns:
+The Sandman 7
+Tomes:
+Flame 1, Zap 1, Fireball 2, Hail 3, Stone Blast 3, Snowflake 4, Poison Rain 4, Bomb Storm 5, Shocker 5, Triple Meteor 6, Gravity Field 6, Crystal Downfall 7, Toxic Radiation 8, Forbidden Spells 8, Rapid Explosion 9, Scalding Ice Flare 9, Venom Rain 9, Deadly Toxic 10
+
+For Code-Readers: The attack modes supported by this Card are 3, 4, 5 and 8.
+
+Satan's Card
+--------------------------------------------------
+The card that has been hidden within the old SR versions is now alive! Has the power to insta-kill any non-boss enemy. Incompatible with Souls and the Devil's Card. Sells for $5000.
+Restrictions: Gloves, Swords, Whips, Dual Swords, Hammers. 
+Satan's Card 6: 2%/4%/8% chance Instant Death
+2% chance for Gloves and Dual Swords. 4% chance for Swords and Whips. 8% chance for Hammers. This card makes characters able to instantly kill any non-boss enemy with a low chance. When the effect is triggered a large red shuriken appears which deals 9999999 damage to the enemy. The damage is shown in dark red numbers. All bosses are immune to this attack and will only take 1 damage from this attack.
+
+Devil's Card
+--------------------------------------------------
+Another card that has been hidden within the old SR versions is now alive! Has the power to deal extra damage which is proportional to the enemy's current LP. Incompatible with Souls and the Satan's Card. Sells for $3000.
+Restrictions: Gloves, Swords, Whips, Dual Swords, Hammers. 
+Devil's Card 4: 5%/10%/20% chance 30% LP Damage
+5% chance for Gloves and Dual Swords. 10% chance for Swords and Whips. 20% chance for Hammers. This card makes characters able to deal extra damage to enemies based on the enemy's current LP. When the effect is triggered a large purple shuriken appears which removes 30% of the enemy's current LP. The damage is shown in purple numbers. All bosses are resistant to this attack and will only lose 6% of its current LP from this attack.
+
+Gambler's Card
+--------------------------------------------------
+New Card which gives extreme defence at the cost of losing a hefty amount of LP. Imcompatible with Black Crystal. Sells for $5000.
+Restrictions: None.
+Gambler's Card 8: 99.7% Attack Block Rate, 99.7% Poison Effect Block Rate, Max LP -99%
+Max LP reduction is calculated after all other Max LP modifications and as always Max LP cannot go below 1.

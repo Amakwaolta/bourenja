@@ -1,0 +1,350 @@
+Stones
+--------------------------------------------------------------------------
+White Stone 8: Cyan Demon Bat CV10 (2.5%)
+Red Stone 8: Red Cap Snake CV11 (2.5%)
+Green Stone 8: Green Cap Snake CV11 (3.33%)
+Blue Stone 8: Blue Coconut Bat CV10 (2.5%)
+Black Stone 8: Orange Smiley Walker CV11 (2.5%)
+
+Crystals
+--------------------------------------------------------------------------
+Red Crystal 8: Tan Roundhead Dragon F7 (0.55%)
+Yellow Crystal 8: Red Roundhead Dragon F7 (1.67%)
+Silver Crystal 8: Tan Roundhead Spider F8 (1.67%)
+Purple Crystal 8: Purple Cap Mushroom F7 (1.33%)
+Black Crystal 8: Red Roundhead Spider F8 (1.33%)
+
+Blue Crystal 1: Blue Fairy Snake GL4 (1%)
+Blue Crystal 2: Purple Skull Bat CV2 (1.67%)
+Blue Crystal 3: Blue Roundhead Fish SM3 (1.25%)
+Blue Crystal 4: Cyan Box Eel D5 (5%)
+Blue Crystal 5: Blue Diamond Wheel M1 (10%)
+Blue Crystal 6: Blue Roundhead Stickman F5 (1.25%)
+Blue Crystal 7: Cyan Gel Tree CV7 (0.42%)
+Blue Crystal 8: Green Cap Mushroom F8 (0.83%)
+
+Jewels
+--------------------------------------------------------------------------
+Ruby 8: Red Demon Snake WL5 (2.22%)
+Garnet 8: Orange Smiley Tree WL4 (2.22%)
+Sapphire 8: Blue Demon Snake WL5 (0.33%)
+Aquamarine 8: Cyan Roundhead Spider WL6 (0.83%)
+Topaz 8: Yellow Demon Block WL5 (1.11%)
+Emerald 8: Green Smiley Block WL4 (0.33%)
+Peridot 8: Green Gel UFO WL6 (0.42%)
+Diamond 8: White Roundhead Germ WL6 (1.67%)
+
+Spinel 1: Red Fairy Snake GL4 (3.33%)
+Spinel 2: Yellow Skull Stickman CV3 (1.67%)
+Spinel 3: Red Boss Roundhead Tree MG2 (10%)
+Spinel 4: Red Skull Spider B1 (0.67%)
+Spinel 5: White Big Vampire Snake SF7 (5%)
+Spinel 6: Orange Roundhead Snake H3 (0.5%)
+Spinel 7: Red Diamond Snake CV8 (5%)
+Spinel 8: Pink Gel Snake WL4 (1.11%)
+
+Cursed Gem 7: Green Boss Coconut Block DC (6.67%)
+
+Medals
+--------------------------------------------------------------------------
+Bronze Medal 8: Blue Coconut Germ DL (0.22%)
+Silver Medal 8: Pink Roundhead Block DL (1.11%)
+Gold Medal 8: Yellow Gel Eel DL (1.67%)
+Iron Medal 8: Orange Boss Smiley Walker (10%)
+
+Cobalt Medal 1: Pink Skull Tree Lake (1%)
+Cobalt Medal 2: Purple Cap Mushroom F2 (1.11%)
+Cobalt Medal 3: Pink Gel Spider ??? (0.5%)
+Cobalt Medal 4: White Box Eel Oasis (1.25%)
+Cobalt Medal 5: White Big Fairy Snake FL (3.33%)
+Cobalt Medal 6: Purple Coconut Germ !!! (1%)
+Cobalt Medal 7: Blue Box Copter BL (2%)
+Cobalt Medal 8: Blue Coconut Germ DL (0.22%)
+
+Charms
+--------------------------------------------------------------------------
+Ice Charm 5: Blue Diamond Mushroom SF7 (1%)
+Ice Charm 6: Cyan Big Triangle Cactus H3 (5%)
+Ice Charm 7: Orange Box Fish BL (1%)
+Ice Charm 8: Blue Big Gel Snake HC4 (5%)
+
+Poison Charm 5: Orange Castle Snake SF7 (0.5%)
+Poison Charm 6: Green Big Diamond Tree H2 (5%)
+Poison Charm 7: Green Box Tree BL (2%)
+Poison Charm 8: Green Big Smiley Snake HC4 (5%)
+
+Freeze Charm 5: White Boss Castle Snake SF7 (10%)
+Freeze Charm 6: Cyan Big Triangle Cactus H3 (5%)
+Freeze Charm 7: Blue Box Copter BL (1%)
+Freeze Charm 8: Cyan Roundhead Block HC4 (2.5%)
+
+Spirits
+--------------------------------------------------------------------------
+Fire Spirit 5: Yellow Boss Gel Tree SF8 (5%)
+Fire Spirit 6: Grey Boss Box Snake F6 (10%)
+Fire Spirit 7: Yellow Box Germ CV8 (2.5%)
+Fire Spirit 8: Red Boss Smiley Tree WL4 (3.33%)
+
+Thunder Spirit 5: Orange Boss Castle Stickman SF6 (1%)
+Thunder Spirit 6: Green Boss Gel Bouncer F4 (10%)
+Thunder Spirit 7: Yellow Box Germ CV7 (2.5%)
+Thunder Spirit 8: White Boss Smiley Snake HC4 (10%)
+
+Cards
+--------------------------------------------------------------------------
+Quick's Card 6: Grey Boss Triangle Tree H2 (10%)
+Quick's Card 8: Grey Boss Smiley Walker CS (10%)
+
+Long Sword's Card 8: Purple Boss Cap Mushroom F7 (10%)
+
+Catapult's Card 8: Red Boss Gel UFO WL6 (10%)
+
+Pierce's Card 5: White Boss Vampire Tree SF5 (10%)
+Pierce's Card 6: Orange Boss Roundhead Walker H3 (10%)
+Pierce's Card 7: Brown Boss Box Germ BL (10%)
+Pierce's Card 8: Green Fairy Fish CV9 (6.67%)
+
+Guide's Card 8: Red Boss Smiley Tree WL4 (3.33%)
+
+Bullet's Card 8: Green Boss Roundhead Snake WL8 (1.11%)
+
+Explosion's Card 5: Grey Boss Castle Wheel M1 (10%)
+Explosion's Card 6: Grey Boss Box Snake F6 (10%)
+Explosion's Card 7: Yellow Boss Coconut Walker IF2 (10%)
+Explosion's Card 8: Orange Boss Smiley Wheel WL1 (10%)
+
+Critical's Card 8: Grey Boss Box Block WL7 (10%)
+
+Berserk Card 8: Red Boss Diamond Block HC5 (10%)
+
+Big Card 6: White Boss Demon Eel B4 (10%)
+Big Card 7: Red Boss Gel Tree CV8 (10%)
+Big Card 8: White Boss Smiley Snake HC4 (10%)
+
+Knockback's Card 6: Pink Boss Coconut Germ !!! (10%)
+Knockback's Card 7: Green Boss Cap Tree CV7 (10%)
+Knockback's Card 8: Blue Boss Demon Snake WL5 (1.11%)
+
+Reflection Card 5: Pink Boss Roundhead Tree SF9 (10%)
+Reflection Card 6: Cyan Boss Triangle Walker IF1 (10%)
+Reflection Card 7: Red Boss Box Wheel H7 (10%)
+Reflection Card 8: White Boss Coconut Bat CV10 (10%)
+
+Ring's Card 7: Green Boss Coconut Spider IF3 (10%)
+Ring's Card 8: Purple Boss Smiley Tree WL3 (10%)
+
+Katana's Card 8: Green Skull Fish CV11 (6.67%)
+
+Heal's Card 3: Green Smiley Fish CV10 (6.67%)
+
+Flare's Card 1: Red Boss Smiley Tree GL5 (3.33%)
+Flare's Card 2: White Boss Skull Bat CV2 (10%)
+Flare's Card 3: Grey Boss Mask Fish SM4 (10%)
+Flare's Card 4: Red Boss Box Tree D8 (10%)
+Flare's Card 5: White Boss Castle Snake SF7 (10%)
+Flare's Card 6: Grey Boss Triangle Walker H1 (10%)
+Flare's Card 7: Green Boss Coconut Spider IF3 (10%)
+Flare's Card 8: Red Boss X Walker HC6 (10%)
+
+Expansion's Card 1: White Boss X Walker HC1 (10%)
+Expansion's Card 2: Grey Boss Roundhead Walker S1 (10%)
+Expansion's Card 3: Olive Boss Star Tree MG3 (10%)
+Expansion's Card 4: White Boss Vampire Fish B1 (10%)
+Expansion's Card 5: White Boss Castle Stickman SF2 (10%)
+Expansion's Card 6: Cyan Boss Triangle Walker IF1 (10%)
+Expansion's Card 7: White Boss Skull Stickman HG (10%)
+Expansion's Card 8: Orange Boss Smiley Walker DL (10%)
+
+Slider's Card 1: Blue Boss Fairy Snake GL4 (2%)
+Slider's Card 2: White Boss Smiley Walker CV1 (10%)
+Slider's Card 3: Blue Boss Roundhead Eel SM3 (2%)
+Slider's Card 4: Yellow Boss Box Eel Oasis (10%)
+Slider's Card 5: White Boss X Walker SF1 (10%)
+Slider's Card 6: Tan Boss Diamond Tree H4 (10%)
+Slider's Card 7: Pink Boss Triangle Snake H8 (10%)
+Slider's Card 8: White Boss Smiley Walker CV11 (10%)
+
+Shredder's Card 1: Orange Boss Skull Dragon GL3 (10%)
+Shredder's Card 2: Green Boss Cap Mushroom F1 (3.33%)
+Shredder's Card 3: Pink Boss Gel Spider ??? (10%)
+Shredder's Card 4: Yellow Boss Diamond Cactus D3 (2%)
+Shredder's Card 5: White Boss Castle Stickman SF4 (10%)
+Shredder's Card 6: Grey Boss Triangle Tree H2 (10%)
+Shredder's Card 7: Green Boss Cap Tree CV7 (10%)
+Shredder's Card 8: Green Boss Cap Mushroom F8 (3.33%)
+
+Extension's Card 1: Grey Boss Skull Bat GL2 (10%)
+Extension's Card 2: Orange Boss Skull Stickman CV3 (2.5%)
+Extension's Card 3: Tan Boss Roundhead Eel SM1 (10%)
+Extension's Card 4: Orange Boss Vampire Eel B2 (1.25%)
+Extension's Card 5: Yellow Boss Gel Tree SF8 (5%)
+Extension's Card 6: Orange Boss Roundhead Walker H3 (10%)
+Extension's Card 7: Red Boss Gel Tree CV8 (10%)
+Extension's Card 8: Orange Boss Roundhead Stickman CV9 (1.67%)
+
+Rubber's Card 1: Purple Boss Smiley Walker GL6 (10%)
+Rubber's Card 2: Purple Boss Cap Mushroom F2 (10%)
+Rubber's Card 3: White Boss Roundhead Mushroom MG1 (10%)
+Rubber's Card 4: White Boss Skull Zombie D6 (10%)
+Rubber's Card 5: Red Boss Shield Tree CV6 (10%)
+Rubber's Card 6: Grey Boss Demon Stickman F5 (10%)
+Rubber's Card 7: Yellow Box Germ CV7 (2.5%)
+Rubber's Card 8: Grey Boss Roundhead Zombie WL2 (0.33%)
+
+Magic Amp's Card 2: Grey Boss X Walker GLA (6.67%)
+Magic Amp's Card 4: Green Boss Diamond Tree DA (6.67%)
+Magic Amp's Card 6: Grey Boss Triangle Walker IFA (6.67%)
+Magic Amp's Card 8: Grey Boss Roundhead Snake WLA (1.11%)
+
+Focus's Card 3: White Boss Roundhead Snake SA (6.67%)
+Focus's Card 5: White Boss Shield Stickman SFA (6.67%)
+Focus's Card 7: Purple Boss Coconut Walker HA (6.67%)
+
+Devil's Card 4: Pyramid Boss (5%)
+
+Satan's Card 6: Ice Castle Boss (5%)
+
+Vampire's Card 7: Hell Castle Boss (20%)
+
+Souls
+--------------------------------------------------------------------------
+Fire Soul 1: Orange Smiley Tree GL5 (1.42%)
+Fire Soul 2: Orange Skull Stickman CV3 (1.11%)
+Fire Soul 3: Orange Mask Eel SM3 (1.43%)
+Fire Soul 4: Orange Diamond Snake D7 (1.11%)
+Fire Soul 5: Orange X Walker SF6 (0.28%)
+Fire Soul 6: Orange Roundhead Snake H3 (0.28%)
+Fire Soul 7: Orange Diamond Snake CV8 (4%)
+Fire Soul 8: Orange Smiley Walker WL7 (1.11%)
+
+Thunder Soul 1: Green Smiley Tree GL5 (0.56%)
+Thunder Soul 2: Yellow Skull Fish CV1 (6.67%)
+                Yellow Smiley Fish CV2 (6.67%)
+                Yellow Fairy Fish CV3 (6.67%)
+Thunder Soul 3: Yellow Roundhead Fish SM4 (0.83%)
+Thunder Soul 4: White Box Zombie D7 (0.56%)
+Thunder Soul 5: Pink X Walker SF6 (0.28%)
+Thunder Soul 6: Yellow Big Coconut Snake H2 (3.33%)
+Thunder Soul 7: Yellow Cap Tree CV8 (0.25%)
+Thunder Soul 8: Yellow X Walker WL7 (1.67%)
+
+Ice Soul 1: Pink Skull Snake GL5 (0.74%)
+Ice Soul 2: Purple Skull Bat CV2 (1.11%)
+Ice Soul 3: Blue Roundhead Fish SM3 (0.74%)
+Ice Soul 4: Blue Diamond Bat D7 (0.74%)
+Ice Soul 5: Yellow Mask Tree SF6 (0.55%)
+Ice Soul 6: Cyan Big Triangle Cactus H3 (2.5%)
+Ice Soul 7: Blue Cap Tree CV8 (0.25%)
+Ice Soul 8: Blue Roundhead Wheel WL7 (1.11%)
+
+Dusts
+--------------------------------------------------------------------------
+Crimson Dust 1: Green Skull Dragon GL3 (1.25%)
+Crimson Dust 2: Red Cap Snake CV1 (2%)
+Crimson Dust 3: Pink Gel Eel SM1 (3.33%)
+Crimson Dust 4: Red Skull Spider B1 (0.67%)
+Crimson Dust 5: Red Diamond Tree M1 (0.67%)
+Crimson Dust 6: Orange Triangle Stickman H1 (5%)
+Crimson Dust 7: Orange Box Fish BL (2%)
+Crimson Dust 8: Orange Gel UFO WL3 (2.5%)
+
+Jonquil Dust 1: Green Skull Bat GL3 (1.25%)
+Jonquil Dust 2: Tan Skull Bat F2 (1.67%)
+Jonquil Dust 3: Pink Roundhead Fish SM2 (2%)
+Jonquil Dust 4: Olive Gel Dragon B1 (1.25%)
+Jonquil Dust 5: Olive Diamond Tree M1 (0.67%)
+Jonquil Dust 6: Orange Roundhead Tree F3 (0.67%)
+Jonquil Dust 7: Yellow Cap Tree CV8 (0.33%)
+Jonquil Dust 8: Yellow Big Smiley Wheel WL1 (3.33%)
+
+Chartreuse Dust 1: Red Big Skull Dragon GL3 (3.33%)
+Chartreuse Dust 2: Green Cap Snake CV1 (1.67%)
+Chartreuse Dust 3: Green Roundhead Bat S4 (0.67%)
+Chartreuse Dust 4: Cyan Fairy Bat B2 (1.25%)
+Chartreuse Dust 5: Grey Big Castle Stickman SF2 (1.11%)
+Chartreuse Dust 6: Pink Coconut Copter F3 (3.33%)
+Chartreuse Dust 7: Green Box Tree BL (4%)
+Chartreuse Dust 8: Green Roundhead Wheel WL1 (0.5%)
+
+Mint Dust 1: Green Smiley Walker HC1 (1.25%)
+Mint Dust 2: White Boss Smiley Walker CV1 (10%)
+Mint Dust 3: Pink Roundhead Eel SM1 (1.11%)
+Mint Dust 4: Blue Fairy Dragon B2 (1.25%)
+Mint Dust 5: Pink Big Castle Stickman SF2 (1.67%)
+Mint Dust 6: White Triangle Stickman H1 (0.33%)
+Mint Dust 7: Cyan Gel Tree CV7 (0.42%)
+Mint Dust 8: Cyan Gel Digger WL1 (2.5%)
+
+Cobalt Dust 1: Green Smiley Snake GL3 (1.25%)
+Cobalt Dust 2: Pink Fairy Bat CV2 (1.67%)
+Cobalt Dust 3: Pink Gel Walker SM2 (2%)
+Cobalt Dust 4: White Big Vampire Fish B1 (5%)
+Cobalt Dust 5: Blue Diamond Wheel M1 (10%)
+Cobalt Dust 6: Grey Triangle Walker H1 (5%)
+Cobalt Dust 7: Blue Box Copter BL (2%)
+Cobalt Dust 8: Cyan Big Smiley Stickman WL2 (3.33%)
+
+Ghost Dust 1: Brown X Walker HC1 (1.25%)
+Ghost Dust 2: Purple Cap Mushroom F2 (1.67%)
+Ghost Dust 3: White Roundhead Fish SM1 (1.11%)
+Ghost Dust 4: White Vampire Eel B2 (1.25%)
+Ghost Dust 5: White Castle Stickman SF2 (0.37%)
+Ghost Dust 6: Pink Roundhead Mushroom F3 (0.67%)
+Ghost Dust 7: Pink Gel Tree CV7 (0.42%)
+Ghost Dust 8: Grey Big Roundhead Spider WL2 (3.33%)
+
+Exchangers and Distributors
+--------------------------------------------------------------------------
+STR Exchanger 1: Pink Skull Tree HC3 (1.25)
+STR Exchanger 2: Red Roundhead Walker S1 (5%)
+STR Exchanger 3: Red Roundhead Tree MG2 (4%)
+STR Exchanger 4: Red Box Eel Oasis (1%)
+STR Exchanger 5: Pink Diamond Dragon SF5 (0.5%) 
+STR Exchanger 6: Orange Box Digger H4 (1.25%)
+STR Exchanger 7: Grey Big Mask Eel H8 (10%)
+STR Exchanger 8: Red Diamond Tree HC5 (3.33%)
+
+DEX Exchanger 1: Green Skull Tree HC2 (1.25%)
+DEX Exchanger 2: Green Roundhead Walker S1 (1%)
+DEX Exchanger 3: Green Gel Wheel MG3 (0.5%)
+DEX Exchanger 4: Green Diamond Eel Oasis (1%)
+DEX Exchanger 5: Green Big Vampire Mushroom SF4 (2.5%)
+DEX Exchanger 6: Green Roundhead Digger H4 (0.5%)
+DEX Exchanger 7: Green Box Wheel H7 (0.25%)
+DEX Exchanger 8: Green Big Roundhead Zombie HC6 (3.33%)
+
+MAG Exchanger 1: Blue Skull Bat HC2 (1.25%)
+MAG Exchanger 2: Blue Roundhead Tree S1 (1.25%)
+MAG Exchanger 3: Pink Gel Spider ??? (0.2%)
+MAG Exchanger 4: White Box Eel Oasis (1%)
+MAG Exchanger 5: Pink Gel Tree SF3 (2.5%)
+MAG Exchanger 6: Cyan Triangle Digger H4 (0.5%)
+MAG Exchanger 7: Brown Big Box Wheel H7 (3.33%)
+MAG Exchanger 8: Green Roundhead Zombie HC6 (0.83%)
+
+STR Distributor 1: Blue Big Skull Bat HC2 (2.5%)
+STR Distributor 2: Cyan Roundhead Walker S1 (1.25%)
+STR Distributor 3: Yellow Roundhead Bat MG2 (0.83%)
+STR Distributor 4: White Roundhead Zombie D6 (0.83%)
+STR Distributor 5: Cyan Shield Spider SF3 (0.5%) 
+STR Distributor 6: White Demon Stickman IF1 (0.25%)
+STR Distributor 7: Cyan Triangle Snake H8 (0.2%)
+STR Distributor 8: White X Walker HC6 (1.67%)
+
+DEX Distributor 1: Green Big Smiley Snake HC3 (2.5%)
+DEX Distributor 2: White Roundhead Snake S2 (1.25%)
+DEX Distributor 3: Olive Roundhead Stickman MG3 (1.25%)
+DEX Distributor 4: White Skull Bat D6 (0.83%)
+DEX Distributor 5: Pink Roundhead Dragon SF5 (0.5%)
+DEX Distributor 6: Pink Demon Stickman IF1 (0.25%)
+DEX Distributor 7: Grey Big Diamond Germ H8 (10%)
+DEX Distributor 8: Yellow Gel Bouncer HC5 (0.33%)
+
+MAG Distributor 1: Green Big Fairy Snake HC3 (2.5%)
+MAG Distributor 2: White Roundhead Bat S2 (1.25%)
+MAG Distributor 3: Olive Star Mushroom MG3 (1.25%)
+MAG Distributor 4: White Box Zombie D7 (0.83%)
+MAG Distributor 5: Brown Shield Bat SF3 (0.5%)
+MAG Distributor 6: White Triangle Cactus H3 (0.31%)
+MAG Distributor 7: Yellow Big Box Wheel H7 (3.33%)
+MAG Distributor 8: Yellow Big Gel Bouncer HC5 (0.67%)

@@ -1,0 +1,1 @@
+Since canonical SR ver17.1 ha55ii raised the FPS of the game from 50 to 60. In this mod I took it further, and included a toggle to swap between the 2 FPSes. Note that ALL Time values in-game are based on 50FPS, and to convert these into 60FPS time values, multiply the time in seconds by 50 to obtain the number of frames, then divide by 60 to obtain time in seconds.

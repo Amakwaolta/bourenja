@@ -1,0 +1,20 @@
+MFC
+A stat for Rings only which is NOT shown in game. This refers to the minimum number of frames between succesive hits from the same ring thrown. Can be decreased by using Shredder's Card.
+
+@X%
+This is a notation for weapons whose projectiles leaves residues as it travels. Notated after the residue's AT. X% refers to the chance of the projectile leaving a residue for every frame.
+
+Critical X%, +Y%
+This is a notation for weapons whse PAT have a chance to be increased as if a Critical's Card is equipped. X% is the effect activation chance and +Y% is the AT boost when the effect activates.
+
+Knockback X
+This is a stat for Hammers. Not shown in weapons but can be seen in the stat panel for Hammerers. The higher the Knockback value the stronger the effect. Can be increased by STR.
+
+Warcry MP X
+This is a stat for Blowguns. Shown as MP in game for Blowguns. Only weapons with this stat can activate the Warcry effect for Predators when MP is charged. X is the required MP amount. 
+
+Mana Cost
+This is a stat for Tomes. Shown as MP in game for Tomes. Each time the Wizard attacks this cost is subtracted from the Wizard's Mana Pool. Wizards cannot attack if current Mana is less than the Tome's Mana Cost until Mana is regenerated to at least equal to the Mana Cost.
+
+BAT follows PAT
+This is a property for weapons. While not explicitly indicated in game, the weapon's BAT will always follow PAT. This allows some methods to increase only PAT also affect BAT. Example: Rapid Explosion 9 has this property and BAT = PAT = 50-75. At 50 STR (Max AT +100%) for the Wizard equipping this weapon BAT = PAT = 50-(75*200%) = 50-150.

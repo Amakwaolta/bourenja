@@ -1,0 +1,170 @@
+Notes
+-------------------------------------------------- 
+In game abbreviations are as follows, where XXXXX is a non-empty word:
+XXXXX Dual Sword => XXXXX D.Sword
+XXXXX Dual Rapier => XXXXX D.Rapier
+XXXXX Dual Saber => XXXXX D.Saber
+XXXXX Dual Spikesword => XXXXX DSS
+XXXXX Dual Beamsword => XXXXX DBS
+
+Main Weapon List (Dual Swords)
+--------------------------------------------------
+Dual Sword
+AT 1-4, AGI 18-24, Range 20, Type Physical, Buy for $100, Sells for $12.
+Starting Weapon.
+
+Iron Dual Sword 1
+AT 3-6, AGI 18-24, Range 20, Type Physical, Buy for $250, Sells for $31.
+
+Thunder Dual Sword 1
+AT 4-8, AGI 18-24, Range 20, MP 10, Type Thunder, BAT 1-15 x2x1, Buy for $500, Sells for $62.
+2 Thunder bolts appear as magical attack.
+
+Poison Dual Sword 1
+AT 4-8, AGI 18-24, Range 20, MP 10, Type Poison, BAT 1-1 x1x1 (0.5s), Buy for $750, Sells for $93.
+A green spear appears as magical attack.
+
+Fire Dual Sword 1
+AT 4-8, AGI 18-24, Range 20, MP 10, Type Fire, BAT 4-5 x1x3 (Burn 2%), Buy for $1000, Sells for $125.
+3 Fire drop down from the sword as Magical attack. Each fire lasts for 1s. 
+
+Ice Dual Sword 2
+AT 6-9, AGI 18-24, Range 20, MP 15, Type Ice, BAT 6-12 x2x1 (Slow 25%), Buy for $1500, Sells for $187. 
+Releases 2 one arrows as magical attack.
+
+Long Dual Sword 2
+AT 8-16, AGI 18-24, Range 25, Type Physical, Buy for $2000, Sells for $250.
+Has a longer range than most Dual Swords.
+
+Spark Dual Sword 2
+AT 6-9, AGI 18-24, Range 20, MP 60, Type Thunder, BAT 1-22 x6x1, Buy for $2500, Sells for $312.
+Releases 6 pellets that slide on terrain like the Spark Glove 2.
+
+Toxic Dual Sword 2
+AT 6-9, AGI 18-24, Range 20, MP 60, Type Poison, BAT 1-1 x1x30 (0.7s), Buy for $3000, Sells for $375.
+Releases 30 poison clouds one by one like the Flame Sword 2.
+
+Dual Rapier 3
+AT 16-24, AGI 22-28, Range 20, Type Physical, Buy for $4000, Sells for $500.
+
+Thunder Dual Rapier 3
+AT 7-13, AGI 22-28, Range 20, MP 20, Type Thunder, BAT 1-33 x2x1, Buy for $4500, Sells for $562.
+2 lasers appear as magical attack.
+
+Poison Dual Rapier 3
+AT 8-14, AGI 22-28, Range 20, MP 25, Type Poison, BAT 2-2 x1x1 (0.7s), Buy for $5000, Sells for $625.
+A green two arrow appears as magical attack.
+
+Fire Dual Rapier 3
+AT 9-15, AGI 22-28, Range 20, MP 25, Type Fire, BAT 7-9 x1x3 (Burn 3%), Buy for $5500, Sells for $687.
+3 heat gases are released as Magical attack like the Fire Sabel 3. Each heat gas lasts for 1.5s. 
+
+Ice Dual Rapier 4
+AT 10-16, AGI 22-28, Range 20, MP 30, Type Ice, BAT 18-24 x3x1 (Slow 25%), Buy for $6000, Sells for $750. 
+Releases 3 needles in a circular formation as magical attack.
+
+Long Dual Rapier 4
+AT 16-32, AGI 22-28, Range 30, Type Physical, Buy for $6500, Sells for $812.
+Has a longer range than most Dual Swords.
+
+Spark Dual Rapier 4
+AT 10-16, AGI 22-28, Range 20, MP 90, Type Thunder, BAT 1-44 x8x1, Buy for $7000, Sells for $875.
+Releases 8 lasers that bounce on terrain. The lasers also has a very small homing range.
+
+Toxic Dual Rapier 4
+AT 10-16, AGI 22-28, Range 20, MP 90, Type Poison, BAT 3-3 x1x60 (0.9s), Buy for $7500, Sells for $937.
+Releases 60 poison mines one by one like the Toxic Dual Sword 2.
+
+Dual Saber 5
+AT 45-70, AGI 26-32, Range 20, Type Physical, Buy for $8000, Sells for $1000.
+
+Thunder Dual Saber 5
+AT 12-18, AGI 26-32, Range 20, MP 30, Type Thunder, BAT 1-55 x3x1, Buy for $8500, Sells for $1062.
+3 one arrows appear as magical attack.
+
+Poison Dual Saber 5
+AT 12-18, AGI 26-32, Range 20, MP 35, Type Poison, BAT 5-5 x3x1 (0.5s), Buy for $9000, Sells for $1125.
+3 pellets appears as magical attack. The pellets can home into enemies.
+
+Fire Dual Saber 5
+AT 12-18, AGI 26-32, Range 20, MP 30, Type Fire, BAT 8-12 x3x1 (Burn 3%), Buy for $9500, Sells for $1187.
+3 homing lasers are released as magical attack. Each laser lasts for 2s. 
+
+Ice Dual Saber 6
+AT 15-20, AGI 26-32, Range 20, MP 35, Type Ice, BAT 15-20 x6x1 (Slow 25%), Buy for $10000, Sells for $1250. 
+Releases 6 waves in a circular formation as magical attack.
+
+Long Dual Saber 6
+AT 45-90, AGI 26-32, Range 35, Type Physical, Buy for $1100, Sells for $1375.
+Has a longer range than most Dual Swords.
+
+Spark Dual Saber 6
+AT 15-20, AGI 26-32, Range 20, MP 110, Type Thunder, BAT 1-88 x12x1, Buy for $12000, Sells for $1500.
+Releases 12 mines that pierces terrain and homes into enemies.
+
+Toxic Dual Saber 6
+AT 15-20, AGI 26-32, Range 20, MP 110, Type Poison, BAT 8-8 x1x8 + 8-8 @8% (0.7s), Buy for $13000, Sells for $1625.
+Upon magical activation releases 8 harmless ball attacks which move slowly, pierce terrain, home into enemies and constantly produce slow moving poisonous needles at a low rate that does not travel far. Effect lasts for 2s. A Flare's Card will increase both the number of ball attacks released and the production rate of the needles.
+
+Dual Spikesword 7
+AT 80-125, AGI 30-36, Range 20, Type Physical, Critical 10%, +200%, Buy for $15000, Sells for $1875.
+Starting from this weapon Physical swords without special attacks has a chance to deal increased damage like having a Critical's Card infused. Works independently if a Critical's Card is equipped. 
+
+Thunder Dual Spikesword 7
+AT 18-24, AGI 30-36, Range 20, MP 40, Type Thunder, BAT 1-77 x7x1, Buy for $16000, Sells for $2000.
+Upon magical activation 7 sparks burst out in a circular formation. 
+
+Poison Dual Spikesword 7
+AT 18-24, AGI 30-36, Range 20, MP 40, Type Poison, BAT 13-13 x1x1 (0.2s), Buy for $17000, Sells for $2125.
+A poison cloud covering a range of about 30 is created upon magical activation, poisoning all enemies in range.
+
+Fire Dual Spikesword 7
+AT 18-24, AGI 30-36, Range 20, MP 40, Type Fire, BAT 12-18 x3x1 (Burn 4%), Buy for $18000, Sells for $2250.
+3 homing blazes are released as magical attack. Each blaze lasts for 2s and deals splash damage. 
+
+Ice Dual Spikesword 8
+AT 20-25, AGI 30-36, Range 20, MP 50, Type Ice, BAT 15-20 x4x5 (Slow 25%), Buy for $19000, Sells for $2375. 
+Creates 20 spikes in 5 sets of 4 that slows enemies. A Bullet's Card works on this weapon like on the Thunder GreatSword.
+
+Long Dual Spikesword 8
+AT 90-140, AGI 30-36, Range 40, Type Physical, Critical 10%, +300%, Buy for $20000, Sells for $2500.
+Has a longer range than most Dual Swords. Also has a stronger critical damage increment than the Dual Spikesword.
+
+Spark Dual Spikesword 8
+AT 20-25, AGI 30-36, Range 20, MP 120, Type Thunder, BAT 1-176 x16x1, Buy for $21000, Sells for $2625.
+Releases 16 spikes that pierces terrain and homes into enemies. The spikes have a longer projectile lifespan, a larger hitbox and a much larger homing range compared with the mines from the Spark Dual Saber 6.
+
+Toxic Dual Spikesword 8
+AT 20-25, AGI 30-36, Range 20, MP 120, Type Poison, BAT 21-21 x1x10 + 21-21 @10% (0.8s), Buy for $22000, Sells for $2750.
+Upon magical activation releases 10 harmless cloud attacks that constantly produce slow moving poisonous shurikens at a low rate that does not travel far. like the Toxic Dual Saber 6. The clouds bounce off terrain instead of piercing through and no longer home into enemies. The cloud also travels a bit faster. The shurikens no longer decelerates but lasts slightly shorter. Effect lasts for 2.4s. A Flare's Card will increase both the number of cloud attacks released and the production rate of the shurikens.
+
+Dual Beamsword 9
+AT 240-300, AGI 34-40, Range 20, Type Physical, Critical 10%, +400%, Buy for $23000, Sells for $2875.
+
+Thunder Dual Beamsword 9
+AT 22-28, AGI 34-40, Range 20, MP 50, Type Thunder, BAT 1-333 x5x1, Buy for $24000, Sells for $3000.
+Upon magical activation 5 long thunderbolts are released as a clump towards enemies. 
+
+Poison Dual Beamsword 9
+AT 22-28, AGI 34-40, Range 20, MP 50, Type Poison, BAT 34-34 x1x3 (0.2s), Buy for $25000, Sells for $3125.
+Upon magical activation 3 one arrows are released like the Frozen Blade 6. One arrows deal splash damage.
+
+Fire Dual Beamsword 9
+AT 22-28, AGI 34-40, Range 20, MP 50, Type Fire, BAT 12-16 x8x1 (Burn 5%), Buy for $26000, Sells for $3250.
+Upon magical activation releases 8 balls with even higher burn rate, higher homing range, and larger hitbox than the blazes from Fire Dual Spikesword 7. Balls last for 2s and does splash damage.
+
+Ice Dual Beamsword 10
+AT 24-30, AGI 34-40, Range 20, MP 60, Type Ice, BAT 15-20 x9x5 (Slow 30%), Buy for $27000, Sells for $3375.
+Upon magical activation releases 45 Blazes in 5 sets of 9. Each set acts like the clump of Thunder from Thunder Dual Beamsword 9.
+
+Long Dual Beamsword 10
+AT 270-330, AGI 34-40, Range 45, Type Physical, Critical 10%, +500%, Buy for $28000, Sells for $3500.
+Has the highest range and PAT among all Dual Swords.
+
+Spark Dual Beamsword 10
+AT 24-30, AGI 34-40, Range 20, MP 150, Type Thunder, BAT 1-299 x20x1, Buy for $29000, Sells for $3625.
+Releases 20 Lasers that pierces terrain and homes into enemies. The Lasers have a slightly longer projectile lifespan and a larger homing range compared with the Spikes from the Spark Dual Spikesword 8.
+
+Toxic Dual Beamsword 10
+AT 24-30, AGI 34-40, Range 20, MP 150, Type Poison, BAT 55-55 x1x12 + 55-55 @12% (0.66s), Buy for $30000, Sells for $3750.
+Releases 12 harmless Three Arrows. The Three Arrows bounce off terrain, and leaves a trail of Skulls which poisons all enemies caught within the Skulls. Effect lasts for 2.4s.

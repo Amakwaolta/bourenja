@@ -1,0 +1,31 @@
+In this mod there is a chance for enemies to become Shiny! 
+
+There is a 1/400 chance that each enemy can become Shiny, and these modifiers apply to them:
+
+* Tripled LP
+* Tripled AT for all attacks (Including residues/multiple attacks)
+** For enemies with spawning attacks: 
+** Non-Shiny enemies only spawn Non-Shiny spawnlings.
+** Shiny enemies only spawn Shiny spawnlings.
+* Guaranteed Gold drop with Tripled Gold amount.
+* Tripled Onigiri and Item drop rate.
+* Monster LV +5 when calculating EXP, capped at the current Max LV the team can reach. 
+* Tripled EXP gain
+* Max EXP is given even if the team has a lower LV than the increased Monster LV.
+
+EXP example: For the Shiny Green Smiley Walker (OS),
+Max EXP = 100*3 = 300.
+
+EXP Table (If OS is beaten)
+-------------------------------------------------
+| LV| 6-| 7 | 8 | 9 | 10| 11| 12| 13| 14| 15|16+|
+|EXP|300|270|240|210|180|150|120| 90| 60| 30| 1 |
+-------------------------------------------------
+
+EXP Table (If OS is not beaten -> Team LV Limit = 15)
+---------------------------------------------
+| LV| 6-| 7 | 8 | 9 | 10| 11| 12| 13| 14| 15|
+|EXP|300|270|240|210|180|150|120| 90| 60| 0 |
+---------------------------------------------
+
+ 

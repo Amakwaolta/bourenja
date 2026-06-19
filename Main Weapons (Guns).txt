@@ -1,0 +1,33 @@
+Main Weapon Extension (Guns)
+--------------------------------------------------
+Desert Eagle 9
+AT 200-300, AGI 20-30, Range 60, Type Physical, $25 shooting cost, Buy for $23000, Sells for $2875.
+Shoots bullets that does splash damage like the Magnum 7.
+
+MP5 9
+AT 24-48 x5, AGI 5-10, Range 50, Type Physical, $45 shooting cost, Buy for $24000, Sells for $3000.
+Shoots 5 bullets per shot. Bullets travel slightly faster and further compared with the weaker counterparts.
+
+Mossberg 590 9
+AT 1-259 x18, AGI 50-60, Range 50, Type Physical, $65 shooting cost, Buy for $25000, Sells for $3125.
+Shoots 18 terrain reflecting pellets per shot. Pellets have a slightly increased speed and slightly reduced spread.
+
+M40 9
+AT 600-720, AGI 50-60, Range 180, Type Physical, $50 shooting cost, Buy for $26000, Sells for $3250.
+Shoots a long bullet with a much higher projectile speed than its weaker counterparts. Also has further increased range.
+
+Milkor MGL 10
+AT 36-192, AGI 70-80, Range 60, Type Fire, BAT 60-90 x9 (Burn 5%), $85 shooting cost, Buy for $27000, Sells for $3375.
+Works like the Napalm Gun 8. The bullet is slightly faster than the weaker counterpart.
+
+Intense Laser Gun 10
+AT 40-60, AGI 20-30, Range 50, Type Fire, Burn 20%, $70 shooting cost, Buy for $28000, Sells for $3500.
+Shoots Lasers with doubled Burn Rate compared with the weaker counterparts. Lasers are slightly faster than those from the Slow Laser Gun 8, but still slower than those from Power Laser Gun 6. Lasers last for 4s and deals splash damage.
+
+RPG-7 10
+AT 200-300, AGI 80-90, Range 60, Type Physical, BAT 320-480 x9, $100 shooting cost, Buy for $29000, Sells for $3625.
+Shoots a large bullet that burst into 9 blazes dealing additional damage. Unlike its weaker counterparts, the large bullet is faster and no longer affected by gravity.
+
+Homing Laser Storm 10
+AT 30-45 x15, AGI 20-30, Range 70, Type Thunder, $70 shooting cost, Buy for $30000, Sells for $3750.
+Shoots Waves with extreme homing range of 500 while also piercing through terrain. Waves are denser compared with its weaker counterparts. 

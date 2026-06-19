@@ -1,0 +1,227 @@
+Blue Crystal
+--------------------------------------------------
+A Crystal specialized for Wizards, which increases Max Mana. LV1-5 Buyable for $1200xLV (LV2-5 only available at Island), sells for $150xLV.
+Restrictions: Tomes.
+Blue Crystal 1: Max Mana +100
+Blue Crystal 2: Max Mana +200
+Blue Crystal 3: Max Mana +300
+Blue Crystal 4: Max Mana +400
+Blue Crystal 5: Max Mana +500
+Blue Crystal 6: Max Mana +600
+Blue Crystal 7: Max Mana +800
+Blue Crystal 8: Max Mana +1000
+
+Increases Max Mana of the Wizard, which both allows the Wizard to cast more attacks before running out of Mana, and also indirectly increases the %-based Mana Regeneration if DEX was invested.
+
+Spinel
+--------------------------------------------------
+New Jewel which increases the burn rate of fire attacks. LV 1-5 buyable for $2000xLV (LV2-5 only available at Island)
+Restrictions: Weapons of type Fire.
+Spinel 1: 15% Higher Fire Burn Rate
+Spinel 2: 30% Higher Fire Burn Rate
+Spinel 3: 45% Higher Fire Burn Rate
+Spinel 4: 60% Higher Fire Burn Rate
+Spinel 5: 75% Higher Fire Burn Rate
+Spinel 6: 90% Higher Fire Burn Rate
+Spinel 7: 105% Higher Fire Burn Rate
+Spinel 8: 120% Higher Fire Burn Rate
+Increases the chance for fire attacks to deal damage each frame, or more commonly known as the burn rate. Equipping Spinels on explosion based weapons have no effect.
+
+Cursed Gem
+--------------------------------------------------
+The Jewel for Type Darkness weapons, which increases the LP draining percentage of Type Darkness attacks. Only LV 7 is available. Sells for $2500.
+Restrictions: Weapons of type Darkness
+Cursed Gem 7: Darkness LP Damage Ratio +100% 
+
+Cobalt Medal
+--------------------------------------------------
+A Medal specialized for Wizards, which increases the 5% natural drop rate of Stars which recovers Mana. LV1-5 Buyable for $2000xLV (LV2-5 only available at Island), sells for $250xLV.
+Restrictions: None.
+Cobalt Medal 1: +20% Star Drop Rate
+Cobalt Medal 2: +40% Star Drop Rate
+Cobalt Medal 3: +60% Star Drop Rate
+Cobalt Medal 4: +80% Star Drop Rate
+Cobalt Medal 5: +100% Star Drop Rate
+Cobalt Medal 6: +150% Star Drop Rate
+Cobalt Medal 7: +200% Star Drop Rate
+Cobalt Medal 8: +250% Star Drop Rate
+
+Useless for teams that do not have any Wizards as there will be no natural Star drops from all enemies. Has a stronger increment than other Medals.
+
+Souls
+--------------------------------------------------
+New Compo Item set which gives characters a chance of creating bonus attacks when attacking. 10% for Gloves and Dual Swords. 20% for Swords and Whips, and 40% for Hammers. Only one Soul allowed per weapon.
+Restrictions: Gloves, Swords, Whips, Dual Swords, Hammers. 
+LV1-5 Buyable for $4000xLV (LV2-5 only available at Island) and sells for $500xLV.
+
+Fire Souls:
+LV1 (Blaze): 2 Fire falls from the sky to the ground. AT 4-5 (Burn 2%) and the fire lasts for 2s.
+LV2 (Atomic Ray): 3 Lasers like those from the Fire Spirit 4 is spawned. AT 10-10 (Burn 5%). The lowered burn rate makes it difficult to deal damage to the same enemy multiple times due to its constant movement.
+LV3 (Meteor): Spawns a Fire type version of the Ice Meteor. The meteor has AT of 8-8 (Burn 5%) and pierces through enemies. When it hits the ground 8 fire of AT 6-8 (Burn 5%) is spawned. Fire lasts for 1.2s. 
+LV4 (Flame Trail): Spawns a large ball which constantly produces heat clouds (Constant 30) like the Charge Ring 2. Heat clouds have AT of 6-8 (Burn 5%). Effect lasts for 3s and each cloud lasts for 1s. 
+LV5 (Flame Wall): Drops a harmless pellet that burst into 30 blaze attacks up the sky. AT 8-12 (Burn 4%), each blaze lasts for 2s.
+LV6 (Ultra Burn): Spawns a large homing blaze attack that deals splash damage at an extreme rate. AT 10-15 (Burn 50%), the blaze lasts for 2s.
+LV7 (Cosmic Ray): Spawns 2 lasers that works like the Wizard's Cosmic Beam 5, producing balls constantly (Constant 50). The lasers pierce terrain instead. Laser AT 8-16 (Burn 10%), deals splash damage and lasts for 3s. Ball residue AT 8-12 (Burn 10%) and lasts for 1s.
+LV8 (Hell Fire): Spawns 25 homing clouds. AT 45-75 (Burn 5%), the clouds lasts for 4s.
+
+Thunder Souls:
+LV1 (Lightning): Spawns a thunder of AT 1-22.
+LV2 (Great Shock): Spawns a large shock attack which deals splash damage. AT 1-33.
+LV3 (Beam Strike): Spawns 10 lasers like those from the Thunder Chain 3. AT 1-44.
+LV4 (Thunder Spike): Spawns 9 spikes like those from the Yellow Big Coconut Snake. AT 1-88.
+LV5 (Thunder Cloud): Spawns a cloud that drops thunderbolts like the Charge Circle 4. AT 1-88 (Constant 15).
+LV6 (Big Thunderstorm): Spawns 9 huge thunderbolts in the same fashion as the Thunder Storm 2. Thunderbolts deal splash damage. AT 1-222.
+LV7 (Shocking Spark): Spawns 9 sparks which bounces off terrain and has 20 homing range. Sparks leave a shock attack that deals splash damage. AT 1-333, BAT 1-111.
+LV8 (Shockwave): Spawns 36 waves like the Wizard's Shockwave 8 without residues. AT 1-666.
+
+Ice Souls:
+LV1 (Snowflake): Spawns a snowflake flying towards an enemy. AT 6-12, Slow 40%.
+LV2 (Blizzard): Spawns 8 bolts in the same fashion as the Blizzard orb. AT 6-12, Slow 30%.
+LV3 (Big Icicle): Spawns a big icicle like how the Thunder Spirit 3 summons a thunderbolt. Deals splash damage. AT 18-24, Slow 20%.
+LV4 (Icicle Barrage): Spawns 10 needles in the same fashion as the Thunder orb. AT 24-36, Slow 30%.
+LV5 (Ultra Slow): Spawns 3 snowflakes in the same fashion as the Blizzard orb. AT 100-150, Slow 60%.
+LV6 (Ice Mist): Drops a harmless pellet which burst into 8 cloud attacks that does splash damage and slows. AT 64-96, Slow 30%.
+LV7 (Ice Flare): Spawns 2 icicles like the Ice Soul 4. When the icicles hit an enemy it burst into 3 blazes which deal splash damage. AT 480-640, BAT 64-96, Slow 35%.
+LV8 (Quad Ice Meteor): Spawns 4 meteors in the same fashion as Ice Soul 2 and 5. Upon collision the meteors burst into 9 bolts. AT 900-1350, BAT 100-150, Slow 40%.
+
+Dusts
+--------------------------------------------------
+New Compo Item set based on HankGuideDude's idea on FB Wiki. Equipping a Dust allows characters to produce attacks at a constant rate unless if the character is dragged or if there are no enemies. Some parameters of the compo family were tweaked for game balancing. Only one Dust allowed per weapon.
+
+Restrictions: 
+LV1-6 Buyable for $2000xLV (LV2-6 only available at Island), sells for $250xLV. 
+Attack Modes:
+LV1: Radially away from characters.
+LV2: Dropped around characters like the Blizzard 2/Thunder Storm 2.
+LV3: 3 projectiles at fixed angles above characters like the Ice Castle Boss's Spear attack. Affected by gravity.
+LV4: 4 projectiles radially away from charcters at 90 degrees from each other. 
+LV5: Same as LV2 but with increased range.
+LV6: 2 projectiles radially away from charcters at 180 degrees from each other. 
+LV7: 7 projectiles burst upwards from charcters. Affected by gravity.
+LV8: Same as LV1.
+
+Crimson Dust: Emits Fire attacks
+LV1: A mine with AT 2-3 (Burn 7.5%) which lasts for 0.6s per 40 frames.
+LV2: A blaze with AT 2-4 (Burn 5%) which lasts for 1.5s per 30 frames. Slides on ground.
+LV3: 3 mines with AT 2-3 (Burn 5%) which lasts for 2s per 40 frames. Slides on ground.
+LV4: 4 lasers with AT 1-2 (Burn 10%) which lasts for 2s per 40 frames. Bounces off terrain.
+LV5: A flame with AT 1-3 (Burn 10%) which lasts for 2s per 5 frames. Slides on ground.
+LV6: 2 blazes with AT 18-30 (Burn 5%) which lasts for 4s per 40 frames. Pierces terrain and has 60 Homing Range.
+LV7: 7 shurikens with AT 10-15 (Burn 10%) which lasts for 4s per 50 frames. Bounces off terrain and deals splash damage.
+LV8: A mine with AT 15-20 (Burn 25%) which lasts for 2s per 5 frames. Pierces terrain and has 80 Homing Range. Deals splash damage.
+
+Jonquil Dust: Emits Thunder attacks
+LV1: A thunder with AT 1-9 per 30 frames.
+LV2: A spark with AT 1-15 per 20 frames.
+LV3: 3 pellets with AT 1-20 per 40 frames. Slides on ground.
+LV4: 4 lasers with AT 1-22 per 30 frames. Bounces off terrain.
+LV5: A thunder with AT 1-39 per 5 frames. Slides on ground.
+LV6: 2 spikes with AT 1-555 per 45 frames. Pierces terrain and has 60 Homing Range.
+LV7: 7 shocks with AT 1-299 per 30 frames. Bounces off terrain.
+LV8: A wave with AT 1-888 per 5 frames. Pierces terrain and has 80 Homing Range.
+
+Chartreuse Dust: Emits Poison attacks
+LV1: A cloud with AT 1-1 (Time 0.2s) per 70 frames.
+LV2: A pellet with AT 1-2 (Time 0.2s) per 40 frames.
+LV3: 3 shocks with AT 1-1 (Time 0.4s) per 50 frames. 
+LV4: 4 needles with AT 1-1 (Time 0.6s) per 40 frames. Bounces off terrain.
+LV5: A spear with AT 2-2 (Time 0.2s) per 5 frames.
+LV6: 2 pellets with AT 9-9 (Time 1s) per 75 frames. Pierces terrain and has 60 Homing Range.
+LV7: 7 clouds with AT 8-8 (Time 0.7s) per 60 frames. Bounces off terrain.
+LV8: A needle with AT 18-24 (Time 0.4s) per 5 frames. Pierces terrain and has 80 Homing Range.
+
+Mint Dust: Emits Freeze attacks
+LV1: A spear with AT 2-3 (Time 0.1s) per 50 frames.
+LV2: A flake with AT 6-8 (Time 0.2s) per 40 frames.
+LV3: 3 bolts with AT 8-16 (Time 0.3s) per 60 frames.
+LV4: 4 spears with AT 12-18 (Time 0.4s) per 50 frames. Bounces off terrain.
+LV5: A bolt with AT 12-18 (Time 0.1s) per 5 frames.
+LV6: 2 flakes with AT 180-360 (Time 0.6s) per 60 frames. Pierces terrain and has 60 Homing Range.
+LV7: 7 needles with AT 180-270 (Time 0.7s) per 80 frames. Bounces off terrain.
+LV8: A bullet with AT 200-300 (Time 0.08s) per 5 frames. Pierces terrain and has 80 Homing Range.
+
+Cobalt Dust: Emits Ice attacks
+LV1: A needle with AT 4-6 (Slow 10%) per 60 frames.
+LV2: A bolt with AT 8-12 (Slow 15%) per 50 frames.
+LV3: 3 spears with AT 6-12 (Slow 20%) per 50 frames.
+LV4: 4 waves with AT 8-16 (Slow 25%) per 40 frames. Bounces off terrain.
+LV5: A flake with AT 10-20 (Slow 20%) per 5 frames.
+LV6: 2 blazes with AT 200-250 (Slow 30%) per 50 frames. Pierces terrain and has 60 Homing Range.
+LV7: 7 one arrows with AT 180-240 (Slow 35%) per 70 frames. Bounces off terrain.
+LV8: A shuriken with AT 240-320 (Slow 25%) per 5 frames. Pierces terrain and has 80 Homing Range.
+
+Ghost Dust: Emits Physical attacks
+LV1: A wave with AT 4-8 per 40 frames. Pierces terrain.
+LV2: An one arrow with AT 8-16 per 30 frames. Pierces terrain.
+LV3: 3 balls with AT 10-12 per 40 frames. Pierces terrain.
+LV4: 4 spikes with AT 6-12 per 20 frames. Bounces off terrain.
+LV5: A two arrow with AT 15-25 per 5 frames. Pierces terrain.
+LV6: 2 one arrows with AT 160-200 per 30 frames. Pierces terrain and has 60 Homing Range.
+LV7: 7 bullets with AT 120-240 per 40 frames. Bounces off terrain.
+LV8: A three arrow with AT 320-480 per 5 frames. Pierces terrain and has 80 Homing Range.
+
+Exchangers
+--------------------------------------------------
+New Compo Item set which increases one of STR, DEX or MAG at the expense of the other 2. 
+Restrictions: None.
+LV1-5 Buyable for $1000xLV (LV2-5 only available at Island), sells for $200xLV.
+
+STR Exchanger 1: STR +10, DEX MAG -5
+STR Exchanger 2: STR +20, DEX MAG -10
+STR Exchanger 3: STR +30, DEX MAG -15
+STR Exchanger 4: STR +40, DEX MAG -20
+STR Exchanger 5: STR +50, DEX MAG -25
+STR Exchanger 6: STR +60, DEX MAG -30
+STR Exchanger 7: STR +80, DEX MAG -40
+STR Exchanger 8: STR +100, DEX MAG -50
+
+DEX Exchanger 1: DEX +10, STR MAG -5
+DEX Exchanger 2: DEX +20, STR MAG -10
+DEX Exchanger 3: DEX +30, STR MAG -15
+DEX Exchanger 4: DEX +40, STR MAG -20
+DEX Exchanger 5: DEX +50, STR MAG -25
+DEX Exchanger 6: DEX +60, STR MAG -30
+DEX Exchanger 7: DEX +80, STR MAG -40
+DEX Exchanger 8: DEX +100, STR MAG -50
+
+MAG Exchanger 1: MAG +10, STR DEX -5
+MAG Exchanger 2: MAG +20, STR DEX -10
+MAG Exchanger 3: MAG +30, STR DEX -15
+MAG Exchanger 4: MAG +40, STR DEX -20
+MAG Exchanger 5: MAG +50, STR DEX -25
+MAG Exchanger 6: MAG +60, STR DEX -30
+MAG Exchanger 7: MAG +80, STR DEX -40
+MAG Exchanger 8: MAG +100, STR DEX -50
+
+Distributors
+--------------------------------------------------
+The exact opposites of Exchangers, even maintaining the same icon and grouped with the Exchangers in the same section in Compo Shops. Reduces 1 of STR, DEX or MAG and increases the other 2. A Distributor of one stat cannot be used with an Exchanger of the same stat.
+Restrictions: None.
+LV1-5 Buyable for $1000xLV (LV2-5 only available at Island), sells for $200xLV.
+
+STR Distributor 1: STR -10, DEX MAG +5
+STR Distributor 2: STR -20, DEX MAG +10
+STR Distributor 3: STR -30, DEX MAG +15
+STR Distributor 4: STR -40, DEX MAG +20
+STR Distributor 5: STR -50, DEX MAG +25
+STR Distributor 6: STR -60, DEX MAG +30
+STR Distributor 7: STR -80, DEX MAG +40
+STR Distributor 8: STR -100, DEX MAG +50
+
+DEX Distributor 1: DEX -10, STR MAG +5
+DEX Distributor 2: DEX -20, STR MAG +10
+DEX Distributor 3: DEX -30, STR MAG +15
+DEX Distributor 4: DEX -40, STR MAG +20
+DEX Distributor 5: DEX -50, STR MAG +25
+DEX Distributor 6: DEX -60, STR MAG +30
+DEX Distributor 7: DEX -80, STR MAG +40
+DEX Distributor 8: DEX -100, STR MAG +50
+
+MAG Distributor 1: MAG -10, STR DEX +5
+MAG Distributor 2: MAG -20, STR DEX +10
+MAG Distributor 3: MAG -30, STR DEX +15
+MAG Distributor 4: MAG -40, STR DEX +20
+MAG Distributor 5: MAG -50, STR DEX +25
+MAG Distributor 6: MAG -60, STR DEX +30
+MAG Distributor 7: MAG -80, STR DEX +40
+MAG Distributor 8: MAG -100, STR DEX +50

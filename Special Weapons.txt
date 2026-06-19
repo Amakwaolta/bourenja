@@ -1,0 +1,523 @@
+New Class Resort weapons
+--------------------------------------------------
+Wooden Dual Sword 5 (Dual Swordsman)
+AT 1-1, AGI 26-32, Range 50, MP 300, Type Physical, BAT 44-44 x5x1, Buy 1-slotted for $8500, Buy 2-slotted for $85000, Sells for $1062.
+Has a much longer range but also a much lower primary AT. Upon magical activation releases 5 huge needles in a star shape formation like the Charge Punch and deals splash damage but are still type Physical. 
+
+Megahammer 5 (Hammerer)
+AT 2700-3600, AGI 720-810, Range 25, Type Physical, Knockback 500, Buy 1-slotted for $8500, Buy 2-slotted for $85000, Sells for $1062.
+Essentially a more extreme version of the Charge Maul 6, boasting the same DPS as well as the splashing capabilities. The extreme AGI makes it difficult to use during normal battles but can be highly efficient during single enemy fights such as against lone bosses. This hammer also has a visually larger hammer head, which is four times the normal size.
+
+Tranquilizer 5 (Predator)
+AT 16-16, AGI 105-130, Range 60, Type Freeze, Freeze Time 5s, Buy 1-slotted for $8500, Buy 2-slotted for $85000, Sells for $1062.
+Shoots a spear which freezes enemies for a whopping 5s.
+
+Cosmic Beam 5 (Wizard)
+AT 18-24 x1, AGI 340-360, Range 120, Mana Cost 444, Type Fire, BAT 18-24 @50% (Burn 10%), Buy 1-slotted for $8500, Buy 2-slotted for $85000, Sells for $1062.
+Shoots a laser that reflects off terrain. The laser constantly produces ball residues along its path which burns enemies. Laser deals splash damage but the balls do not. Laser lasts for 8s, balls last for 1.5s.
+
+
+New Mountaintop weapons
+--------------------------------------------------
+Ice Claw 6 (Boxer)
+AT 10-20, AGI 15-32, Range 15, MP 60, Type Ice, BAT 8-12 x3 + 8-12 x2 (Slow 20%), Buy for $20000, Sells for $2500.
+Upon magical activation creates 3 needles. When they hit an enemy the needles further splits into 2 small needles dealing the same damage and slowing effects. Any buffs done on the magical attacks will affect both the main needles and the smaller ones.
+
+Poison Blade 6 (Gladiator)
+AT 20-25, AGI 20-30, Range 30, MP 40, Type Poison, BAT 7-7 x1x10 (0.5s), Buy for $20000, Sells for $2500.
+Creates 10 poison needles as magical attacks, poisoning all enemies caught within. The needles are released like the Fire Blade and does not move.
+
+Magical Blass 6 (Magician)
+AT 24-36 x16, AGI 120-135, Range 90, Type Physical, Buy for $20000, Sells for $2500.
+Creates a burst of 16 balls which flies through the field and hit enemies. The balls can bounce off terrain.
+
+Blizzard Staff 6 (Priest)
+AT 0-0, AGI 80-90, Range 70, Type Ice, BAT 8-12 @6% (Slow 20%), Buy for $20000, Sells for $2500.
+Creates the mine attack as usual. However the mine does not deal damage by itself. Instead it constantly produces snowflakes which hits enemies and slows them.
+
+Holy Light Flail 6 (Whipper)
+AT 6-24, AGI 15-20, Range 40, MP 300, Type Thunder, BAT 1-88 x3, Buy for $20000, Sells for $2500.
+Upon magical activation releases 3 lasers which behaves like the attack of the Grey Big Box Snake: The lasers does not deal any damage, but releases a laser cutting through the entire screen which deals splash damage when they hit the terrain.
+
+Toxic Chakram 6 (Angel)
+AT 8-9, AGI 20-30, MFC 25, Range 60, MP 666, Type Poison, BAT 6-6 @66% (1.32s), Buy for $20000, Sells for $2500.
+Works like the Charge Chakram 6, but poison needles are produced. The needles no longer accelerate like the Charge Chakram 6 and lasts for only 1.32s.
+
+Frozen Dual Saber 6 (Dual Swordsman)
+AT 15-20, AGI 26-32, Range 20, MP 150, Type Freeze, BAT 10-20 x1x100 (0.1s), Buy for $20000, Sells for $2500.
+Releases 100 snowflakes similar to those from the Ice Sword in the same way as the Flame Sword. The snowflakes can remain on the screen for 2s and homes into enemies, imitating the attack of the Submarine Shrine Boss. 
+
+Hell Fire Maul 6 (Hammerer)
+AT 105-140, AGI 80-90, Range 25, MP 180, Type Fire, BAT 6-6 x50x1 (Burn 8%), Knockback 35, Buy for $20000, Sells for $2500.
+Produces lots of heat clouds as the magical attack, meant to be a reference to the Pyramid Boss's attack but is not an exact replica. Heat gases last for 1.5s.
+
+Indra Blowgun 6 (Predator)
+AT 1-2222, AGI 100-120, Range 60, Type Thunder, Buy for $20000, Sells for $2500.
+Shoots a spark which deals highly variable thunder damage.
+
+Gravity Field 6 (Wizard)
+AT 60-80 x20, AGI 200-210, Range 160, Mana Cost 240, Type Physical, Buy for $20000, Sells for $2500.
+Drops two arrows down in a high speed. Two Arrows have knockback magnitude of 10 and slide on terrain.
+
+
+Grassland A Special Weapon Set
+--------------------------------------------------
+Heavy Glove 2 (Boxer)
+AT 36-54, AGI 30-45, Range 15, Type Physical, Buy for $3000, Sells for $375.
+Has the same AT as the Mach Claw 5, but the high AGI makes its DPS only 20% of Mach Claw 5. A Boxer with 35 DEX wielding this weapon will make this weapon work exactly like Mach Claw 5. 
+
+Heavy Sword 2 (Gladiator)
+AT 48-64, AGI 60-80, Range 30, Type Physical, Buy for $3000, Sells for $375.
+Has higher AT than Long Sabel 4, but its high AGI makes it weaker than Sabel 3.
+
+Heavy Arrow 2 (Sniper)
+AT 80-100, AGI 90-120, Range 90, Type Physical, Buy for $3000, Sells for $375.
+Shoots an arrow twice as long which deals immense damage, at the cost of having a huge AGI.
+
+Heavy Metal 2 (Magician)
+AT 150-210, AGI 180-225, Range 90, Type Physical, Buy for $3000, Sells for $375.
+Drops a large ball on enemies dealing huge damage.
+
+Heavy Staff 2 (Priest)
+AT 18-24, AGI 200-250, Range 70, Type Physical, Buy for $3000, Sells for $375.
+A staff which deals intense damage compared with many other staves, but attacks much slower.
+
+Heavy Blast 2 (Gunner)
+AT 240-400, AGI 240-270, Range 80, Type Physical, $50 shooting cost, Buy for $3000, Sells for $375.
+Shoots a huge bullet that travels like the main bullet from the Bazooka 2. Does not leave any residues.
+
+Heavy Whip 2 (Whipper)
+AT 36-54, AGI 45-60, Range 40, Type Physical, Buy for $3000, Sells for $375.
+A slow whip that hits hard.
+
+Heavy Ring 2 (Angel)
+AT 60-80, AGI 60-90, MFC 25, Range 60, Type Physical, Buy for $3000, Sells for $375.
+Hits harder than the Power Circle 4, but its high AGI makes extra rings nearly useless unless a Quick's Card and/or Catapult's Card is equipped.
+
+Heavy Dual Sword 2 (Dual Swordsman)
+AT 30-36, AGI 36-48, Range 20, Type Physical, Buy for $3000, Sells for $375.
+A set of heavy hitting Dual Sword with slower attack rates. 
+
+Heavy Hammer 2 (Hammerer)
+AT 400-600, AGI 270-360, Range 25, Type Physical, Knockback 100, Buy for $3000, Sells for $375.
+Even stronger than the Charge Hammer 2 both in terms of AT and Knockback power, but has higher AGI and lacks the ability to deal splash damage.
+
+Heavy Blowgun 2 (Predator)
+AT 150-200, AGI 150-200, Range 60, Type Physical, Buy for $3000, Sells for $375.
+Shoots a large pellet at increased AGI. The pellet also travels at a lower speed.
+
+Heavy Force 2 (Wizard)
+AT 240-320, AGI 240-270, Range 90, Mana Cost 75, Type Physical, Buy for $3000, Sells for $375.
+Casts a wide two-arrow which falls down and deals extreme damage to an enemy.
+
+
+Seaside A Special Weapon Set
+--------------------------------------------------
+Burst Knuckle 3 (Boxer)
+AT 6-12, AGI 15-26, Range 15, MP 30, Type Fire, BAT 10-20, Buy for $6000, Sells for $750.
+Releases a blast that deals splash damage upon magical activation.
+
+Needle Sabel 3 (Gladiator)
+AT 12-18, AGI 20-30, Range 30, MP 25, Type Physical, BAT 12-16 x1x10, Buy for $6000, Sells for $750.
+Releases 10 long needles one by one.
+
+Iron Shot 3 (Sniper)
+AT 20-30, AGI 30-40, Range 120, Type Physical, Buy for $6000, Sells for $750.
+Shoots like the Quint Shot 3, but with only one arrow. The arrow has increased speed and are also less affected by gravity.
+
+Ice Spray 3 (Magician)
+AT 4-6 x6, AGI 80-90, Range 90, Type Ice, Slow 20%, Buy for $6000, Sells for $750.
+Releases 6 slowflakes in the same fashion as the Spread Explosion 7. The snowflakes do not create any residues and slide on terrain instead of reflect off terrain.
+
+Burst Staff 3 (Priest)
+AT 4-6, AGI 80-90, Range 70, Type Fire, Buy for $6000, Sells for $750.
+Creates a mine that deals splash damage. Has less damage and reduced hitbox size compared with Explosion Staff 5.
+
+Pistol 3 (Gunner)
+AT 4-12, AGI 20-30, Range 60, Type Physical, $0 shooting cost, Buy for $6000, Sells for $750.
+Essentially the starting Gun with doubled damage. No shooting costs apply, but is even weaker than Handgun 1.
+ 
+Hail Chain 3 (Whipper)
+AT 3-12, AGI 15-20, Range 40, MP 40, Type Ice, BAT 10-15 x4 (Slow 20%), Buy for $6000, Sells for $750. 
+Releases 4 bolts (at zero DEX) in the same way as the Stone Chain 3. The bolts can slow enemies.
+
+Stone Circle 3 (Angel)
+AT 5-6, AGI 20-30, MFC 25, Range 60, MP 120, Type Physical, BAT 30-45 x8, Buy for $6000, Sells for $750. 
+Releases 8 pellets in the same way as the Stone Chain 3.
+
+Freeze Dual Rapier 3 (Dual Swordsman)
+AT 9-15, AGI 22-28, Range 20, MP 30, Type Freeze, BAT 6-12 x3x1 (0.1s), Buy for $6000, Sells for $750.
+Releases 3 freezing one arrows in a circular formation upon magical activation.
+
+Thorn Mallet 3 (Hammerer)
+AT 60-80, AGI 80-90, Range 25, MP 40, Type Physical, BAT 48-64 x4x1, Knockback 20, Buy for $6000, Sells for $750.
+At magical activation releases 4 needles in a circular formation.
+
+Hail Blowgun 3 (Predator)
+AT 12-18, AGI 50-60, Range 60, Type Ice, BAT 6-10 x4 (Slow 15%), Buy for $6000, Sells for $750.
+Shoots out a pellet which bursts into 3 bolts on contact with enemy or terrain.
+
+Stone Blast 3 (Wizard)
+AT 20-30 x8, AGI 110-120, Range 90, Mana Cost 30, Type Physical, Buy for $6000, Sells for $750.
+Shoots 8 balls in an arc trajectory.
+
+
+Desert A Special Weapon Set
+--------------------------------------------------
+Flame Knuckle 4 (Boxer)
+AT 8-16, AGI 15-28, Range 15, MP 80, Type Fire, BAT 4-8 x3 (Burn 8%), Buy for $8000, Sells for $1000.
+Releases 3 blazes that deals splash damage and reflect off terrain. Blazes lasts for 6s. The attack resembles the fire attack of the Submarine Shrine Boss.
+
+Icicle Sabel 4 (Gladiator)
+AT 15-20, AGI 20-30, Range 30, MP 100, Type Ice, BAT 4-8 x1x100 (Slow 20%), Buy for $8000, Sells for $1000.
+Releases 100 long needles one by one which slows down enemies.
+
+Thunder Shot 4 (Sniper)
+AT 4-6 x3, AGI 30-40, Range 90, MP 30, Type Thunder, BAT 1-59, Buy for $8000, Sells for $1000.
+Shoots 3 arrows like the Fire Shot 4, but the arrows have increased speed, and creates a non-splash damage shock at full MP.
+
+Infector 4 (Magician)
+AT 0-0, AGI 120-135, Range 80, Type Poison, BAT 3-3 @30% (1s), Buy for $8000, Sells for $1000.
+Fires a harmless ball that can reflect off terrain and produces poison gases constantly. Effect lasts for 3s. The ball travels faster than the one from the Thunder Orb 6.
+
+Frostbite Staff 4 (Priest)
+AT 10-15, AGI 80-90, Range 70, Type Freeze, Freeze Time 0.6s, Buy for $8000, Sells for $1000.
+Creates a snowflake for each enemy which behaves like the snowflake attack from the Submarine Shrine Boss.
+
+Railgun 4 (Gunner)
+AT 12-18, AGI 160-180, Range 120, Type Physical, $120 shooting cost, Buy for $8000, Sells for $1000.
+Shoots a long bullet at an insanely high velocity that pierces both enemies and terrain. The bullet damages all enemy it touches each frame as if the bullet is of type Fire with 100% Burn Rate. Extremely effective at taking down groups of enemies that are lined up. Attack lasts for 20s, far longer than the time taken for it to leave the screen.
+
+Flame Chain 4 (Whipper)
+AT 4-16, AGI 15-20, Range 40, MP 200, Type Fire, BAT 4-8 x3 (Burn 8%), Buy for $8000, Sells for $1000. 
+Releases 3 blazes (at zero DEX) that deals splash damage and reflect off terrain. Blazes last for 6s. The attack resembles the fire attack from the Submarine Shrine Boss.
+
+Freeze Circle 4 (Angel)
+AT 6-7, AGI 20-30, MFC 25, Range 60, MP 150, Type Freeze, BAT 18-24 x4 (0.2s), Buy for $8000, Sells for $1000. 
+At magical activation releases 4 snowflakes that behaves like those from the Submarine Shrine Boss.
+
+Flame Dual Rapier 4 (Dual Swordsman)
+AT 10-16, AGI 22-28, Range 20, MP 90, Type Fire, BAT 4-6 x1x45 (Burn 5%), Buy for $8000, Sells for $1000.
+Essentially the Dual Swords version of the Flame Sabel 4. Releases 45 heat gases at magical activation which deals splash damage and each gas lasts for 0.4s.
+
+Ice Mallet 4 (Hammerer)
+AT 75-100, AGI 80-90, Range 25, MP 40, Type Ice, BAT 25-50 x6x1 (Slow 30%), Knockback 25, Buy for $8000, Sells for $1000.
+At magical activation releases 6 snowflakes that behaves like those from the Submarine Shrine Boss except that it slows enemies instead of freezing them.
+
+Lightning Blowgun 4 (Predator)
+AT 1-169, AGI 50-60, Range 60, Type Thunder, Buy for $8000, Sells for $1000.
+Shoots a thunderbolt.
+
+Big Shock 4 (Wizard)
+AT 1-121, AGI 140-150, Range 150, Mana Cost 50, Type Thunder, Buy for $8000, Sells for $1000.
+Summons a huge shock on the nearest enemy dealing splash damage.
+
+
+Snowfield A Special Weapon Set
+--------------------------------------------------
+Molten Claw 5 (Boxer)
+AT 9-18, AGI 15-30, Range 15, MP 200, Type Fire, BAT 15-20 (Burn 50%), Buy for $10000, Sells for $1250.
+Upon magical activation creates a blaze which moves slightly and rapidly damages an enemy. The blaze lasts for 2s.
+
+Quick Blade 5 (Gladiator)
+AT 20-40, AGI 10-15, Range 30, Type Physical, Buy for $10000, Sells for $1250.
+A sword which hits twice as fast as most swords. 
+
+Rapid Arrow 5 (Sniper)
+AT 8-12 x4, AGI 10-15, Range 90, Type Physical, Buy for $10000, Sells for $1250.
+Essentially the Quad Arrow 2 with iron arrows and a much faster firing rate.
+
+Rapid Burn 5 (Magician)
+AT 2-6, AGI 80-90, Range 80, Type Fire (Burn 50%), Buy for $10000, Sells for $1250.
+Creates a homing blaze on the nearest enemy. The blaze lasts for 2s.
+
+Quick Staff 5 (Priest)
+AT 4-6, AGI 25-35, Range 70, Type Physical, Buy for $10000, Sells for $1250.
+Hits much faster than other Staves.
+
+Ray Gun 5 (Gunner)
+AT 1-29, AGI 2-3, Range 60, Type Thunder, $15 shooting cost, Buy for $10000, Sells for $1250.
+Fastest weapon in my mod. Shoots a laser which deals thunder damage. Also drains money quickly.
+ 
+Molten Flail 5 (Whipper)
+AT 5-20, AGI 15-20, MFC 25, Range 40, MP 400, Type Fire, BAT 5-10 x3 (Burn 50%), Buy for $10000, Sells for $1250. 
+Upon magical activation creates 3 blazes along a straight line and decelerates. The blazes last for 1s. Can deal extreme damage at close range with suitable stats and compo items.
+
+Molten Chakram 5 (Angel)
+AT 7-8, AGI 20-30, Range 60, MP 300, Type Fire, BAT 8-12 x4 (Burn 50%), Buy for $10000, Sells for $1250. 
+Upon magical activation creates 4 blazes in a star-shaped formation. The blazes last for 2s.
+
+Quick Dual Saber 5 (Dual Swordsman)
+AT 16-24, AGI 4-6, Range 20, Type Physical, Buy for $10000, Sells for $1250.
+This set of Dual Swords hits very rapidly, as fast as other swords with a Quick's Card 5 after investing enough STR and DEX.
+
+Quick Maul 5 (Hammerer)
+AT 50-75, AGI 25-30, Range 25, Type Physical, Knockback 30, Buy for $10000, Sells for $1250.
+Hits quickly at the expense of lowered AT and Knockback power.
+
+Flameblower 5 (Predator)
+AT 4-8, AGI 15-20, Range 60, Type Fire, Burn 10%, Buy for $10000, Sells for $1250.
+Shoots out firey clouds at a high rate. Each cloud pierces terrain, deals splash damage and lasts for 2s.
+
+Flash Blaze 5 (Wizard)
+AT 24-32 x1, AGI 170-180, Range 150, Mana Cost 96, Type Fire, Burn 50%, Buy for $10000, Sells for $1250.
+Creates a heat cloud on the target, which rapidly burns its LP. The cloud lasts for 1s.
+
+
+Inferno A Special Weapon Set
+--------------------------------------------------
+Midas Touch 7 (Boxer)
+AT 60-90, AGI 5-10, Range 15, Type Physical, Buy for $20000, Sells for $2500.
+Essentially a weakened Mach Cestus. However this Glove has 7% chance of generating gold each hit just as if a Gold Rush Card is equipped. Works independently with any equipped Gold Rush Card.
+
+Blood Lust 7 (Gladiator)
+AT 100-150, AGI 20-30, Range 30, Type Physical, Buy for $20000, Sells for $2500.
+Essentially a weakened Great Sword. However this Sword heals the wielder by 4% of damage done each hit just as if a Vampire's Card 3 is equipped. Works independently with any equipped Vampire's Card.
+
+Soul Seeker 7 (Sniper)
+AT 15-20 x6, AGI 30-40, Range 90, MP 45, Type Ice, BAT 40-60 (Slow 20%), Buy for $20000, Sells for $2500.
+Shoots 6 arrows which can produce cold mists that slows enemies. The arrows have innate Homing Range of 50.
+
+Force Shock 7 (Magician)
+AT 1-99 x3, AGI 80-90, Range 80, Type Thunder, BAT 1-66, Buy for $20000, Sells for $2500.
+Spawns 3 thunderbolts which creates a shock that deals splash damage when the thunderbolt hits an enemy or the terrain. The thunderbolts, when hitting enemies, also causes a knockback of magnitude 20 to the enemy it hits. The knockback can be stacked with those from the Knockback's Card.
+
+Holy Realm 7 (Priest)
+AT 12-20, AGI 80-90, Range 90, Type Physical, Buy for $20000, Sells for $2500.
+Each time the Priest attacks with this staff all other characters heal 4 LP.
+
+Time Stop 7 (Gunner)
+AT 36-48 x6, AGI 160-180, Range 80, Type Freeze, Freeze Time 0.5s, $200 shooting cost, Buy for $20000, Sells for $2500.
+Creates a burst of cold mist which freezes all enemies caught within for 0.5s.
+
+Greed 7 (Whipper)
+AT 75-150, AGI 15-20, Range 40, Type Physical, Buy for $20000, Sells for $2500.
+Essentially a weakened Morning Star. However this Whip has 4% chance of generating an Onigiri each hit just as if an ONIGIRI's Card is equipped, and 4% chance of generating gold each hit just as if a Gold Rush Card is equipped. Both chances are independent. Works independently with any equipped ONIGIRI's Card or Gold Rush Card.
+
+The Fallen 7 (Angel)
+AT 6-6, AGI 6-16, MFC 6, Range 66, MP 66, Type Freeze, BAT 6-6 x6 (0s), Buy for $20000, Sells for $2500.
+A combination of the Chakram and the Quick Rings. This Ring grants the Angel 2 extra rings (Max ring count still capped at 6) and also gives the Angel a dark grey body. Rings can deal damage multiple times like the Chakram and upon full MP releases 6 dark grey clouds which damages enemies. Despite being a Freeze type weapon, attacks from this weapon has no freezing capabilities. Equipping a Diamond is possible but gives no effect.
+
+Prickliness 7 (Dual Swordsman)
+AT 80-120, AGI 30-36, Range 20, MP 0, Type Physical, BAT 40-60 x3x1, Buy for $20000, Sells for $2500.
+This Dual Sword's magical effect is not MP based. Instead it has a 15% chance of activating the magical effect where 3 needles pop out from the sword dealing the specified damage. Also has 15% of creating a large spike falling down dealing 80-120 splash damage to enemies. The large spike is unaffected by any AT increment methods like the attacks from Spirits and Souls.
+
+Power Burst 7 (Hammerer)
+AT 150-250, AGI 80-90, Range 25, Type Physical, Knockback 80, Critical 20%, +400%, Buy for $20000, Sells for $2500.
+While damage is reduced compared with Sledgehammer 7, the critical chance makes its DPS slightly stronger than Sledgehammer 7.
+
+The Sandman 7 (Predator)
+AT 1-1 x32, AGI 50-60, Range 60, Type Freeze, Freeze Time 0.1s, Buy for $20000, Sells for $2500.
+Based on the original Sand Blowgun 9 idea, this shoots 32 small pellets at once which freezes enemies.
+
+Lucky Seven 7 (Wizard)
+AT 7-7777, AGI 177-277, Range 177, Mana Cost 277, Type Physical, Buy for $20000, Sells for $2500.
+Based on the original Luck Shot 8 idea, shoots a green number-7-shaped projectile dealing highly variable damage.
+
+
+Hell A Special Weapon Set
+--------------------------------------------------
+Blazing Cestus 8 (Boxer)
+AT 12-24, AGI 15-36, Range 15, MP 120, Type Fire, BAT 10-15 x4 (Burn 25%), Buy for $25000, Sells for $3125.
+Upon magical activation creates 4 blazes in a star shape formation. The blazes last for 1.6s.
+
+Chilled Great Sword 8 (Gladiator)
+AT 30-35, AGI 20-30, Range 30, MP 130, Type Ice, BAT 48-72 x1x130 (Slow 20%), Buy for $25000, Sells for $3125.
+Releases 130 sparks one by one which slows down enemies.
+
+Electric Shot 8 (Sniper)
+AT 8-12 x5, AGI 20-30, Range 90, MP 50, Type Thunder, BAT 1-55 x4, Buy for $25000, Sells for $3125.
+An upgraded Thunder Shot 4, shooting 5 arrows with increased speed and density, and each creates 4 shurikens upon hit at full MP. This weapon also has reduced AGI compared with oher Bows.
+
+Toxic Blast 8 (Magician)
+AT 10-20 x3 (1s), AGI 120-135, Range 90, Type Poison, BAT 10-15 x6 (1s), Buy for $25000, Sells for $3125.
+Creates 3 bolts in a circular formation on the closest enemy, which homes into enemies and explodes into 6 poison clouds that deals splash damage. Although the AT of the bolts CAN be increased my MAG, the poison clouds will usually limit this increased poison damage to only a limited number of frames.
+
+Light Rod 6 (Priest)
+AT 1-29, AGI 70-80, Range 120, Type Thunder, BAT 1-29 x2, Buy for $25000, Sells for $3125.
+Creates a pellet similar to the High Light Staff 3, but when hitting an enemy the pellet splits into 2 smaller pellets dealing additional damage. This weapon also has reduced AGI compared with other Staves.
+
+Death Ray 8 (Gunner)
+AT 8-12 x3, AGI 160-180, Range 150, Type Fire (Burn 100%), $100 shooting cost, Buy for $25000, Sells for $3125.
+An upgraded Railgun 4, which shoots 3 long, focused lasers with increased hitbox size and speed instead. Extremely effective on lined up/clumped enemies. Attack lasts for 20s, far longer than the time taken for it to leave the screen. Spinel is useless on this weapon as the burn rate is already 100%. Shooting cost is counted per laser similar to the 3-Round Burst 5.
+
+Frozen Morning Star 8 (Whipper)
+AT 8-32, AGI 15-20, Range 40, MP 125, Type Freeze, BAT 80-120 x3 (0.1s), Buy for $25000, Sells for $3125. 
+Releases 3 snowflakes (at zero DEX) in the same way as the Stone Flail 5. The snowflakes can freeze enemies.
+
+Frozen God 8 (Angel)
+AT 10-11, AGI 20-30, MFC 25, Range 60, MP 800, Type Freeze, BAT 24-48 @50% (0.04s), Buy for $25000, Sells for $3125.
+Upon magical activation creates a harmless ball which pierces terrain and homes into enemies while producing snowflakes which freezes enemies briefly. The effect lasts for 4s.
+
+Molten Dual Spikesword 8 (Dual Swordsman)
+AT 20-25, AGI 30-36, Range 20, MP 120, Type Fire, BAT 4-6 x1x60 (Burn 10%), Buy for $25000, Sells for $3125.
+Essentially an upgraded Flame Dual Rapier 4. Releases 60 sparks at magical activation which has doubled burn rate but no longer does splash damage. Each spark lasts for 1s.
+
+Cold Sledgehammer 8 (Hammerer)
+AT 135-180, AGI 80-90, Range 25, MP 80, Type Ice, BAT 100-120 x12x1 (Slow 30%), Knockback 45, Buy for $25000, Sells for $3125.
+Essentially an upgraded Ice Mallet 4. Releases 12 snowflakes with the same properties as those from the Ice Mallet 4, only with increased AT and homing range.
+
+Inferno Blowgun 8 (Predator)
+AT 16-24, AGI 50-60, Range 60, Type Fire, BAT 12-18 @20% (Burn 5%), Buy for $25000, Sells for $3125.
+Shoots a firey cloud which drops flames as it travels. Both the cloud and the flames and last for 3s but only the cloud deals splash damage.
+
+Ice Storm 8 (Wizard)
+AT 80-120 x42, AGI 260-270, Range 180, Mana Cost 400, Type Ice, Slow 30%, Buy for $25000, Sells for $3125.
+Shoots 42 snowflakes like the Lightning 7. The snowflakes pierce terrain, and are slightly displaced instead of all being aligned into a straight line.
+
+
+Dark Cave Special Weapon Set
+--------------------------------------------------
+Introducing the new attack Type: Darkness (Dk). Attacks with type Darkness drains a percentage of the enemy's current LP when hit. Darkness attacks of AT X%-Y% will drain X% to Y% of current LP from the enemy. AT percentage supports decimals. All non-bosses do not have Darkness resistance and all bosses have 80% Darkness resistance, reducing the percentages by 80%. Darkness damages CANNOT be improved by using AT Aura caused by Priests and/or the Berserk Card if the damage comes from BAT. In addition, Darkness weapons cannot be equipped with Magic Amp's Card even if they require MP.
+
+This set of weapons, when equipped, turns the stickman's head and body purple.
+
+Doom Gauntlet 8 (Boxer)
+AT 12-24, AGI 15-36, Range 15, MP 250, Type Darkness, BAT 0.3%-0.3% x6, Sells for $3125.
+Upon magical activation creates 6 needles in a circular formation which drain LP from enemies. 
+
+Cursed Sword 8 (Gladiator)
+AT 30-40, AGI 20-30, Range 30, MP 150, Type Darkness, BAT 0.2%-0.3% x1x10, Sells for $3125.
+Creates 10 elongated balls as magical attacks one by one, draining LP from enemies.
+
+Corrupted Arrow 8 (Sniper)
+AT 16-24 x6, AGI 30-40, Range 90, MP 100, Type Darkness, BAT 0.4%-0.4%, Sells for $3125.
+Shoots 6 arrows which pierces terrain. Upon magical activation the arrows create a shock which drains LP from enemies when they hit an enemy.
+
+Dark Star Rain 8 (Magician)
+AT 12-24 x9, AGI 120-135, Range 90, Type Darkness, BAT 0.3%-0.5%, Sells for $3125.
+Each attack creates 9 stars falling down from above like the Blizzard 2 and Thunder Storm 2. The stars pierces terrain and leaves a star-shaped residue when it hits an enemy which usually hits the same enemy and drains LP from it. The initial hit deals Physical damage.
+
+Darkness Staff 8 (Priest)
+AT 0.1%-0.1%, AGI 80-90, Range 70, Type Darkness, Sells for $3125.
+Creates a pellet for each enemy like the High Light Staff 3 but with a higher homing range.
+
+Dark Bomb 8 (Gunner)
+AT 60-120, AGI 80-90, Range 60, Type Darkness, BAT 0.4%-0.8% x6, $666 shooting cost, Sells for $3125.
+Shoots a bullet in the same fashion as the Napalm Gun 8, but the bullet is slightly bigger and creats 6 clouds bursting away from the bullet which pierce terrain and drain LP from enemies.
+
+Withering Lash 8 (Whipper)
+AT 8-32, AGI 15-20, Range 40, MP 400, Type Darkness, BAT 0.4%-0.6% x3, Sells for $3125.
+Upon magical activation creates 3 lasers along a straight line and decelerates. The lasers drain LP from enemies.
+
+Demon Halo 8 (Angel)
+AT 10-11, AGI 20-30, MFC 25, Range 60, MP 666, Type Darkness, BAT 0.1%-0.3% x30, Sells for $3125.
+Works like the Thunder God 7, but creates mines which drain LP from enemies instead.
+
+Devilish Dancer 8 (Dual Swordsman)
+AT 20-25, AGI 20-30, Range 60, MP 666, Type Darkness, BAT 0.2%-0.2% x5x5, Sells for $3125.
+Upon magical activation creates 25 bolts in sets of 5 which burst away from the Dual Swordsman, then homes into enemies draining LP from them.
+
+Damned Hammer 8 (Hammerer)
+AT 135-180, AGI 80-90, Range 25, MP 180, Type Darkness, BAT 0.8%-0.8% x6x1, Knockback 45, Sells for $3125.
+Upon magical activation creates 6 large two arrows which drain LP from enemies.
+
+Possessed Blowgun 8 (Predator)
+AT 80-120, AGI 50-60, Range 60, Type Darkness, BAT 1%-1.5%, Sells for $3125.
+Shoots a needle dealing Physical damage which creates a shuriken that drains LP from an enemy when the needle hits an enemy or the terrain.
+
+Forbidden Spells 8 (Wizard)
+AT 1-222 x6, AGI 260-270, Range 180, Mana Cost 666, Type Darkness, BAT 0.8%-1.6%, Sells for $3125.
+Shoots 6 terrain-piercing thunderbolts dealing Thunder damage. When the thunderbolts hit an enemy it leaves a cloud residue which drains LP from an enemy.
+
+
+Wasteland A Special Weapon Set
+--------------------------------------------------
+Burst Gauntlet 9 (Boxer)
+AT 13-26, AGI 15-38, Range 15, MP 60, Type Fire, BAT 60-90 x6, Sells for $3750.
+Essentially an upgraded Burst Knuckle 3. Upon magical activation creates 6 oval-shaped balls in a star formation dealing splash damage.
+
+Needle Broadsword 9 (Gladiator)
+AT 40-40, AGI 20-30, Range 30, MP 60, Type Physical, BAT 48-72 x9x9, Sells for $3750.
+Essentially an upgraded Needle Sabel 3. Upon magical activation releases 81 needles in 9 sets of 9, gradually flying out from the sword.
+
+Arctic Shot 9 (Sniper)
+AT 16-24 x7, AGI 30-40, Range 90, MP 55, Type Freeze, BAT 60-90 (0.3s), Sells for $3750.
+Shoots 7 arrows like the Electric Shot 8. Upon magical activation arrows leave a single flake residue which freezes an enemy.
+
+Energy Bolt 9 (Magician)
+AT 80-100 x30, AGI 80-90, Range 90, Type Physical, Sells for $3750.
+Summons 30 bolts in a similar fashion as the Ice Bolt 7's attack. The bolts are spawned in a 1s interval and pierce terrain. 
+
+Sacred Rod 9 (Priest)
+AT 30-45, AGI 80-90, Range 90, Type Physical, Sells for $3750.
+Essentially an upgraded Holy Realm 7. Each time the Priest attacks with this staff all other characters heal 6 LP.
+
+Icicle Gun 9 (Gunner)
+AT 480-600, AGI 50-60, Range 120, Type Ice (Slow 30%), $75 shooting cost, Sells for $3750.
+Shoots an icicle as if it is a bullet from a rifle. Icicles travel slightly slower than bullets from Rifle 1.
+
+Holy Light Energy Whip 9 (Whipper)
+AT 9-36, AGI 15-20, Range 40, MP 450, Type Thunder, BAT 1-444 x3, Sells for $3750. 
+Essentially an upgraded Holy Light Flail 6. Upon magical activation releases 3 harmless lasers, each creating a vertical laser cutting through the screen when they hit the terrain for splash damage. The screen-cutting lasers are thicker allowing slightly larger hitting range for each laser, and the carrier lasers are faster, making the screen-cutting lasers spawn faster.
+
+Toxic Halo 9 (Angel)
+AT 11-12, AGI 20-30, MFC 25, Range 60, MP 999, Type Poison, BAT 66-99 @66% (1.32s), Sells for $3750.
+Essentially an upgraded Toxic Chakram 6. Upon magical activation creates a harmless spike which reflects off terrain while producing sparks which poisons enemies. The effect lasts for 4s.
+
+Freeze Dual Beamsword 9 (Dual Swordsman)
+AT 22-28, AGI 34-40, Range 20, MP 60, Type Freeze, BAT 18-30 x6x4 (0.2s), Sells for $3750.
+Works like the Ice Dual Spikesword 8, releasing 24 needles in 4 sets of 6 which freezes enemies upon magical activation. Needles pierce terrain instead of reflect off terrain.
+
+Thorn Mjolnir 9 (Hammerer)
+AT 150-200, AGI 80-90, Range 25, MP 100, Type Physical, BAT 120-200 x4x10, Knockback 50, Sells for $3750.
+Works like the Freeze Mjolnir 9. Upon magical activation releases 40 needles in 10 sets of 4 which pierce terrain and homes into enemies.
+
+Arctic Blowgun 9 (Predator)
+AT 160-240, AGI 50-60, Range 60, Type Freeze, BAT 40-60 x6 (0.4s), Sells for $3750.
+Shoots a pellet which creates 6 spikes in a star formation. The spikes deal splash damage and freezes enemies.
+
+Gigavolt 9 (Wizard)
+AT 1-11111, AGI 290-300, Range 180, Mana Cost 555, Type Thunder, Sells for $3750.
+Essentially a upgraded, more extreme version of Static Electricity 7. Creates a large mine on the closest enemy which deals extremely variable splash damage.
+
+
+Wasteland B Special Weapon Set
+--------------------------------------------------
+Ice Gauntlet 10 (Boxer)
+AT 15-30, AGI 15-40, Range 15, MP 100, Type Ice, BAT 18-27 x6 + 18-27 x6 (Slow 30%), Sells for $4500.
+Essentially an upgraded Ice Claw 6. Upon magical activation creates 6 snowflakes with reflecting capabilities whick breaks into 6 sparks for additional damage upon enemy hit.
+
+Poison Broadsword 10 (Gladiator)
+AT 40-50, AGI 20-30, Range 30, MP 75, Type Physical, BAT 50-60 x1x9 (0.5s), Sells for $4500.
+Essentially an upgraded Poison Blade 6. Upon magical activation releases 9 blazes with splashing capabilities.
+
+Quad Frost Arrow 10 (Sniper)
+AT 48-72 x4, AGI 30-40, Range 90, MP 60, Type Ice, BAT 75-100 x4 (Slow 25%), Sells for $4500.
+Shoots 4 arrows which upon magical activation leave 4 flake residues per arrow falling down and slide on terrain for up to 1.5s.
+
+Toxic Smog 10 (Magician)
+AT 24-36 x10, AGI 80-90, Range 90, Type Poison, Poison Time 1s, Sells for $4500.
+Works like Diamond Dust 10; summons 10 skulls around the nearest enemy which does splash damage. 
+
+Arctic Rod 10 (Priest)
+AT 30-40, AGI 80-90, Range 70, Type Freeze, Freeze Time 0.3s, Sells for $4500.
+Essentially an upgraded Freeze Exp Rod 8. Creates a snowflake which has a larger hitbox and increased splash damage.
+
+Bio Shotgun 10 (Gunner)
+AT 14-44 x14, AGI 80-90, Range 60, Type Poison, Poison Time 0.88s, $444 shooting cost, Sells for $4500.
+Shoots 14 poison clouds which spread and reaches a medium range. The spread is different from the typical Shotguns, and is actually more similar to the Wizard's Shockwave 8.
+
+Molten Energy Whip 10 (Whipper)
+AT 10-40, AGI 15-20, Range 40, MP 500, Type Fire, BAT 10-15 x3 (Burn 100%), Sells for $4500. 
+Essentially an upgraded Molten Flail 5. Upon magical activation releases 3 balls in a straight line which burns enemies for up to 2s.
+
+Holy Light Halo 10 (Angel)
+AT 12-13, AGI 20-30, MFC 25, Range 60, MP 1500, Type Thunder, BAT 1-666 @10%, Sells for $4500.
+Upon magical activation creates an invisible harmless projectile homing into enemies which produces towering lasers dealing splash damage. Effect lasts for 5s.
+
+Needle Dual Beamsword 10 (Dual Swordsman)
+AT 24-30, AGI 34-40, Range 20, MP 150, Type Physical, BAT 40-60 x18x3, Sells for $4500.
+Releases 54 needles in 3 sets of 18 which bounce off terrain.
+
+Ice Mjolnir 10 (Hammerer)
+AT 180-240, AGI 80-90, Range 25, MP 100, Type Ice, BAT 96-144 x5x9 (Slow 35%), Knockback 60, Sells for $4500.
+Upon magical activation releases 45 needles in 9 sets of 5 which flies off in the direction of the hammer's handle.
+
+Nova Blowgun 10 (Predator)
+AT 180-240, AGI 50-60, Range 60, Type Fire, BAT 60-90 x15, Sells for $4500.
+Shoots a pellet which creates 15 shurikens dealing splash damage on the same position.
+
+Deadly Toxic 10 (Wizard)
+AT 25-40 x5, AGI 320-330, Range 210, Mana Cost 750, Type Poison, BAT 25-40 x10 (5.5s) (BAT follows PAT), Sells for $4500.
+Essentially a upgraded Toxic Radiation 8. Shoots 5 bolts in an arc, each bursting into 10 terrain piercing skulls upon collision.

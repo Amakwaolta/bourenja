@@ -1,0 +1,39 @@
+Notes
+-------------------------------------------------- 
+In game abbreviations are as follows, where XXXXX is a non-empty word:
+XXXXX Energy Whip => XXXXX EW
+
+All BAT projectile counts in this list are based on a 0 DEX Whipper.
+
+Main Weapon Extension (Whips)
+--------------------------------------------------
+Energy Whip 9
+AT 360-540, AGI 15-20, Range 40, Type Physical, Buy for $23000, Sells for $2875.
+
+Stone Energy Whip 9
+AT 9-34, AGI 15-20, Range 40, MP 100, Type Physical, BAT 120-240 x3, Buy for $24000, Sells for $3000.
+Releases 3 Pellets which are a bit less focused than Stone Morning Star 7 and travel in a lower arc.
+
+Fire Energy Whip 9
+AT 9-35, AGI 15-20, Range 40, MP 120, Type Fire, BAT 30-40 x4 (Burn 3%), Buy for $25000, Sells for $3125.
+Releases 4 Blazes which spread out like the Stone Whip 1 and slide on terrain. Blazes last for 3s and deal splash damage.
+
+Thunder Energy Whip 9
+AT 9-36, AGI 15-20, Range 40, MP 200, Type Thunder, BAT 1-499 x5, Buy for $26000, Sells for $3250.
+Releases 5 Three Arrows like the Thunder Morning Star 7. The three arrows are more concentrated from one direction and also slides on terrain for up to 2s.
+
+Ice Energy Whip 10
+AT 10-37, AGI 15-20, Range 40, MP 160, Type Ice, BAT 180-240 x5 (Slow 30%), Buy for $27000, Sells for $3375.
+Releases 5 One Arrows like the Ice Morning Star 8. One Arrows have bouncing capabilities instead of sliding capabilities.
+
+Thorn Energy Whip 10
+AT 10-38, AGI 15-20, Range 40, MP 200, Type Physical, BAT 90-110 x45, Buy for $28000, Sells for $3500.
+Releases 45 terrain-piercing Needles which travel much faster but last shorter. Needles are half as dense as the Thorn Morning Star 8.
+
+Poison Energy Whip 10
+AT 10-39, AGI 15-20, Range 40, MP 360, Type Poison, BAT 36-36 x5 (Time 6s), Buy for $29000, Sells for $3625.
+Releases 5 poison clouds dealing splash damage like the Poison Morning Star 8. Clouds are slightly larger and appear one by one like the clouds from Poison Whip 2.
+
+Explosion Energy Whip 10
+AT 10-40, AGI 15-20, Range 40, MP 600, Type Fire, BAT 900-1200 x3, Buy for $30000, Sells for $3750.
+Releases 3 huge Balls which are stacked together, dealing extreme splash damage.

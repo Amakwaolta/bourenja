@@ -1,0 +1,60 @@
+Buffed LV 7-8 Main Weapons (Staves)
+--------------------------------------------------
+Strike Rod 7
+AT 75-75, AGI 80-90, Range 30, Type Physical, Buy for $15000, Sells for $1875.
+
+Inferno Rod 7
+AT 20-25, AGI 80-90, Range 70, Type Fire, Burn 4%, Buy for $16000, Sells for $2000.
+
+Thunder Rod 7
+AT 1-40 x3, AGI 80-90, Range 70, Type Thunder, Buy for $17000, Sells for $2125.
+
+Long Gold Rod 7
+AT 12-20, AGI 80-90, Range 190, Type Physical, Buy for $18000, Sells for $2250.
+
+Poisonous Rod 8
+AT 2-3, AGI 80-90, Range 70, Type Poison, Poison Time 1s, Buy for $19000, Sells for $2375.
+
+Freeze Exp Rod 8
+AT 5-20, AGI 80-90, Range 70, Type Freeze, Freeze Time 0.2s, Buy for $20000, Sells for $2500.
+
+Giga Exp Rod 8
+AT 12-20, AGI 80-90, Range 70, Type Fire, Buy for $21000, Sells for $2625.
+
+Power Rod 8
+AT 120-150, AGI 80-90, Range 30, Type Physical, Buy for $22000, Sells for $2750.
+
+
+Main Weapon Extension (Staves)
+--------------------------------------------------
+Cold Rod 9
+AT 36-48 x6, AGI 80-90, Range 70, Type Ice, Slow 20%, Buy for $23000, Sells for $2875.
+Creates 6 Needles in a star-shape formation on each enemy within attack range.
+
+Molten Rod 9
+AT 36-48, AGI 80-90, Range 70, Type Fire, Burn 5%, Buy for $24000, Sells for $3000.
+Works like the Inferno Rod 7 but creates Shurikens with a larger homing range instead. Shurikens last for 4s. 
+
+Long Diamond Rod 9
+AT 30-45, AGI 80-90, Range 220, Type Physical, Buy for $25000, Sells for $3125.
+Longest Staff in game.
+
+Frost Rod 9
+AT 48-72 x3, AGI 80-90, Range 70, Type Freeze, Freeze Time 0.3s, Buy for $26000, Sells for $3250.
+Creates 3 Spikes in a star-shape formation on each enemy within attack range.
+
+Electric Rod 10
+AT 1-33 x15, AGI 80-90, Range 70, Type Thunder, Buy for $27000, Sells for $3375.
+Works like the Thunder Rod 7; Creates 15 Shurikens gradually on each enemy within attack range, with Shurikens slightly spreaded. 
+
+Toxic Rod 10
+AT 8-8, AGI 80-90, Range 70, Type Poison, Poison Time 1.32s, Buy for $28000, Sells for $3500.
+An upgraded Poisonous Rod 8 with doubled AT and increased Poison Time.
+
+Impact Rod 10
+AT 120-120 x3, AGI 80-90, Range 30, Type Physical, Buy for $29000, Sells for $3625.
+3 Three Arrows appear one by one above each enemy in range and fall at an extreme speed, hitting the enemies. Three Arrows pierce terrain.
+
+Tera Exp Rod 10
+AT 60-80, AGI 80-90, Range 70, Type Fire, Buy for $30000, Sells for $3750.
+Has improved blast radius and AT compared with Giga Exp Rod 8. The staff also creates Shurikens instead of Balls.

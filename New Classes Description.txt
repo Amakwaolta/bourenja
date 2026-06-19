@@ -1,0 +1,40 @@
+Dual Swordsman
+--------------------------------------------------
+A class which uses 2 Swords as its weapon and sways them alternatively as the attack. Meant to be a "Half Boxer, Half Gladiator" in terms of attack power and attack speed.
+
+More description: http://fanball.wikia.com/wiki/Dual_Swordsman
+
+
+Hammerer
+--------------------------------------------------
+Created by Samuel17 from DB/FB wiki, this is a class which uses a hammer as its weapon. Attacks provides Knockback and packs a huge punch, but at the expense of being slow.
+
+More description: http://fanball.wikia.com/wiki/Hammerer
+
+Notes: 
+*All Knockback powers are halved in this mod. Note that the Gladiator-based system for this class results in rather random Knockback directions (and hence a possible reason why Swords do not accept Knockback's Card in canonical SR).
+
+
+Predator
+--------------------------------------------------
+Created by HankGuideDude from DB/FB wiki, this is a class which uses a blowgun as its weapon. Works like a fusion between several ranged classes, it has a wide weapon type selection, can deal critical damage as a basic skill as well as provide aura like Priests, though only temporarily.
+
+More description: http://fanball.wikia.com/wiki/Predator
+
+Notes:
+* The weapon list is based on, but also vastly different compared with the original ideas.
+* War Cry works on all characters automatically without range requirements, but MAG only charges MP for the War Cry and War Cry strength is weapon dependent. In addition, War Cry only lasts for 15 seconds instead on 1 minute.
+* Critical hits from STR is activated at 20% chance instead of 10% and gives +10% AT per STR instead of +5%.
+
+Wizard
+--------------------------------------------------
+Created by 1X3B from FB wiki, this is a class which casts magic. Unlike the Magician who creates attacks at will, this Class uses Mana to cast much stronger attacks.
+
+More description: http://fanball.wikia.com/wiki/Wizard
+
+Notes:
+* The weapon list is based on, but also vastly different compared with the original ideas.
+* Due to technical limitations, all Mana Costs are counted per attack instead of per bullet as proposed by the idea.
+* Paying to heal LP at the Inn will restore all Mana. This can be done even if all stickmen are at full LP (and hence cost = $0)
+* Mana Regeneration from DEX only works if the Wizard is equipped with a Tome.
+* Stars are dropped by all enemies with 5% chance. Enemies who drop extra Onigiris will also drop an extra Star at the same rate.

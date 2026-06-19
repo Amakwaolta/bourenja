@@ -1,0 +1,806 @@
+Settlement
+--------------------------------------------------
+Previous Stage: Hell Castle
+Next Stage: Cavern 9
+A Peaceful stage with Inn, Book, and a Shop selling all non-Resort Special Weapons (1-slotted) before Hell Castle.
+
+Note: The Indra Arrow 6 and Napalm Bomb 6 is sold in this Shop and can be bought for $20000.
+
+
+Cavern 9 (CV9)
+--------------------------------------------------
+Previous Stage: Settlement
+Next Stage: Cavern 10
+Book Price: $101000
+
+Introduces a new head: Roundhead (Smiling)
+
+Enemies:
+Yellow Roundhead Stickman
+LP 50000, AT 60-80, Min AGI 50, Expected AGI 58.86, Range 20.
+No strengths or weaknesses.
+LV 98, EXP 1000, Gold 1000.
+Uses a close range two arrow attack.
+
+Orange Roundhead Block
+LP 40000, AT 8-12 x5, Min AGI 200, Expected AGI 208.86, Range 150.
+No strengths or weaknesses.
+LV 98, EXP 1000, Gold 1000.
+Shoots 5 terrain-piercing needles towards characters serially.
+
+Red Roundhead Stickman
+LP 80000, AT 8-12 (Fi, Burn 8%), Min AGI 20, Expected AGI 23.98, Range 40.
+Strength: Fire (AT -50%)
+LV 100, EXP 1000, Gold 1500.
+Shoots a Blaze that works like the Fire from the Red Skull Stickman in CV3.
+
+Red Boss Roundhead Stickman
+LP 250000, AT 10-20 (Fi, Burn 8%), Min AGI 20, Expected AGI 23.98, Range 80.
+Strength: Fire (AT =1), Freeze (Time -100%)
+LV 101, EXP 5000, Gold 2500.
+Shoots a Blaze that works like the Fire from the Red Boss Skull Stickman in CV3. The Blaze deals splash damage as an upgrade apart from AT.
+ 
+Green Fairy Fish
+LP 7777, AT 7-77 (Th), Min AGI 77, Expected AGI 77, Range 27.
+Strength: Physical (AT -777777), Fire (AT =1), Thunder (AT =1), Ice (AT =1, Slow Immune), Poison (Immune), Freeze (Time -100%)
+LV 101, EXP 2777, Gold 7777.
+Shoots a green thunderbolt towards the nearest character. This enemy also has Boss-like resistance to Satan's Card and Type Darkness LP Drain effects.
+
+CV9:1 has 5 Yellow Roundhead Stickmen, 1 Orange Roundhead Block and 1 Green Fairy Fish
+CV9:2 has 5 Yellow Roundhead Stickmen, 2 Red Roundhead Stickmen and 1 Green Fairy Fish
+CV9:3 has 5 Yellow Roundhead Stickmen, 5 Orange Roundhead Blocks and 1 Green Fairy Fish
+CV9:4 has 4 Yellow Roundhead Stickmen, 4 Orange Roundhead Blocks, 2 Red Roundhead Stickmen and 1 Green Fairy Fish
+CV9:5 has 5 Yellow Roundhead Stickmen, 5 Orange Roundhead Blocks, 3 Red Roundhead Stickmen and 1 Green Fairy Fish
+CV9:BOSS has 15 Red Roundhead Stickmen and 5 Red Boss Roundhead Stickmen
+
+The Green Fairy Fish only appears when there is sufficient water in the terrain. 
+
+
+Cavern 10 (CV10)
+--------------------------------------------------
+Previous Stage: Cavern 9
+Next Stage: Cavern 11
+Book Price: $102000
+
+Enemies: 
+Purple Coconut Bat
+LP 50000, AT 40-60, Min AGI 50, Expected AGI 81.03, Range 30.
+No strengths or weaknesses.
+LV 100, EXP 1000, Gold 500.
+Uses a one-arrow melee attack.
+
+Blue Coconut Bat
+LP 50000, AT 8-12 x3 (Ic, Slow 30%), Min AGI 50, Expected AGI 81.03, Range 60.
+Strength: Ice (AT & TIme -50%), Freeze (Time -50%)
+LV 100, EXP 1000, Gold 500.
+Shoots a group of 3 needles while slows characters.
+
+Cyan Demon Bat
+LP 75000, AT 6-8 (Fr, Time 0.5s), Min AGI 50, Expected AGI 81.03, Range 120.
+Strength: Ice (AT & TIme -50%), Freeze (Time -50%)
+LV 102, EXP 1000, Gold 1000.
+Shoots a terrain-piercing wave attack that freezes characters.
+
+White Boss Coconut Bat
+LP 500000, AT 18-24 x10, Min AGI 50, Expected AGI 68.34, Range 90.
+Strength: Ice (AT =1, Slow Immune), Freeze (Time -100%)
+LV 103, EXP 10000, Gold 7500.
+Shoots 10 needles like the White Boss Skull Bat in CV2. The needles last much longer and bounce off terrain.
+
+Green Smiley Fish
+LP 8888, AT 8-88 (Th), Min AGI 88, Expected AGI 88, Range 38.
+Strength: Physical (AT -888888), Fire (AT =1), Thunder (AT =1), Ice (AT =1, Slow Immune), Poison (Immune), Freeze (Time -100%)
+LV 103, EXP 2888, Gold 8888.
+Shoots a green thunderbolt towards the nearest character. This enemy also has Boss-like resistance to Satan's Card and Type Darkness LP Drain effects.
+
+CV10:1 has 8 Purple Coconut Bats and 1 Green Smiley Fish
+CV10:2 has 8 Purple Coconut Bats, 5 Blue Coconut Bats and 1 Green Smiley Fish
+CV10:3 has 8 Purple Coconut Bats, 5 Cyan Demon Bats and 1 Green Smiley Fish
+CV10:4 has 8 Blue Coconut Bats, 5 Cyan Demon Bats and 1 Green Smiley Fish
+CV10:5 has 6 Purple Coconut Bats, 6 Blue Coconut Bats, 6 Cyan Demon Bats and 1 Green Smiley Fish
+CV10:6 has 8 Purple Coconut Bats, 8 Blue Coconut Bats, 8 Cyan Demon Bats and 1 Green Smiley Fish
+CV10:BOSS has 8 Blue Coconut Bats and 1 White Boss Coconut Bat
+
+The Green Smiley Fish only appears when there is sufficient water in the terrain.
+
+
+Cavern 11 (CV11)
+--------------------------------------------------
+Previous Stage: Cavern 10
+Next Stage: Forest 7
+Book Price: $103000
+
+Introduces a new head: Smiley (Angry)
+
+Enemies: 
+Orange Smiley Walker
+LP 80000, AT 64-96, Min AGI 50, Expected AGI 95.59, Range 20.
+No strengths or weaknesses.
+LV 102, EXP 1000, Gold 800.
+Uses a two-arrow melee attack.
+
+Green Cap Snake
+LP 80000, AT 1-11 (Th), Min AGI 10, Expected AGI 10, Range 1000.
+Strength: Thunder (AT -50%)
+LV 102, EXP 1000, Gold 1000.
+Leaves a trail of shurikens as it moves.
+
+Red Cap Snake
+LP 100000, AT 1-44 (Th), Min AGI 50, Expected AGI 81.03, Range 150.
+Strength: Thunder (AT -50%)
+LV 104, EXP 1000, Gold 1200.
+Shoots a terrain-piercing thunderbolt.
+
+White Boss Smiley Walker
+LP 800000, AT 1-66 (Th) x10, Min AGI 15, Expected AGI 74.29, Range 180.
+Strength: Thunder (AT =1), Freeze (Time -100%)
+LV 105, EXP 10000, Gold 10000.
+Shoots 10 pellets like its cousin in CV2. The pellets deal thunder damage and has a decent homing range, making it extremely dangerous at close range.
+
+Green Skull Fish
+LP 9999, AT 9-99 (Th), Min AGI 99, Expected AGI 99, Range 49.
+Strength: Physical (AT -999999), Fire (AT =1), Thunder (AT =1), Ice (AT =1, Slow Immune), Poison (Immune), Freeze (Time -100%)
+LV 103, EXP 2999, Gold 9999.
+Shoots a green thunderbolt towards the nearest character. This enemy also has Boss-like resistance to Satan's Card and Type Darkness LP Drain effects.
+
+CV11: 1 has 5 Orange Smiley Walkers and 1 Green Skull Fish
+CV11: 2 has 5 Orange Smiley Walkers, 5 Green Cap Snakes and 1 Green Skull Fish
+CV11: 3 has 5 Orange Smiley Walkers, 5 Red Cap Snakes and 1 Green Skull Fish
+CV11: 4 has 5 Orange Smiley Walkers, 5 Green Cap Snakes and 1 Green Skull Fish
+CV11: 5 has 5 Orange Smiley Walkers, 5 Green Cap Snakes, 5 Red Cap Snakes and 1 Green Skull Fish
+CV11: 6 has 6 Orange Smiley Walkers, 6 Green Cap Snakes, 6 Red Cap Snakes and 1 Green Skull Fish
+CV11: BOSS has 1 White Boss Smiley Walker
+
+The Green Skull Fish only appears when there is sufficient water in the terrain.
+
+
+Forest 7 (F7)
+--------------------------------------------------
+Previous Stage: Cavern 11
+Next Stage: Forest 8
+Book Price: $104000
+
+Enemies: 
+Tan Roundhead Dragon
+LP 30000, AT 8-12, Min AGI 50, Expected AGI 68.34, Range 30.
+No strengths or weaknesses.
+LV 104, EXP 600, Gold 600.
+Uses a melee needle attack.
+
+Purple Cap Mushroom
+LP 96000, AT 2-4 (Po, 0.2s -> Total 20-40), Min AGI 10, Expected AGI 10, Range 1000.
+Strength: Poison (Immune)
+LV 105, EXP 1200, Gold 900.
+When provoked releases a poison cloud like the Mushrooms in F1/F2.
+
+Red Roundhead Dragon
+LP 80000, AT 10-15 x5, Min AGI 50, Expected AGI 68.34, Range 100.
+No strengths or weaknesses.
+LV 106, EXP 1200, Gold 1800.
+Drops 5 needles which lingers on the ground.
+
+Purple Boss Cap Mushroom
+LP 960000, AT 1-1 x6 (Po, 1.98s -> Total 99), BAT 1-1 x6 (Po, 1.98s -> Total 99), Min AGI 75, Expected AGI 75, Range 1000.
+Strength: Poison (Immune), Freeze (Time -100%)
+LV 107, EXP 12000, Gold 12000.
+When provoked releases 6 pellets in an arc which leaves 6 cloud residues when hit.
+
+F7:1 has 6 Tan Roundhead Dragons and 3 Purple Cap Mushrooms
+F7:2 has 4 Purple Cap Mushrooms and 3 Red Roundhead Dragons
+F7:3 has 15 Tan Roundhead Dragons and 5 Purple Cap Mushrooms
+F7:4 has 5 Purple Cap Mushrooms and 5 Red Roundhead Dragons
+F7:5 has 15 Tan Roundhead Dragons and 5 Red Roundhead Dragons
+F7:6 has 3 Tan Roundhead Dragons, 15 Purple Cap Mushrooms and 1 Red Roundhead Dragon
+F7:7 has 18 Tan Roundhead Dragons, 6 Purple Cap Mushrooms and 6 Red Roundhead Dragons
+F7:BOSS has 3 Tan Roundhead Dragons, 3 Purple Cap Mushrooms, 1 Red Roundhead Dragon and 1 Purple Boss Cap Mushroom
+
+
+Forest 8 (F8)
+--------------------------------------------------
+Previous Stage: Forest 7
+Next Stage: Wasteland 1
+Book Price: $105000
+
+Enemies:
+Tan Roundhead Spider
+LP 100000, AT 10-20, Min AGI 10, Expected AGI 12.99, Range 20.
+Strength: Physical (AT -1000)
+LV 106, EXP 1200, Gold 900.
+Uses a melee one-arrow attack.
+
+Green Cap Mushroom
+LP 100000, AT 2-4 (Po, 0.2s -> Total 20-40), Min AGI 10, Expected AGI 10, Range 1000.
+Strength: Poison (Immune)
+LV 107, EXP 1200, Gold 900.
+Essentially the same as the Purple Cap Mushroom in F7 but with slightly more LP.
+
+Red Roundhead Spider
+LP 50000, AT 40-60, Min AGI 50, Expected AGI 68.34, Range 80.
+Strength: Physical (AT -10000)
+LV 108, EXP 1800, Gold 1200.
+Shoots a needle towards characters.
+
+Green Boss Cap Mushroom
+LP 500000, AT 6-8 x8, Min AGI 10, Expected AGI 10, Range 1000.
+Strength: Physical (AT -100000), Poison (Immune), Freeze (Time -100%)
+LV 109, EXP 6000, Gold 6000.
+When provoked releases 8 pellets in an arc.
+
+F8:1 has 3 Green Cap Mushrooms
+F8:2 has 5 Tan Roundhead Spiders and 4 Green Cap Mushrooms
+F8:3 has 5 Green Cap Mushrooms and 5 Red Roundhead Spiders
+F8:4 has 5 Tan Roundhead Spiders, 5 Green Cap Mushrooms and 5 Red Roundhead Spiders
+F8:5 has 8 Tan Roundhead Spiders and 8 Red Roundhead Spiders
+F8:6 has 1 Tan Roundhead Spiders, 15 Green Cap Mushrooms and 1 Red Roundhead Spider
+F8:7 has 6 Tan Roundhead Spiders, 6 Green Cap Mushrooms and 6 Red Roundhead Spiders
+F8:BOSS has 10 Green Cap Mushrooms, 3 Green Boss Cap Mushrooms
+
+Wasteland 1 (WL1)
+--------------------------------------------------
+Previous Stage: Forest 8
+Next Stage: Wasteland 2, Wasteland 3
+Book Price: $106000
+
+Introduces a new head: Gel (Annoyed), based on a hidden spirit from Monster Box
+Introduces a new attack: Three Arrow, based on a sprite sheet extension made by RedHardcore in DB/FB wiki.
+
+Enemies:
+Cyan Gel Digger
+LP 80000, AT 8-12 x3 (Fr, Time 0.6s), Min AGI 100, Expected AGI 118.34, Range 150.
+No strengths or weaknesses.
+LV 108, EXP 1200, Gold 800.
+Shoots 3 terrain piercing snowflakes which freezes characters.
+
+Green Roundhead Wheel
+LP 40000, AT 8-12, Min AGI 50, Expected AGI 68.34, Range 20.
+No strengths or weaknesses.
+LV 107, EXP 400, Gold 200.
+Uses a Three Arrow melee attack.
+
+Yellow Big Smiley Wheel
+LP 160000, AT 1-77 (Th), Min AGI 5, Expected AGI 5, Range 1000.
+No strengths or weaknesses.
+LV 109, EXP 2400, Gold 2400.
+Drops Three Arrow attacks which can linger on terrain for 2s.
+
+Orange Boss Smiley Wheel
+LP 1200000, AT 2-4 x3 (Fi, Burn 5%), Min AGI 5, Expected AGI 5, Range 1000.
+Strength: Freeze (Time -100%)
+LV 111, EXP 12000, Gold 12000.
+Spews blazes in sets of 3 rapidly which lingers on terrain for 4s. Blazes deal splash damage.
+
+WL1:1 has 30 Green Roundhead Wheels
+WL1:2 has 3 Cyan Gel Diggers and 50 Green Roundhead Wheels
+WL1:3 has 5 Cyan Gel Diggers and 40 Green Roundhead Wheels
+WL1:4 has 5 Cyan Gel Diggers and 1 Yellow Big Smiley Wheel
+WL1:5 has 80 Green Roundhead Wheels and 2 Yellow Big Smiley Wheels
+WL1:6 has 7 Cyan Gel Diggers and 3 Yellow Big Smiley Wheels
+WL1:7 has 8 Cyan Gel Diggers, 50 Green Roundhead Wheels and 2 Yellow Big Smiley Wheels
+WL1:BOSS has 10 Green Roundhead Wheels, 2 Yellow Big Smiley Wheels and 1 Orange Boss Smiley Wheel
+
+Wasteland 2 (WL2)
+--------------------------------------------------
+Previous Stage: Wasteland 1
+Next Stage: Hill Country 4, Wasteland A
+Book Price: $107000
+
+Enemies:
+Grey Big Roundhead Spider
+LP 300000, AT 150-200, Min AGI 100, Expected AGI 108.86, Range 60.
+No strengths or weaknesses.
+LV 110, EXP 8000, Gold 8000.
+Uses a Three Arrow attack with semi-low range. 50% chance of dropping an extra Onigiri and an extra Star.
+
+Cyan Big Smiley Stickman
+LP 300000, AT 16-24 (Ic, Slow 40%), Min AGI 10, Expected AGI 10, Range 150.
+No strengths or weaknesses.
+LV 110, EXP 8000, Gold 8000.
+Drops Needles around itself which slows characters and lingers on terrain for up to 2s. 50% chance of dropping an extra Onigiri and an extra Star.
+
+Purple Big Gel Tree
+LP 500000, AT 1-2 (Dk), Min AGI 5, Expected AGI 8.98, Range 1000.
+No strengths or weaknesses.
+LV 111, EXP 10000, Gold 10000.
+Shoots lasers which drains 1%/2% of current LP. Lasers pierce terrain and has 200 homing range. 100% chance of dropping an extra Onigiri and an extra Star.
+
+Grey Boss Roundhead Zombie
+LP 75000, AT 10-10, Min AGI 25, Expected AGI 25, Range 100.
+Strength: Freeze (Time -100%)
+LV 113, EXP 500, Gold 1000.
+Uses a pellet attack similar to those from the White Boss Box Stickman in Desert 5.
+
+WL2:1 has 3 Grey Big Roundhead Spiders
+WL2:2 has 1 Grey Big Roundhead Spider and 3 Cyan Big Smiley Stickmen
+WL2:3 has 2 Grey Big Roundhead Spiders and 1 Purple Big Gel Tree
+WL2:4 has 3 Cyan Big Smiley Stickmen and 1 Purple Big Gel Tree
+WL2:5 has 2 Grey Big Roundhead Spiders, 2 Cyan Big Smiley Stickmen and 1 Purple Big Gel Tree
+WL2:6 has 1 Grey Big Roundhead Spider, 1 Cyan Big Smiley Stickman and 2 Purple Big Gel Trees
+WL2:BOSS has 50 Grey Boss Roundhead Zombies
+
+
+Wasteland 3 (WL3)
+--------------------------------------------------
+Previous Stage: Wasteland 1
+Next Stage: Wasteland 4
+Book Price: $108000
+
+Introduces a new species: UFO, based on an idea from the Fan-Ball wiki. Flies around the screen like Copters.
+
+Enemies:
+Grey Smiley Tree
+LP 120000, AT 24-48, Min AGI 50, Expected AGI 95.59, Range 100.
+No strengths or weaknesses.
+LV 111, EXP 1200, Gold 1200.
+Shoots a Spike in an arc towards characters.
+
+Green Gel UFO
+LP 75000, AT 6-8, Min AGI 5, Expected AGI 5, Range 150.
+No strengths or weaknesses.
+LV 111, EXP 1200, Gold 1200.
+Drops Three Arrow attacks rapidly when a character is within its range.
+
+Orange Gel UFO
+LP 90000, AT 2-4 (Fi, Burn 5%), Min AGI 5, Expected AGI 5, Range 150.
+No strengths or weaknesses.
+LV 112, EXP 2400, Gold 2400.
+Drops Lasers which lingers on terrain dealing splash damage. Each laser lasts for 2s.
+
+Purple Boss Smiley Tree
+LP 1500000, AT 30-45 x5, Min AGI 50, Expected AGI 58.86, Range 300.
+Strength: Freeze (Time -100%)
+LV 114, EXP 12000, Gold 12000.
+Shoots 5 Spikes in a similar way as its happy cousin in Grassland 6.
+
+WL3:1 has 5 Grey Smiley Trees
+WL3:2 has 5 Grey Smiley Trees and 3 Green Gel UFOs
+WL3:3 has 5 Grey Smiley Trees and 3 Orange Gel UFOs
+WL3:4 has 8 Grey Smiley Trees, 2 Green Gel UFOs and 2 Orange Gel UFOs
+WL3:5 has 6 Green Gel UFOs and 6 Orange Gel UFOs
+WL3:6 has 20 Grey Smiley Trees
+WL3:7 has 10 Grey Smiley Trees, 3 Green Gel UFOs and 3 Orange Gel UFOs
+WL3:BOSS has 5 Grey Smiley Trees, 2 Green Gel UFOs, 2 Orange Gel UFOs and 1 Purple Boss Smiley Tree
+
+
+Wasteland 4 (WL4)
+--------------------------------------------------
+Previous Stage: Wasteland 3
+Next Stage: Wasteland 5
+Book Price: $109000
+
+Enemies:
+Green Smiley Block
+LP 75000, AT 6-8 x2, Min AGI 50, Expected AGI 95.59, Range 100.
+No strengths or weaknesses.
+LV 113, EXP 500, Gold 300.
+Shoots 2 pellets in an arc towards characters.
+
+Pink Gel Snake
+LP 120000, AT 10-15 x3, Min AGI 20, Expected AGI 65.59, Range 60.
+No strengths or weaknesses.
+LV 113, EXP 1250, Gold 750.
+Shoots 3 One Arrow attacks towards characters.
+
+Orange Smiley Tree
+LP 200000, AT 6-9 (Fi, Burn 10%), Min AGI 50, Expected AGI 58.86, Range 180.
+No strengths or weaknesses.
+LV 115, EXP 2500, Gold 1500.
+Fires a Laser which falls and bounce off terrain. Each laser lasts for 20s.
+
+Red Boss Smiley Tree
+LP 800000, AT 2-3 x9 (Fi, Burn 5%), Min AGI 50, Expected AGI 95.59, Range 300.
+Strength: Freeze (Time -100%)
+LV 116, EXP 7500, Gold 7500.
+Fires 9 Lasers in an arc which bounce off terrain and homes into characters. Each laser lasts for 10s.
+
+WL4:1 has 18 Green Smiley Blocks
+WL4:2 has 24 Green Smiley Blocks and 3 Pink Gel Snakes
+WL4:3 has 18 Green Smiley Blocks and 6 Pink Gel Snakes
+WL4:4 has 18 Green Smiley Blocks and 6 Pink Gel Snakes
+WL4:5 has 27 Green Smiley Blocks and 1 Orange Smiley Tree
+WL4:6 has 27 Green Smiley Blocks and 3 Orange Smiley Trees
+WL4:7 has 36 Green Smiley Blocks, 3 Pink Gel Snakes and 4 Orange Smiley Trees
+WL4:8 has 9 Pink Gel Snakes and and 6 Orange Smiley Trees
+WL4:BOSS has 3 Green Smiley Blocks, 3 Pink Gel Snakes, 3 Orange Smiley Trees and 3 Red Boss Smiley Trees
+
+
+Wasteland 5 (WL5)
+--------------------------------------------------
+Previous Stage: Wasteland 4
+Next Stage: Wasteland 7, Dried Lake
+Book Price: $110000
+
+Enemies:
+Blue Demon Snake
+LP 125000, AT 15-25, Min AGI 50, Expected AGI 95.59, Range 50.
+No strengths or weaknesses.
+LV 115, EXP 1000, Gold 1000.
+Shoots a Three Arrow towards characters.
+
+Yellow Vampire Block
+LP 100000, AT 1-22 x7 (Th), Min AGI 100, Expected AGI 118.34, Range 150.
+No strengths or weaknesses.
+LV 115, EXP 1250, Gold 1250.
+Releases a burst of 7 small Thunder bolts in a high arc.
+
+Red Demon Snake
+LP 250000, AT 12-18, Min AGI 10, Expected AGI 11.00, Range 200.
+No strengths or weaknesses.
+LV 117, EXP 2500, Gold 2000.
+Shoots Three Arrows rapidly towards characters like how the Red Fairy Snake (GL4) shoots its Waves. The Three Arrows are both denser and faster.
+
+Blue Boss Demon Snake
+LP 400000, AT 15-20 x3, Min AGI 30, Expected AGI 48.34, Range 120.
+Strength: Freeze (Time -100%)
+LV 118, EXP 3000, Gold 3000.
+Shoots 3 Three Arrow towards characters. The Three Arrow attack works like the Grey Boss Roundhead Snake's attack.
+
+WL5:1 has 10 Blue Demon Snakes
+WL5:2 has 20 Blue Demon Snakes and 3 Yellow Vampire Blocks
+WL5:3 has 30 Blue Demon Snakes and 6 Yellow Vampire Blocks
+WL5:4 has 20 Blue Demon Snakes and 1 Red Demon Snake
+WL5:5 has 20 Blue Demon Snakes and 9 Yellow Vampire Blocks
+WL5:6 has 20 Blue Demon Snakes, 6 Yellow Vampire Blocks and 2 Red Demon Snakes
+WL5:7 has 20 Blue Demon Snakes, 9 Yellow Vampire Blocks and 3 Red Demon Snakes
+WL5:BOSS has 16 Blue Demon Snakes and 12 Blue Boss Demon Snakes
+
+
+Wasteland 6 (WL6)
+--------------------------------------------------
+Previous Stage: Wasteland 4
+Next Stage: Wasteland 7
+Book Price: $111000
+
+Enemies:
+Green Gel UFO
+LP 100000, AT 8-12, Min AGI 20, Expected AGI 20, Range 80.
+No strengths or weaknesses.
+LV 117, EXP 400, Gold 200.
+Drops Lasers to the ground.
+
+Cyan Roundhead Spider
+LP 250000, AT 72-108, Min AGI 50, Expected AGI 95.59, Range 40.
+No strengths or weaknesses.
+LV 117, EXP 1000, Gold 500.
+Uses a melee One Arrow attack.
+
+White Roundhead Germ
+LP 150000, AT 8-12 x3, Min AGI 25, Expected AGI 25, Range 80.
+No strengths or weaknesses.
+LV 118, EXP 1250, Gold 1000.
+Shoots 3 spikes towards characters.
+
+Yellow Big Gel UFO
+LP 200000, AT 1-88 (Th), BAT 1-44 (Th), Min AGI 75, Expected AGI 75, Range 150.
+No strengths or weaknesses.
+LV 119, EXP 2500, Gold 2500.
+Shoots a Thunder bolt towards characters. Upon collision the Thunder creates a large shock which deals splash damage.
+
+Red Boss Gel UFO
+LP 1800000, AT 99-99 (Fi, Burn 5%), BAT 12-16 x30 (Fi, Burn 5%), Min AGI 50, Expected AGI 68.34, Range 100.
+Strength: Freeze (Time -100%)
+LV 120, EXP 12500, Gold 12500.
+Attacks in a similar pattern as the Red Boss Roundhead Copter in Mountain 2: Drops a bolt which erupts into 30 Fire upon terrain collision. The Fire residues spread slightly making it more dangerous.
+
+WL6:1 has 8 Green Gel UFOs and 3 Cyan Roundhead Spiders
+WL6:2 has 8 Green Gel UFOs, 3 Cyan Roundhead Spiders and 1 White Roundhead Germ
+WL6:3 has 12 Green Gel UFOs, 3 Cyan Roundhead Spiders and 3 White Roundhead Germs
+WL6:4 has 12 Green Gel UFOs and 6 White Roundhead Germs
+WL6:5 has 9 Cyan Roundhead Spiders and 1 Yellow Big Gel UFO
+WL6:6 has 12 Green Gel UFOs, 6 Cyan Roundhead Spiders, 3 White Roundhead Germs and 1 Yellow Big Gel UFO
+WL6:7 has 36 Green Gel UFOs and 2 Yellow Big Gel UFOs
+WL6:8 has 9 Green Gel UFOs, 6 Cyan Roundhead Spiders, 6 White Roundhead Germs and 3 Yellow Big Gel UFOs
+WL6:BOSS has 6 Cyan Roundhead Spiders and 1 Red Boss Gel UFO
+
+
+Wasteland 7 (WL7)
+--------------------------------------------------
+Previous Stage: Wasteland 5, Wasteland 6
+Next Stage: Wasteland 8
+Book Price: $112000
+
+Enemies:
+Blue Roundhead Wheel
+LP 200000, AT 6-10 (Ic, Slow 20%), Min AGI 10, Expected AGI 10, Range 1000.
+Strength: (AT & Time -20%), Freeze (Time -20%)
+LV 120, EXP 1000, Gold 1000.
+Leaves a trail of Clouds which slows characters.
+
+Orange Smiley Walker
+LP 250000, AT 80-120, Min AGI 50, Expected AGI 95.59, Range 30.
+Strength: Physical (AT -500)
+LV 120, EXP 1000, Gold 1000.
+Uses a Three Arrow melee attack. Has increased range compared with its other cousins.
+
+Yellow X Walker
+LP 220000, AT 1-33 (Th), BAT 1-33 (Th), Min AGI 50, Expected AGI 95.59, Range 150.
+Strength: Thunder (AT -20%)
+LV 121, EXP 1500, Gold 1500.
+Shoots a Laser that upon collision with characters or ground creates a large Laser cutting through the stage dealing splash damage. Different from the Grey Big Box Snake in Forest 6, the small Laser also deals damage if it hits a character.
+
+Green Triangle UFO
+LP 250000, AT 10-10 (Po, 0.4s -> Total 200), Min AGI 100, Expected AGI 100, Range 1000.
+Strength: Poison (Immune)
+LV 122, EXP 2500, Gold 2500.
+Drops Wave attacks that poisons characters draining a hefty amount of LP.
+
+Grey Boss Box Block
+LP 1800000, AT 1000-3000, Min AGI 500, Expected AGI 500, Range 1000.
+Strength: Ice (Slow Immune), Freeze (Time -100%)
+LV 123, EXP 15000, Gold 15000.
+Shoots a large, long Bullet at EXTREME velocity upon Boss screen entry and every 10s afterwards, killing most Characters instantly if they are hit. Note that the Boss shoots the Bullet towards the closest Character.
+
+WL7:1 has 4 Blue Roundhead Wheels and 3 Orange Smiley Walkers
+WL7:2 has 6 Blue Roundhead Wheels and 6 Orange Smiley Walkers
+WL7:3 has 10 Blue Roundhead Wheels and 2 Orange Smiley Walkers
+WL7:4 has 6 Blue Roundhead Wheels, 5 Orange Smiley Walkers and 2 Yellow X Walkers
+WL7:5 has 9 Orange Smiley Walkers and 3 Yellow X Walkers
+WL7:6 has 6 Blue Roundhead Wheels, 12 Orange Smiley Walkers and 1 Green Triangle UFO
+WL7:7 has 6 Blue Roundhead Wheels, 8 Orange Smiley Walkers, 5 Yellow X Walkers and 2 Green Triangle UFO
+WL7:8 has 10 Blue Roundhead Wheels, 3 Orange Smiley Walkers, 5 Yellow X Walkers and 3 Green Triangle UFO
+WL7:BOSS has 1 Grey Boss Box Block
+
+
+Wasteland 8 (WL8)
+--------------------------------------------------
+Previous Stage: Wasteland 7, Hill Country 6
+Next Stage: Closing Street
+Book Price: $113000
+
+Enemies:
+Green Roundhead Snake
+LP 150000, AT 18-24, Min AGI 40, Expected AGI 58.34, Range 50.
+No strengths or weaknesses.
+LV 124, EXP 900, Gold 600.
+Shoots a Three Arrow towards characters.
+
+Yellow Gel Snake
+LP 300000, AT 1-33 (Th), Min AGI 25, Expected AGI 25, Range 120.
+No strengths or weaknesses.
+LV 125, EXP 1500, Gold 1500.
+Creates a Spike which behaves like those from the Yellow Big Coconut Snake in Hell 2.
+
+Red Smiley Snake
+LP 450000, AT 25-50 (Fi), BAT 25-50 (Fi), Min AGI 50, Expected AGI 68.34, Range 150.
+No strengths or weaknesses.
+LV 126, EXP 2500, Gold 2500.
+Shoots a Pellet which explodes upon contact, creating a large ball dealing splash damage. The Pellet can roll on terrain.
+
+Green Boss Roundhead Snake
+LP 750000, AT 1-1 x18, Min AGI 50, Expected AGI 50, Range 1000.
+Strength: Ice (Slow Immune), Freeze (Time -100%)
+LV 127, EXP 4000, Gold 4000.
+Fires 18 Spears up the air at a constant rate. 
+
+WL8:1 has 18 Green Roundhead Snakes
+WL8:2 has 18 Green Roundhead Snakes and 2 Yellow Gel Snakes
+WL8:3 has 18 Green Roundhead Snakes and 4 Yellow Gel Snakes
+WL8:4 has 36 Green Roundhead Snakes
+WL8:5 has 18 Green Roundhead Snakes, 4 Yellow Gel Snakes and 1 Red Smiley Snake
+WL8:6 has 12 Green Roundhead Snakes, 6 Yellow Gel Snakes and 2 Red Smiley Snakes
+WL8:7 has 4 Yellow Gel Snakes and 3 Red Smiley Snakes
+WL8:BOSS has 12 Green Boss Roundhead Snakes
+
+
+Hill Country 4 (HC4)
+--------------------------------------------------
+Previous Stage: Wasteland 2
+Next Stage: Hill Country 5
+Book Price: $116000
+
+Enemies:
+Green Big Smiley Snake
+LP 800000, AT 2-2 (Po, 0.5s -> Total 50), Min AGI 10, Expected AGI 10, Range 1000.
+Strength: Poison (Immune)
+LV 116, EXP 8000, Gold 8000.
+Leaves a trial of poison clouds as it moves.
+
+Blue Big Gel Snake
+LP 800000, AT 15-20 x9 (Ic, Slow 30%), Min AGI 50, Expected AGI 68.34, Range 60.
+Strength: Ice (AT =1, Slow Immune), Freeze (Time -100%)
+LV 116, EXP 8000, Gold 8000.
+Fires 9 spikes upwards which then homes towards characters. Works like the attack from the Yellow Big Coconut Snake (H2), but the spikes now also pierce terrain.
+
+Cyan Roundhead Block
+LP 200000, AT 6-8 x9 (Fr, 0.3s), Min AGI 100, Expected AGI 118.34, Range 150.
+Strength: Ice (AT =1, Slow Immune), Freeze (Time -100%)
+LV 118, EXP 1500, Gold 1500.
+Fires 9 flakes in an arc which freezes characters.
+
+White Boss Smiley Snake
+LP 2000000, AT 36-48, Min AGI 10, Expected AGI 18.86, Range 180.
+Strength: Ice (AT =1, Slow Immune), Poison (Immune), Freeze (Time -100%)
+LV 118, EXP 12500, Gold 12500.
+Shoots a Three arrow towards characters. Works like its happy cousin in HC3.
+
+HC4:1 has 1 Green Big Smiley Snake and 1 Blue Big Gel Snake
+HC4:2 has 1 Green Big Smiley Snake and 5 Cyan Roundhead Blocks
+HC4:3 has 1 Blue Big Gel Snake and 5 Cyan Roundhead Blocks
+HC4:4 has 1 Green Big Smiley Snake, 1 Blue Big Gel Snake and 10 Cyan Roundhead Blocks
+HC4:BOSS has 2 Green Big Smiley Snakes, 2 Blue Big Gel Snakes and 1 White Boss Smiley Snake
+
+
+Hill Country 5 (HC5)
+--------------------------------------------------
+Previous Stage: Hill Country 4
+Next Stage: Hill Country 6
+Book Price: $117000
+
+Enemies:
+Yellow Gel Bouncer
+LP 200000, AT 12-18, Min AGI 50, Expected AGI 68.34, Range 40.
+Strength: Fire (AT -30%)
+LV 118, EXP 500, Gold 100.
+Uses a Three Arrow melee attack. This enemy is also spawned by the Yellow Big Gel Bouncer and the Red Big Diamond Block.
+
+Yellow Big Gel Bouncer
+LP 500000, AT 16-24 x3, Min AGI 100, Expected AGI 131.03, Range 200.
+10% chance of spawning a Yellow Gel Bouncer when provoked.
+Strength: Fire (AT -30%), Freeze (Time -100%)
+LV 119, EXP 1250, Gold 1000.
+Hurls 3 terrain-piercing Three Arrows in an arc. This enemy is also spawned by Red Boss Diamond Block.
+
+Red Diamond Tree
+LP 800000, Spawn Yellow Gel Bouncer, Min AGI 200, Expected AGI 200, Range 1000.
+Strength: Ice (Slow Immune), Freeze (Time -100%)
+LV 120, EXP 2500, Gold 2000.
+Spawns Yellow Gel Bouncers as its attack.
+
+Red Boss Diamond Block
+LP 2500000, Spawn Yellow Big Gel Bouncer x4, Min AGI 150, Expected AGI 150, Range 1000.
+Strength: Ice (Slow Immune), Freeze (Time -100%)
+LV 121, EXP 12500, Gold 12500.
+Spawns Yellow Big Gel Bouncers as its attack at an alarming rate.
+
+HC5:1 has 10 Yellow Gel Bouncers
+HC5:2 has 20+ Yellow Gel Bouncers and 3 Yellow Big Gel Bouncers
+HC5:3 has 20+ Yellow Gel Bouncers and 1 Red Big Diamond Tree
+HC5:4 has 20+ Yellow Gel Bouncers, 5 Yellow Big Gel Bouncers and 3 Red Big Diamond Trees
+HC5:5 has 0+ Yellow Gel Bouncers, 5 Yellow Big Gel Bouncers and 5 Red Big Diamond Trees
+HC5:BOSS has 5+ Yellow Gel Bouncers, 5+ Yellow Big Gel Bouncers and 1 Red Boss Diamond Block
+
+The actual number of Yellow Gel Bouncers and Yellow Big Gel Bouncers can be higher due to spawning.
+
+
+Hill Country 6 (HC6)
+--------------------------------------------------
+Previous Stage: Hill Country 5
+Next Stage: Wasteland 8
+Book Price: $118000
+
+Enemy:
+Green Roundhead Zombie
+LP 250000, AT 30-60, Min AGI 50, Expected AGI 68.34, Range 40.
+No strengths or weaknesses.
+LV 121, EXP 900, Gold 600.
+Uses a Three Arrow melee attack.
+
+Green Big Roundhead Zombie
+LP 1000000, AT 20-40 x4, Min AGI 50, Expected AGI 68.34, Range 100.
+No strengths or weaknesses.
+LV 122, EXP 10000, Gold 10000.
+Shoots a series of 4 Three Arrows towards characters.
+
+White X Walker
+LP 200000, AT 10-50, Min AGI 75, Expected AGI 93.34, Range 200.
+No strengths or weaknesses.
+LV 123, EXP 1500, Gold 1000.
+A mini replica of the White Boss X Walker (SF1): Shoots balls that deal splash damage and slide on terrain for up to 6s.
+
+Red Boss X Walker
+LP 2200000, AT 88-88 (Fi, Burn 5%), BAT 11-11 x150 (Fi, Burn 5%), Min AGI 200, Expected AGI 218.34, Range 1000.
+Strength: Ice (Slow Immune), Freeze (Time -100%)
+LV 124, EXP 15000, Gold 15000.
+Shoots a large bullet that burns through characters in a extremely high and fast arc. When the bullet hits the ground 150 heat clouds burst out like the Napalm Bomb 6's attack, covering a large part of the screen. Clouds last for 3s.
+
+HC6:1 has 9 Green Roundhead Zombies and 1 Green Big Roundhead Zombie
+HC6:2 has 18 Green Roundhead Zombies, 1 Green Big Roundhead Zombie and 3 White X Walkers
+HC6:3 has 1 Green Big Roundhead Zombie and 6 White X Walkers
+HC6:4 has 2 Green Big Roundhead Zombies and 4 White X Walkers
+HC6:5 has 18 Green Roundhead Zombies and 3 Green Big Roundhead Zombies
+HC6:6 has 18 Green Roundhead Zombies, 3 Green Big Roundhead Zombies and 6 White X Walkers
+HC6:BOSS has 1 Red Boss X Walker
+
+
+Dried Lake (DL)
+--------------------------------------------------
+Previous Stage: Wasteland 5
+Next Stage: -
+Book Price: $119000
+
+Enemies:
+Blue Coconut Germ
+LP 120000, AT 8-12, Min AGI 50, Expected AGI 68.34, Range 30.
+No strengths or weaknesses.
+LV 122, EXP 750, Gold 4444.
+Shoots a small spike towards characters at close range.
+
+Pink Roundhead Block
+LP 240000, AT 25-50, Min AGI 50, Expected AGI 95.59, Range 120.
+No strengths or weaknesses.
+LV 123, EXP 1500, Gold 8888.
+Shoots a spike towards characters. The spike pierces terrain.
+
+Yellow Gel Eel
+LP 300000, AT 1-22 (Th), Min AGI 15, Expected AGI 18.98, Range 150.
+No strengths or weaknesses.
+LV 124, EXP 2500, Gold 11111.
+Shoots thunderbolts rapidly. Tends to charge towards characters like most flying Eels.
+
+Orange Boss Smiley Walker
+LP 2700000, AT 300-500 (Fi), Min AGI 150, Expected AGI 158.86, Range 1000.
+Strength: Freeze (Time -100%)
+LV 125, EXP 15000, Gold 33333.
+Shoots a gigantic ball towards characters like the shock attack from the White Boss Vampire Fish in Beach 1. The ball activates after 3s, damaging all characters within.
+
+DL:1 has 20 Blue Coconut Germs and 2 Yellow Gel Eels
+DL:2 has 40 Blue Coconut Germs and 2 Yellow Gel Eels
+DL:3 has 30 Blue Coconut Germs and 10 Pink Roundhead Blocks
+DL:4 has 10 Pink Roundhead Blocks and 4 Yellow Gel Eels
+DL:5 has 60 Blue Coconut Germs and 3 Yellow Gel Eels
+DL:6 has 60 Blue Coconut Germs and 5 Pink Roundhead Blocks
+DL:7 has 40 Blue Coconut Germs, 5 Pink Roundhead Block and 3 Yellow Gel Eels
+DL:BOSS has 1 Blue Coconut Germ, 1 Pink Roundhead Block, 1 Yellow Gel Eel and 1 Orange Boss Smiley Walker.
+
+
+Closing Street (CS)
+--------------------------------------------------
+Previous Stage: Wasteland 8
+Next Stage: Palace
+Book Price: $120000
+
+Enemies:
+Green Smiley Walker
+LP 200000, AT 2-4 (Po, 0.5s -> Total 50-100), Min AGI 50, Expected AGI 68.34, Range 40.
+No strengths or weaknesses.
+LV 125, EXP 1000, Gold 1000.
+Uses a Three Arrow attack similar to its cousin in Opening Street, but with increased Range.
+
+Cyan Smiley Walker
+LP 150000, AT 10-15 x7 (Fr, Time 0.2s), Min AGI 50, Expected AGI 68.34, Range 120.
+No strengths or weaknesses.
+LV 126, EXP 1500, Gold 1500.
+Shoots 7 Snowflakes upwards which fall and and slide on terrain.
+
+Red Smiley Walker
+LP 400000, AT 6-8 (Fi, Burn 5%), Min AGI 50, Expected AGI 68.34, Range 1000.
+No strengths or weaknesses.
+LV 127, EXP 1500, Gold 1500.
+Shoots a Blaze upwards, which then homes into characters for up to 5s.
+
+Blue X Walker
+LP 300000, AT 20-40 (Ic, Slow 40%), Min AGI 50, Expected AGI 68.34, Range 200.
+No strengths or weaknesses.
+LV 128, EXP 2500, Gold 2500.
+Fires a Bolt in an arc which slows characters.
+
+Grey Boss Smiley Walker
+LP 2500000, AT 1-1 x17 (Fi, Burn 50%), Min AGI 1, Exxpected AGI 1, Range 1000.
+Strength: Ice (Slow Immune), Freeze (Time -100%)
+LV 129, EXP 15000, Gold 15000.
+Fires Lasers in 8 cardinal directions, with one aimed towards the nearest character. The laser aimed towards the nearest character is a stack of 3 Lasers, while for the other directions is a stack of 2 Lasers . Lasers bounce off terrain and deal splash damage.
+
+CS:1 has 5 Green Smiley Walkers and 1 Cyan Smiley Walker
+CS:2 has 6 Green Smiley Walkers and 3 Cyan Smiley Walkers
+CS:3 has 6 Green Smiley Walkers, 2 Cyan Smiley Walkers and 1 Red Smiley Walker
+CS:4 has 5 Cyan Smiley Walkers and 3 Red Smiley Walkers
+CS:5 has 2 Cyan Smiley Walkers and 5 Red Smiley Walkers
+CS:6 has 20 Green Smiley Walkers
+CS:7 has 8 Red Smiley Walkers and 1 Blue X Walker
+CS:8 has 3 Green Smiley Walkers, 8 Red Smiley Walkers and 2 Blue X Walkers
+CS:9 has 8 Red Smiley Walkers and 6 Blue X Walkers
+CS:BOSS has 1 Grey Boss Smiley Walker
+
+
+Palace
+--------------------------------------------------
+Previous Stage: Closing Street
+Next Stage: -
+Book Price: $121000
+
+Megaboss Stage.
+
+Enemy:
+(REDACTED)
+
+Palace:1 has no enemies.
+Palace:BOSS has (REDACTED)

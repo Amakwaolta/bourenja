@@ -1,0 +1,33 @@
+Main Weapon Extension (Rings)
+--------------------------------------------------
+Fire Halo 9
+AT 11-12, AGI 20-30, MFC 25, Range 60, MP 250, Type Fire, BAT 60-80 @20% (Burn 10%), Buy for $23000, Sells for $2875.
+Works like the Charge Ring 2; Magical activation releases a Bolt that homes into enemies and constantly releases heat Clouds. The Bolt lasts for 3s and each Cloud lasts for 1s.
+
+Thunder Halo 9
+AT 11-12, AGI 20-30, MFC 25, Range 60, MP 240, Type Thunder, BAT 1-1111 x25, Buy for $24000, Sells for $3000.
+Works like the Thunder God 7, but releases Lasers instead.
+
+Long Halo 9
+AT 120-180, AGI 20-30, MFC 10, Range 210, Type Physical, Buy for $25000, Sells for $3125.
+The Ring with highest range, with 3x the AT of Long God 7 and further increased range.
+
+Ice Halo 9
+AT 11-12, AGI 20-30, MFC 25, Range 60, MP 180, Type Ice, BAT 90-135 x30 (Slow 30%), Buy for $26000, Sells for $3250.
+Upon magical activation 30 Needles fly towards the target enemy one by one like the magical effect of Thunder Morning Star 7.
+
+Thorn Halo 10
+AT 12-13, AGI 20-30, MFC 25, Range 60, MP 200, Type Physical, BAT 50-150 x64, Buy for $27000, Sells for $3375.
+Works like the Thorn God 8; Upon magical activation 64 Needles fly out from the enemy in a circular formation. Needles are 50% larger in size.
+
+Power Halo 10
+AT 540-810, AGI 20-30, MFC 10, Range 60, Type Physical, Buy for $28000, Sells for $3500.
+The Ring with highest PAT, with its DPS being 2.5x of Power God 8.
+
+Quick Halo 10
+AT 12-13, AGI 5-10, MFC 10, Range 60, Type Physical, BAT 88-88 x8, Buy for $29000, Sells for $3625.
+Works like the Quick God 8; Releases 8 spikes with a larger hitbox dealing splash damage.
+
+Charge Halo 10
+AT 12-13, AGI 20-30, MFC 25, Range 60, MP 1000, Type Freeze, BAT 96-144 @20% (Time 0.5s), Buy for $30000, Sells for $3750.
+Upon magical activation releases a harmless small Flake which can pierce terrain and home into enemies. The Flake constantly produces larger Flakes which deals splash damage. Effect lasts for 4s.

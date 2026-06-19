@@ -1,0 +1,166 @@
+Notes
+--------------------------------------------------
+In game abbreviations are as follows, where XXXXX is a non-empty word:
+XXXXX Sledgehammer => XXXXX SH
+
+
+Main Weapon List (Hammers)
+--------------------------------------------------
+Hammer
+AT 15-20, AGI 80-90, Range 25, Type Physical, Knockback 10, Buy for $100, Sells for $12.
+Starting Weapon.
+
+Stone Hammer 1
+AT 25-40, AGI 80-90, Range 25, Type Physical, Knockback 20, Buy for $250, Sells for $31.
+
+Thunder Hammer 1
+AT 30-40, AGI 80-90, Range 25, MP 15, Type Thunder, BAT 1-33 x1x1, Knockback 10, Buy for $500, Sells for $62.
+Creates a shock which deals splash damage.
+
+Fire Hammer 1
+AT 30-40, AGI 80-90, Range 25, MP 15, Type Fire, BAT 5-8 x1x5 (Burn 1.5%), Knockback 10, Buy for $750, Sells for $93.
+Drops 5 fire attacks like the Fire Sword 1. Each fire lasts for 3s.
+
+Freeze Hammer 1
+AT 30-40, AGI 80-90, Range 25, MP 20, Type Freeze, BAT 10-15 x1x5 (1s), Knockback 10, Buy for $1000, Sells for $125.
+Releases 5 snowflakes which freeze enemies. 
+
+Poison Hammer 2
+AT 45-60, AGI 80-90, Range 25, MP 20, Type Poison, BAT 2-2 x5x1 (1s), Knockback 15, Buy for $1500, Sells for $187. 
+Releases 5 poison clouds in a circular formation as magical attack.
+
+Iron Hammer 2
+AT 100-100, AGI 80-90, Range 25, Type Physical, Knockback 30, Buy for $2000, Sells for $250.
+Has a stable AT output and higher than normal knockback power.
+
+Explosion Hammer 2
+AT 45-60, AGI 80-90, Range 25, MP 60, Type Fire, BAT 20-40 x10x1, Knockback 15, Buy for $2500, Sells for $312.
+Releases 10 elongated balls in a flower shape which does splash damage.
+
+Charge Hammer 2
+AT 300-400, AGI 240-270, Range 25, Type Physical, Knockback 75, Buy for $3000, Sells for $375.
+Does splash damage, as well as having extreme AT and knockback power, at the price of a much higher AGI. This hammer also has a visually larger hammer head, which is twice the normal size.
+
+Mallet 3
+AT 50-160, AGI 80-90, Range 25, Type Physical, Knockback 40, Buy for $4000, Sells for $500.
+
+Thunder Mallet 3
+AT 60-80, AGI 80-90, Range 25, MP 30, Type Thunder, BAT 1-88 x1x1, Knockback 20, Buy for $4500, Sells for $562.
+Creates a larger shock which deals splash damage.
+
+Fire Mallet 3
+AT 60-80, AGI 80-90, Range 25, MP 30, Type Fire, BAT 20-30 x1x1 (Burn 2%), Knockback 20, Buy for $5000, Sells for $625.
+Releases a large cloud attack that does NOT deal splash damage. The cloud lasts for 4s.
+
+Freeze Mallet 3
+AT 60-80, AGI 80-90, Range 25, MP 40, Type Freeze, BAT 15-25 x1x10 (1s), Knockback 20, Buy for $5500, Sells for $687.
+Releases 10 larger snowflakes which freeze enemies. 
+
+Poison Mallet 4
+AT 75-100, AGI 80-90, Range 25, MP 40, Type Poison, BAT 4-4 x5x1 (1s), Knockback 25, Buy for $6000, Sells for $750. 
+Releases 5 poison clouds in a circular formation as magical attack. Unlike the Poison Hammer 2, the clouds appear one by one with slight delay.
+
+Iron Mallet 4
+AT 200-200, AGI 80-90, Range 25, Type Physical, Knockback 50, Buy for $6500, Sells for $812.
+Has a stable AT output and higher than normal knockback power.
+
+Explosion Mallet 4
+AT 75-100, AGI 80-90, Range 25, MP 120, Type Fire, BAT 300-500 x1x1, Knockback 25, Buy for $7000, Sells for $875.
+Releases a large ball which does splash damage.
+
+Charge Mallet 4
+AT 600-800, AGI 240-270, Range 25, Type Physical, Knockback 100, Buy for $7500, Sells for $937.
+Does splash damage and has a double-sized hammer head like its weaker counterpart.
+
+Maul 5
+AT 100-320, AGI 80-90, Range 25, Type Physical, Knockback 60, Buy for $8000, Sells for $1000.
+
+Thunder Maul 5
+AT 90-120, AGI 80-90, Range 25, MP 45, Type Thunder, BAT 1-49 x1x25, Knockback 30, Buy for $8500, Sells for $1062.
+Creates 25 shock attacks one by one.
+
+Fire Maul 5
+AT 90-120, AGI 80-90, Range 25, MP 45, Type Fire, BAT 12-20 x1x4 + 12-20 x4 (Burn 2.5%), Knockback 30, Buy for $9000, Sells for $1125.
+Releases 4 pellets that erupts into 4 fire each when they hit the terrain. Both the pellets and the fires last for 3s.
+
+Freeze Maul 5
+AT 90-120, AGI 80-90, Range 25, MP 60, Type Freeze, BAT 20-30 x1x5 + 20-30 x5 (1s), Knockback 30, Buy for $9500, Sells for $1187.
+Releases 5 pellets that erupts into 5 snowflakes each when they hit the terrain. 
+
+Poison Maul 6
+AT 105-140, AGI 80-90, Range 25, MP 60, Type Poison, BAT 8-8 x10x1 + 8-8 x1 (1s), Knockback 35, Buy for $10000, Sells for $1250. 
+Releases 10 poison one arrows in a circular formation as magical attack. The one arrows pierce terrain and releases a poison cloud when they hit an enemy.
+
+Iron Maul 6
+AT 300-300, AGI 80-90, Range 25, Type Physical, Knockback 70, Buy for $11000, Sells for $1375.
+Has a stable AT output and higher than normal knockback power.
+
+Explosion Maul 6
+AT 105-140, AGI 80-90, Range 25, MP 180, Type Fire, BAT 600-900 x1x1, Knockback 35, Buy for $12000, Sells for $1500.
+Releases an even larger ball which does splash damage.
+
+Charge Maul 6
+AT 900-1200, AGI 240-270, Range 25, Type Physical, Knockback 125, Buy for $13000, Sells for $1625.
+Does splash damage and has a double-sized hammer head like its weaker counterparts.
+
+Sledgehammer 7
+AT 150-480, AGI 80-90, Range 25, Type Physical, Knockback 80, Buy for $15000, Sells for $1875.
+
+Thunder Sledgehammer 7
+AT 120-160, AGI 80-90, Range 25, MP 60, Type Thunder, BAT 1-77 x6x6, Knockback 40, Buy for $16000, Sells for $2000.
+Creates 36 shurikens in 6 sets of 6.
+
+Fire Sledgehammer 7
+AT 120-160, AGI 80-90, Range 25, MP 60, Type Fire, BAT 25-40 x1x5 (Burn 5%), Knockback 40, Buy for $17000, Sells for $2125.
+Releases 5 heat clouds. Each cloud lasts for 3s.
+
+Freeze Sledgehammer 7
+AT 120-160, AGI 80-90, Range 25, MP 80, Type Freeze, BAT 24-36 x4x10 (0.5s), Knockback 40, Buy for $18000, Sells for $2250.
+Releases 40 snowflakes in 10 sets of 4. 
+
+Poison Sledgehammer 8
+AT 135-180, AGI 80-90, Range 25, MP 80, Type Poison, BAT 16-16 x10x1 (1s), Knockback 45, Buy for $19000, Sells for $2375. 
+Releases 10 poison spikes in a circular formation as magical attack. The spikes pierce terrain and homes into enemies.
+
+Iron Sledgehammer 8
+AT 400-400, AGI 80-90, Range 25, Type Physical, Knockback 90, Buy for $20000, Sells for $2500.
+Has a stable AT output and higher than normal knockback power.
+
+Explosion Sledgehammer 8
+AT 135-180, AGI 80-90, Range 25, MP 240, Type Fire, BAT 240-360 x5x1, Knockback 45, Buy for $21000, Sells for $2625.
+Releases 5 huge blazes which does splash damage.
+
+Charge Sledgehammer 8
+AT 1200-1600, AGI 240-270, Range 25, Type Physical, Knockback 150, Buy for $22000, Sells for $2750.
+Does splash damage and has a double-sized hammer head like its weaker counterparts.
+
+Mjolnir 9
+AT 200-640, AGI 80-90, Range 25, Type Physical, Knockback 100, Buy for $23000, Sells for $2875.
+
+Thunder Mjolnir 9
+AT 150-200, AGI 80-90, Range 25, MP 75, Type Thunder, BAT 1-222 x6x9, Knockback 50, Buy for $24000, Sells for $3000.
+Creates 54 sparks in 9 sets of 6 in a similar fashion as the Frozen Great Sword 8. Sparks do NOT deal splash damage.
+
+Fire Mjolnir 9
+AT 150-200, AGI 80-90, Range 25, MP 75, Type Fire, BAT 80-100 x8x1 (Burn 5%), Knockback 50, Buy for $25000, Sells for $3125.
+Creates 8 terrain-piercing balls which homes into enemies. Each ball lasts for 3s.
+
+Freeze Mjolnir 9
+AT 150-200, AGI 80-90, Range 25, MP 100, Type Freeze, BAT 60-90 x6x8 (0.5s), Knockback 50, Buy for $26000, Sells for $3250.
+Creates 48 terrain-piercing sparks in 8 sets of 6, which homes into and freezes enemies.
+
+Poison Mjolnir 10
+AT 180-240, AGI 80-90, Range 25, MP 100, Type Poison, BAT 48-72 x6x1 + 48-72 x1 (1s), Knockback 60, Buy for $27000, Sells for $3375.
+Releases 6 poison needles in a circular formation as magical attack. The needles pierce terrain, homes into enemies, and releases a poison shuriken when they hit an enemy for splash damage.
+
+Iron Mjolnir 10
+AT 500-500, AGI 80-90, Range 25, Type Physical, Knockback 120, Buy for $28000, Sells for $3500.
+Has a stable AT output and higher than normal knockback power.
+
+Explosion Mjolnir 10
+AT 180-240, AGI 80-90, Range 25, MP 300, Type Fire, BAT 300-450 x10x1, Knockback 60, Buy for $29000, Sells for $3625.
+Releases 10 gigantic balls one by one in the same position, dealing splash damage.
+
+Charge Mjolnir 10
+AT 1600-2000, AGI 240-270, Range 25, Type Physical, Knockback 200, Buy for $30000, Sells for $3750.
+Does splash damage and has a double-sized hammer head like its weaker counterparts. This Hammer has the highest PAT and Knockback among all weapons in the Main Weapon List.

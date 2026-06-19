@@ -1,0 +1,377 @@
+Grassland A (GLA)
+--------------------------------------------------
+Previous Stage: Castle Gate
+Next Stage: -
+Book Price: $91000
+
+Enemies: 
+Grey Big Skull Snake
+LP 1500, AT 20-30, Min AGI 100, Expected AGI 108.86, Range 40.
+No strengths or weaknesses.
+LV 18, EXP 500, Gold 100.
+Similar to the Green Boss Skull Snake, it uses a large one arrow melee attack.
+
+Grey Big X Walker
+LP 1200, AT 15-30, Min AGI 150, Expected AGI 158.86, Range 100.
+No strengths or weaknesses.
+LV 18, EXP 500, Gold 100.
+Hurls a large ball towards characters in an arch.
+
+Grey Big Smiley Stickman
+LP 1500, AT 20-40, Min AGI 100, Expected AGI 108.86, Range 40.
+No strengths or weaknesses.
+LV 19, EXP 500, Gold 100.
+Drops two arrow attacks like the Sub-Castle Boss.
+
+Grey Boss X Walker (GLA)
+LP 4500, AT 40-60, BAT 5-10 x4, Min AGI 150, Expected AGI 158.86, Range 200.
+Strength: Freeze (Time -80%),
+LV 20, EXP 3000, Gold 1000.
+Shoots a huge ball in an arch that deals splash damage like those from the White Boss X Walker (HC1). When it hits characters or the terrain 4 smaller balls are produced which has a chance to further damage characters.
+
+GLA:1 has 3 Grey Big Skull Snakes
+GLA:2 has 3 Grey Big X Walkers
+GLA:3 has 3 Grey Big Smiley Stickmen
+GLA:4 has 2 Grey Big Skull Snakes, 2 Grey Big X Walkers and 2 Grey Big Smiley Stickmen
+GLA:5 has 3 Grey Big Skull Snakes, 3 Grey Big X Walkers and 3 Grey Big Smiley Stickmen
+GLA:BOSS has 1 Grey Big Skull Snake, 1 Grey Big X Walker, 1 Grey Big Smiley Stickman and 1 Grey Boss X Walker
+
+
+Seaside A (SA)
+--------------------------------------------------
+Previous Stage: Seaside 4
+Next Stage: -
+Book Price: $92000
+
+Enemies:
+White Roundhead Wheel
+LP 400, AT 6-12, Min AGI 50, Expected AGI 68.34, Range 20.
+No strengths or weaknesses.
+LV 27, EXP 200, Gold 80.
+Uses a melee shock attack that deals splash damage. 
+
+Grey Roundhead Dragon
+LP 300, AT 1-3 x5, Min AGI 50, Expected AGI 58.86, Range 120.
+No strengths or weaknesses.
+LV 27, EXP 200, Gold 80.
+Drops 5 pellets as its attack.
+
+Cyan Big Gel Tree
+LP 2500, AT 1-3 x5, Min AGI 5, Expected AGI 5, Range 500.
+No strengths or weaknesses.
+LV 28, EXP 800, Gold 200.
+Rains down pellets as its attack like the Cyan (Boss) Gel Dragon. This attack covers the entire stage.
+
+White Boss Roundhead Snake
+LP 7500, AT 5-10 x5, Min AGI 40, Expected AGI 48.86, Range 150.
+Strengths: Freeze (Time -80%)
+LV 30, EXP 2000, Gold 1000.
+Shoots 5 spears, focused towards characters.
+
+SA:1 has 8 White Roundhead Wheels and 8 Grey Roundhead Dragons
+SA:2 has 20 White Roundhead Wheels and 1 Cyan Big Gel Tree
+SA:3 has 20 Grey Roundhead Dragons and 1 Cyan Big Gel Tree
+SA:4 has 15 White Roundhead Wheels, 15 Grey Roundhead Dragons and 1 Cyan Big Gel Tree
+SA:5 has 10 White Roundhead Wheels, 10 Grey Roundhead Dragons and 2 Cyan Big Gel Trees
+SA:BOSS has 1 Cyan Big Gel Tree and 1 White Boss Roundhead Snake
+
+
+Desert A (DA)
+--------------------------------------------------
+Previous Stage: Desert 6
+Next Stage: -
+Book Price: $93000
+
+Enemies:
+Orange Big Diamond Tree
+LP 7500, AT 1-2 (Fi, Burn 3%), Min AGI 200, Expected AGI 200, Range 1000.
+Strength: Fire (AT -25%)
+LV 48, EXP 3000, Gold 1000.
+Creates a full-screen attack that burns all characters every 4s. Attack lasts for 1s.
+
+Yellow Big Diamond Tree
+LP 7500, AT 1-7 (Th), Min AGI 200, Expected AGI 200, Range 1000.
+Strength: Thunder (AT -25%)
+LV 48, EXP 3000, Gold 1000.
+Creates a full-screen attack that deals thunder damage to all characters every 4s.
+
+Blue Big Diamond Tree
+LP 7500, AT 2-4 (Ic, Slow 20%), Min AGI 200, Expected AGI 200, Range 1000.
+Strength: Ice (AT & Slow Time -25%), Freeze (Time -25%)
+LV 48, EXP 3000, Gold 1000.
+Creates a full-screen attack that slows all characters every 4s.
+
+Green Boss Diamond Tree
+LP 20000, AT 1-1 (Po, 0.6s -> Total 30), Min AGI 200, Expected AGI 200, Range 1000.
+Strengths: Poison (Time -25%), Freeze (Time -90%)
+LV 50, EXP 3000, Gold 1000.
+Creates a full-screen attack that poisons all characters every 4s.
+
+DA:1 has 2 Orange Big Diamond Trees
+DA:2 has 2 Yellow Big Diamond Trees
+DA:3 has 2 Blue Big Diamond Trees
+DA:4 has 1 Orange Big Diamond Tree and 1 Yellow Big Diamond Tree
+DA:5 has 1 Orange Big Diamond Tree and 1 Blue Big Diamond Tree
+DA:6 has 1 Yellow Big Diamond Tree and 1 Blue Big Diamond Tree
+DA:7 has 1 Orange Big Diamond Tree, 1 Yellow Big Diamond Tree and 1 Blue Big Diamond Tree
+DA:8 has 2 Orange Big Diamond Trees, 2 Yellow Big Diamond Trees and 2 Blue Big Diamond Trees
+DA:BOSS has 1 Orange Big Diamond Tree, 1 Yellow Big Diamond Tree, 1 Blue Big Diamond Tree and 1 Green Boss Diamond Tree
+
+
+Snowfield A (SFA)
+--------------------------------------------------
+Previous Stage: Snowfield 3
+Next Stage: -
+Book Price: $94000
+
+Enemies:
+White Shield Stickman
+LP 2500, AT 1-1, Min AGI 15, Expected AGI 15, Range 80.
+Strength: Fire (AT -25%)
+LV 63, EXP 320, Gold 50.
+Shoots a spear towards characters. 
+
+White Big Shield Stickman
+LP 12500, AT 1-1 x3, Min AGI 15, Expected AGI 15, Range 160.
+Strength: Fire (AT -25%)
+LV 64, EXP 1600, Gold 250.
+Shoots 3 spears, stacked together, towards characters. 
+
+White Boss Shield Stickman
+LP 62500, AT 1-1 x9, Min AGI 15, Expected AGI 15, Range 320.
+Strength: Fire (AT -25%), Freeze (Time -100%)
+LV 65, EXP 8000, Gold 1250.
+Shoots 9 spears, stacked together, towards characters.
+
+SFA:1 has 10 White Shield Stickmen
+SFA:2 has 40 White Shield Stickmen and 1 White Big Shield Stickman
+SFA:3 has 70 White Shield Stickmen and 5 White Big Shield Stickmen
+SFA:BOSS has 90 White Shield Stickmen, 9 White Big Shield Stickmen and 1 White Boss Shield Stickman
+
+
+Inferno A (IFA)
+--------------------------------------------------
+Previous Stage: Inferno 2
+Next Stage: -
+Book Price: $95000
+
+Enemies:
+Green Big Roundhead Stickman
+LP 30000, AT 10-30, Min AGI 50, Expected AGI 53.98, Range 40.
+No strengths or weaknesses.
+LV 82, EXP 1000, Gold 800.
+Uses a close range two arrow attack. Aimed towards characters.
+
+Cyan Big Triangle Tree
+LP 20000, AT 10-20, Min AGI 50, Expected AGI 53.98, Range 150.
+No strengths or weaknesses.
+LV 82, EXP 1000, Gold 800.
+Uses a long range two arrow attack aimed towards characters. The two arrow will accelerate after it is produced.
+
+Red Big Demon Stickman
+LP 40000, AT 40-60, Min AGI 50, Expected AGI 53.98, Range 60.
+No strengths or weaknesses.
+LV 83, EXP 1000, Gold 800.
+Drops two arrow attacks like the Castle Boss. The width of the projectile is not as wide as those from the Castle boss, but still can be dangerous in groups.
+
+Blue Big Coconut Walker
+LP 40000, AT 40-50, Min AGI 50, Expected AGI 53.98, Range 300.
+No strengths or weaknesses.
+LV 83, EXP 1000, Gold 800.
+Fires a large ball towards characters. Its long range may make them a rather pesky enemy if several of them exist in the same screen.
+ 
+Grey Boss Triangle Walker (IFA)
+LP 250000, AT 5-10 x10, Min AGI 25, Expected AGI 43.34, Range 180.
+Strength: Physical (AT -20), Fire (AT -10%), Thunder (AT -10%), Ice (AT & Time -10%), Poison (Time -10%), Freeze (Time -100%)
+LV 85, EXP 10000, Gold 10000.
+Fires 10 balls in a fan-shape like the Grey Boss Smiley Walker. However the spread is reduced, and the balls can both roll on the ground and have a bit homing range. Together with its rather low AGI it can be very dangerous for melee characters.
+
+IFA:1 has 10 Green Big Roundhead Stickmen and 1 Cyan Big Triangle Tree
+IFA:2 has 10 Green Big Roundhead Stickmen and 2 Cyan Big Triangle Trees
+IFA:3 has 8 Green Big Roundhead Stickmen, 3 Cyan Big Triangle Trees and 1 Red Big Demon Stickman
+IFA:4 has 5 Cyan Big Triangle Trees and 3 Red Big Demon Stickmen
+IFA:5 has 3 Cyan Big Triangle Trees and 5 Red Big Demon Stickmen
+IFA:6 has 25 Green Big Roundhead Stickmen
+IFA:7 has 8 Red Big Demon Stickmen and 1 Blue Big Coconut Walker
+IFA:8 has 5 Green Big Roundhead Stickmen, 8 Red Big Demon Stickmen and 2 Blue Big Coconut Walker
+IFA:9 has 4 Red Big Demon Stickmen and 6 Blue Big Coconut Walkers
+IFA:BOSS has 2 Red Big Demon Stickmen, 2 Blue Big Coconut Walker and 1 Grey Boss Trianglle Walker
+
+
+Hell A (HA)
+--------------------------------------------------
+Previous Stage: Cavern 8
+Next Stage: -
+Book Price: $96000
+
+Enemies:
+Orange Roundhead Walker
+LP 30000, AT 3-5 (Fi, Burn 3%), Min AGI 50, Expected AGI 52.99, Range 250.
+Strength: Fire (AT -75%)
+LV 87, EXP 1000, Gold 500.
+Uses a horizontal laser attack that pierces terrain. 
+
+Blue Big Box Walker
+LP 100000, AT 6-9 x15 (Ic, Slow 30%), Min AGI 100, Expected AGI 102.99, Range 500.
+Strength: Ice (AT & Time -75%), Freeze (Time -75%)
+LV 88, EXP 3000, Gold 2000.
+Shoots 15 flakes upwards which slide on terrain and slows characters.
+
+Yellow Big Demon Tree
+LP 100000, AT 1-29 x4, Min AGI 5, Expected AGI 5, Range 1000.
+Strength: Thunder (AT -75%)
+LV 89, EXP 3000, Gold 2000.
+Rains down thunder attacks, covering the entire stage.
+
+Purple Boss Coconut Walker
+LP 250000, AT 1-1 x5 (Fi, Burn 100%), Min AGI 5, Expected AGI 5, Range 1000.
+Strength: Physical (AT -10), Fire (AT -10%), Thunder (AT -10%), Ice (AT & Time -10%), Poison (Time -10%), Freeze (Time -100%)
+LV 90, EXP 10000, Gold 10000.
+Shoots 5 sets of lasers at fixed angles, covering both the left and right side, above and the 2 diagonal directions between the previous 3 directions. Lasers deal splash damage to characters with maximum burn rate.
+
+HA:1 has 10 Orange Roundhead Walkers
+HA:2 has 10 Orange Roundhead Walkers and 1 Blue Big Box Walker
+HA:3 has 10 Orange Roundhead Walkers and 1 Yellow Big Demon Tree
+HA:4 has 15 Orange Roundhead Walkers, 1 Blue Big Box Walker and 1 Yellow Big Demon Tree
+HA:5 has 5 Orange Roundhead Walkers, 2 Blue Big Box Walker and 2 Yellow Big Demon Tree
+HA:BOSS has 1 Purple Boss Coconut Walker
+
+
+Dark Cave (DC)
+--------------------------------------------------
+Previous Stage: Hell Castle
+Next Stage: -
+Book Price: $97000
+
+New Species: Block. These are immobile enemies which can come in upright (sticks to ground) and inverted (sticks to ceiling) forms. Perfectly resistant to knockback: any form and strength of knockback will not cause any movement of the Block.
+
+Enemies:
+Red Triangle Block
+LP 66666, AT 6-6 (Fi, Burn 6.6%), Min AGI 66, Expected AGI 66, Range 66.
+Strengths: Fire (AT -36%)
+LV 96, EXP 666, Gold 666.
+Spawns an immobile firey cloud attack that deals splash damage. Lasts for 1.32s.
+
+Blue Castle Block
+LP 66666, AT 6-6 (Ic, Slow 36%), Min AGI 16, Expected AGI 16, Range 166.
+Strengths: Ice (AT & Time -36%), Freeze (Time -36%)
+LV 96, EXP 666, Gold 666.
+Spawns 6 snowflakes falling down like the Cyan Boss Gel Dragon's attack. The snowflakes pierce terrain.
+
+Yellow Box Block
+LP 66666, AT 1-16 (Th), Min AGI 96, Expected AGI 96, Range 166.
+Strengths: Thunder (AT -36%)
+LV 96, EXP 666, Gold 666.
+This is an inverted block which clings to the ceiling. Shoots a laser with great velocity towards a random character (including those already dead). The laser pierces terrain. While it only attacks when a character enters its range, it CAN target other characters that are out of range.
+
+Purple Big Demon Block
+LP 166666, AT 6-6 (Dk), Min AGI 216, Expected AGI 216, Range 666.
+Strengths: Physical (AT -16), Fire (AT -16%), Thunder (AT -16%), Ice (AT & Time -16%), Poison (Time -16%), Freeze (Time -100%)
+LV 97, EXP 666, Gold 666.
+Creates a full-screen attack that removes 6% of the current LP from all characters every 216 frames. Damage can be reduced by Purple Crystal or blocked by Black Crystal. Has a 100% chance of dropping an extra Onigiri and an extra Star, independent of the natural 20% chance Onigiri and natural 5% chance Star (if Wizards exist) by all enemies.
+
+Green Boss Coconut Block
+LP 666666, AT 6-6 x6 (Po, 0.12s -> Total 36), Min AGI 216, Expected AGI 216, BAT 6-6 (Constant 36)(Po, 0.12s -> Total 36), Range 666.
+Strengths: Physical (AT -6), Fire (AT -6%), Thunder (AT -6%), Ice (AT & Time -6%), Poison (Time -66%), Freeze (Time -100%)
+LV 99, EXP 6666, Gold 6666.
+Shoots 6 spears in various arc trajectories serially. The spears bounce off terrain while producing poison clouds rapidly during its flight.
+
+DC:1 has 6 Red Triangle Blocks and 1 Purple Big Demon Block
+DC:2 has 6 Blue Castle Blocks and 1 Purple Big Demon Block
+DC:3 has 6 Yellow Box Blocks and 1 Purple Big Demon Block
+DC:4 has 6 Red Triangle Blocks, 6 Blue Castle Blocks and 6 Yellow Box Blocks
+DC:5 has 4 Red Triangle Blocks, 4 Blue Castle Blocks, 4 Yellow Box Blocks and 1 Purple Big Demon Block
+DC:BOSS has 2 Purple Big Demon Blocks and 1 Green Boss Coconut Block
+
+
+Wasteland A (WLA)
+--------------------------------------------------
+Previous Stage: Wasteland 2
+Next Stage: -
+Book Price: $114000
+
+Enemies:
+Grey Roundhead Snake
+LP 37564, AT 8-12, Min AGI 50, Expected AGI 68.34, Range 40.
+Strengths: Physical (AT -220), Fire (AT -9%), Thunder (AT -9%), Ice (AT & Time -9%), Poison (Time -9%), Freeze (Time -9%)
+LV 112, EXP 600, Gold 220.
+Uses a melee Three Arrow attack.
+
+Grey Smiley Tree
+LP 375640, AT 4-5 (Fi, Burn 9%), Min AGI 220, Expected AGI 220, Range 999.
+Strengths: Physical (AT -220), Fire (AT -9%), Thunder (AT -9%), Ice (AT & Time -9%), Poison (Time -9%), Freeze (Time -9%)
+LV 113, EXP 1800, Gold 2200.
+Shoots a terrain-piercing blaze horizontally, imitating the attack from the Wizard's Fire Wall 4. The blaze deals splash damage and last indefinitely.
+
+Grey Gel Block
+LP 37564, AT 1-9 x9 (Th), Min AGI 9, Expected AGI 9, Range 999.
+Strength: Physical (AT -37564000), Fire (AT =1), Thunder (AT =1), Ice (AT =1, Slow Immune), Poison (Immune), Freeze (Time -100%)
+LV 114, EXP 2400, Gold 2200.
+Summons thunderbolts falling all over the screen like the attack from the Cyan Big Gel Tree in Seaside A. This enemy also has Boss-like resistance to Satan's Card and Type Darkness LP Drain effects.
+
+Grey Boss Roundhead Snake
+LP 375640, AT 37-56 (Ic, Slow 30%), Min AGI 40, Expected AGI 43.52, Range 99.
+Strengths: Physical (AT -999), Fire (AT -19%), Thunder (AT -19%), Ice (AT & Time -19%), Poison (Time -19%), Freeze (Time -100%)
+LV 115, EXP 4000, Gold 9990.
+Shoots a needle which slows characters.
+
+WLA:1 has 30 Grey Roundhead Snakes
+WLA:2 has 70 Grey Roundhead Snakes and 2 Grey Smiley Trees
+WLA:3 has 50 Grey Roundhead Snakes and 2 Grey Gel Blocks
+WLA:4 has 60 Grey Roundhead Snakes, 3 Grey Smiley Trees and 1 Grey Gel Block
+WLA:5 has 40 Grey Roundhead Snakes, 1 Grey Smiley Tree and 3 Grey Gel Blocks
+WLA:6 has 4 Grey Smiley Trees and 4 Grey Gel Blocks
+WLA:BOSS has 2 Grey Smiley Tree and 7 Grey Boss Roundhead Snakes
+
+
+Wasteland B (WLB)
+--------------------------------------------------
+Previous Stage: Wasteland 8
+Next Stage: -
+Book Price: $115000
+
+Enemies:
+Red Big Box Stickman
+LP 666666, AT 6-6 x66 (Fi, Burn 6%), Min AGI 266, Expected AGI 266, Range 66.
+Strengths: Physical (AT -66666666), Thunder (AT =1), Ice (AT =1, Slow Immune), Poison (Immune), Freeze (AT =1, Freeze Immune)
+Weaknesses: Fire (AT +666%)
+LV 127, EXP 1666, Gold 1666.
+Uses a multiple blaze attack similar to that from the Pyramid Boss' fire attack.
+
+Blue Big Box Stickman
+LP 666666, AT 36-36 (Ic, Slow 36%), Min AGI 96, Expected AGI 96, Range 166.
+Strengths: Physical (AT -66666666), Fire (AT =1), Thunder (AT =1), Poison (Immune)
+Weaknesses: Ice (AT & Slow Time +666%), Freeze (Time +666%) 
+LV 127, EXP 1666, Gold 1666.
+Fires a needle in an arc.
+
+Yellow Big Box Stickman
+LP 666666, AT 1-66 (Th), Min AGI 66, Expected AGI 66, Range 166.
+Strengths: Physical (AT -66666666), Fire (AT =1), Ice (AT =1, Slow Immune), Poison (Immune), Freeze (AT =1, Freeze Immune)
+Weaknesses: Thunder (AT +666%)
+LV 127, EXP 1666, Gold 1666.
+Shoots a laser at high velocity towards a random character (including those already dead). The laser bounce off terrain. While it only attacks when a character enters its range, it CAN target other characters that are out of range.
+
+Green Big Box Stickman
+LP 666666, AT 1-1 (Po, 1.32s -> Total 66), Min AGI 96, Expected AGI 96, Range 666.
+Strengths: Physical (AT -66666666), Fire (AT =1), Thunder (AT =1), Ice (AT =1, Slow Immune), Freeze (AT =1, Freeze Immune)
+Weaknesses: Poison (AT & Time +666%)
+LV 127, EXP 1666, Gold 1666.
+Fires a spear in an arc.
+
+Grey Boss Box Stickman
+LP 2666666, AT 666-666, Min AGI 366, Expected AGI 366, Range 666.
+Strengths: Fire (AT =1), Thunder (AT =1), Ice (AT =1, Slow Immune), Poison (Immune), Freeze (AT =1, Freeze Immune)
+Weaknesses: Physical (AT +666)
+LV 130, EXP 16666, Gold 16666.
+Fires a terrain piercing Three Arrow which lasts for 666 frames homing into characters. The Three Arrow activates only after 12s of its creation.
+
+WLB:1 has 6 Red Big Box Stickmen
+WLB:2 has 6 Blue Big Box Stickmen
+WLB:3 has 6 Yellow Big Box Stickmen
+WLB:4 has 6 Green Big Box Stickmen
+WLB:5 has 3 Red Big Box Stickmen, 3 Blue Big Box Stickmen and 3 Yellow Big Box Stickmen
+WLB:6 has 3 Red Big Box Stickmen, 3 Blue Big Box Stickmen and 3 Green Big Box Stickmen
+WLB:7 has 3 Red Big Box Stickmen, 3 Yellow Big Box Stickmen and 3 Green Big Box Stickmen
+WLB:8 has 3 Blue Big Box Stickmen, 3 Yellow Big Box Stickmen and 3 Green Big Box Stickmen
+WLB:BOSS has 1 Red Big Box Stickman, 1 Blue Big Box Stickman, 1 Yellow Big Box Stickman, 1 Green Big Box Stickman and 1 Grey Boss Box Stickman

@@ -1,0 +1,5 @@
+Vampire's Card
+--------------------------------------------------
+Vampire's Card 1: Each Attack Heals 1.2xlog7(Y) LP, Y = Total Damage of Attack
+Vampire's Card 3: Each Attack Heals 1.4xlog6(Y) LP, Y = Total Damage of Attack
+Vampire's Card 4: Each Attack Heals 1.8xlog5(Y) LP, Y = Total Damage of Attack

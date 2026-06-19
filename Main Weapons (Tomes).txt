@@ -1,0 +1,165 @@
+Main Weapon List (Tomes)
+--------------------------------------------------
+Tome
+AT 4-6 x1, AGI 50-60, Range 90, Mana Cost 3, Type Fire, BAT 5-5 x1, Buy for $100, Sells for $12.
+Starting Weapon. NOT a Physical weapon. Shoots a pellet which creates a cloud upon collision. The pellet can only travel horizontally.
+
+Flame 1
+AT 4-8 x3, AGI 50-60, Range 60, Mana Cost 10, Type Fire, Burn 5%, Buy for $250, Sells for $31.
+Shoots 3 clouds which burns enemies.
+
+Chill 1
+AT 10-20 x1, AGI 50-60, Range 60, Mana Cost 8, Type Ice, Slow 30%, Buy for $500, Sells for $62.
+Shoots a wave attack which slows an enemy.
+
+Burst 1
+AT 10-20 x1, AGI 50-60, Range 70, Mana Cost 12, Type Fire, BAT 5-20 x1, Buy for $750, Sells for $93.
+An upgraded Tome: Shoots a pellet that causes a small explosion dealing splash damage, without the trajectory limitation.
+
+Zap 1
+AT 1-33 x2, AGI 50-60, Range 70, Mana Cost 12, Type Thunder, Buy for $1000, Sells for $125.
+Works like the Thunder 1, summoning 2 thuderbolts travelling towards an enemy, but with a slight delay.
+
+Fireball 2
+AT 8-12 x3, AGI 80-90, Range 70, Mana Cost 20, Type Fire, Burn 5%, Buy for $1500, Sells for $187.
+Shoots 3 terrain-piercing bolts towards enemies which burns enemies. Lasts for 5s. Resembles the attack of the Red Big Diamond Spider.
+
+Frost 2
+AT 10-15 x1, AGI 80-90, Range 80, Mana Cost 16, Type Freeze, Freeze Time 0.5s, Buy for $2000, Sells for $250.
+Casts a freezing cloud on the closest enemy which deals splash damage, freezing all enemies caught within.
+
+Poison 2
+AT 1-1 x1, AGI 80-90, Range 80, Mana Cost 20, Type Poison, Poison Time 2s, Buy for $2500, Sells for $312.
+Casts a poison cloud on the closest enemy which will poison one enemy.
+
+Shock 2
+AT 1-55 x3, AGI 80-90, Range 110, Mana Cost 30, Type Thunder, Buy for $3000, Sells for $375.
+Generates 3 shocks on the closest enemy.
+
+Meteorite 3
+AT 30-60 x1, AGI 110-120, Range 150, Mana Cost 24, Type Fire, BAT 25-40, Buy for $4000, Sells for $500.
+Summons a meteor from the sky, which aims towards the nearest enemy and burst into a heat cloud dealing splash damage upon enemy/terrain collision. 
+
+Hail 3
+AT 10-15 x12, AGI 110-120, Range 120, Mana Cost 24, Type Ice, Slow 25%, Buy for $4500, Sells for $562.
+Summons 12 pellets falling down like the Blizzard 2.
+
+Rising Poison 3
+AT 1-2 x10, AGI 110-120, Range 120, Mana Cost 40, Type Poison, Poison Time 2s, Buy for $5000, Sells for $625.
+Creates 10 poison clouds around the closest enemy which poisons enemies. The clouds also float upwards.
+
+Chain Shock 3
+AT 1-55 x3, AGI 110-120, Range 150, Mana Cost 54, Type Thunder, BAT 1-11 x4, Buy for $5500, Sells for $687.
+Generates 3 shocks on the closest enemy. Each shock splits into 4 thunderbolts when the shock hits an enemy.
+
+Ice Mist 4
+AT 15-25 x6, AGI 140-150, Range 150, Mana Cost 48, Type Ice, Slow 30%, Buy for $6000, Sells for $750.
+Creates 6 big icy clouds around the closest enemy one by one, which deals splash damage, slowing down all enemies caught within.
+
+Snowflake 4
+AT 20-30 x5, AGI 140-150, Range 120, Mana Cost 60, Type Freeze, Freeze Time 1.6s, Buy for $6500, Sells for $812.
+Shoots 5 freezing snowflakes in an arc.
+
+Fire Wall 4
+AT 6-12 x1, AGI 140-150, Range 150, Mana Cost 75, Type Fire, Burn 10%, Buy for $7000, Sells for $875.
+Shoots a tall blaze horizontally which deals splash damage and pierces terrain. Lasts for 5s.
+
+Poison Rain 4
+AT 2-3 x20, AGI 140-150, Range 120, Mana Cost 50, Type Poison, Poison Time 2.3s, Buy for $7500, Sells for $937.
+Summons 20 pellets falling down like the Hail 3.
+
+Bomb Storm 5
+AT 10-20 x20, AGI 170-180, Range 150, Mana Cost 80, Type Fire, BAT 10-20 x1, Buy for $8000, Sells for $1000.
+Summons 20 bolts falling down like the Hail 3. Bolts explode upon collision, and both the bolt and explosion deal splash damage.
+
+Shocker 5
+AT 1-88 x20, AGI 170-180, Range 150, Mana Cost 100, Type Thunder, Buy for $8500, Sells for $1062.
+Shoots a blast of 20 thunderbolts like the Spread Explosion 7. Thunderbolts does NOT bounce off terrain.
+
+Poison Meteor 5
+AT 4-6 x1, AGI 170-180, Range 120, Mana Cost 80, Type Poison, BAT 4-6 @50% (Time 3s), Buy for $9000, Sells for $1125.
+Summons a meteor from the sky, which aims towards the nearest enemy and leaves a trail of poison gases. 
+
+Ice Shard 5
+AT 80-100 x1, AGI 170-180, Range 150, Mana Cost 120, Type Ice, BAT 24-36 x20 (Slow 35%), Buy for $9500, Sells for $1187.
+Works like the Ice Meteor 4, but explodes into 20 snowflakes instead. 
+
+Triple Meteor 6
+AT 48-72 x3, AGI 200-210, Range 120, Mana Cost 180, Type Fire, BAT 12-24 x8 (Burn 5%), Buy for $10000, Sells for $1250.
+Drops 3 meteors from the sky. Meteors lasts for 4s, burns through enemies and explodes into 8 fire when they crash into terrain like the Volcano 2. Residual Fire lasts for 2s and deals splash damage.
+
+Freeze Flare 6
+AT 96-120 x1, AGI 200-210, Range 150, Mana Cost 160, Type Freeze, BAT 48-60 x8 (Time 2.2s), Buy for $11000, Sells for $1375.
+Shoots a snowflake which bursts into 8 blazes when it hits an enemy or the terrain. Blazes can reflect off terrain.
+
+Thunder Cloud 6
+AT 1-222 x1, AGI 200-210, Range 120, Mana Cost 200, Type Thunder, BAT 1-99 @50%, Buy for $12000, Sells for $1500.
+Creates a cloud that pierces terrain, homes into enemies and constantly produces thunderbolts for damage. The cloud lasts for 5s, and can damage enemies (thus ending the effect) after 4s of creation.
+
+Venomous Gas 6
+AT 6-8 x1, AGI 200-210, Range 120, Mana Cost 180, Type Poison, BAT 6-8 x30 (Time 3.8s), Buy for $13000, Sells for $1625.
+Shoots a pellet in an arc, which explodes into 30 poison clouds upon collision. Poison clouds reflect off terrain. 
+
+Chain Explosion 7
+AT 50-70 x6, AGI 230-240, Range 150, Mana Cost 270, Type Fire, BAT 50-70 x6, Buy for $15000, Sells for $1875.
+Creates 6 oval projectiles like the Delta Explosion 3. After each of the projectiles hit an enemy it explodes into 6 smaller oval projectiles in a similar fashion. All projectiles deal splash damage.
+
+Crystal Downfall 7
+AT 40-60 x30, AGI 230-240, Range 135, Mana Cost 240, Type Ice, BAT 20-30 (Slow 35%), Buy for $16000, Sells for $2000.
+Summons 30 needles falling like Hail 3. Needles cling on terrain and turns into a snowflake for additional damage upon enemy contact.
+
+Static Electricity 7
+AT 1-144 x20, AGI 230-240, Range 165, Mana Cost 270, Type Thunder, Buy for $17000, Sells for $2125.
+Creates 20 shurikens around the closest enemy one by one, dealing splash damage.
+
+Stigma 7
+AT 270-330 x10, AGI 230-240, Range 180, Mana Cost 280, Type Physical, Buy for $18000, Sells for $2250.
+The first Physical weapon in the main weapon series. Creates 10 terrain-piercing needles which burst away from the nearest enemy, then homes into enemies.
+
+Scorching Beam 8
+AT 12-18 x30, AGI 260-270, Range 135, Mana Cost 360, Type Fire, Burn 10%, Buy for $19000, Sells for $2375.
+Shoots 30 lasers in a similar way as Lightning 7, but the lasers are spawned from the Wizard instead of near the enemy. Lasers pierce terrain, deal splash damage and last for 3s.
+
+Frostbite 8
+AT 80-120 x20, AGI 260-270, Range 135, Mana Cost 380, Type Freeze, Freeze Time 3.5s, Buy for $20000, Sells for $2500.
+Creates 20 snowflakes around the closest enemy one by one, dealing splash damage and freezing all enemies caught within.
+
+Toxic Radiation 8
+AT 10-20 x3, AGI 260-270, Range 150, Mana Cost 360, Type Poison, BAT 10-15 x20 (Time 6s), Buy for $21000, Sells for $2625.
+Shoots 3 bolts, each exploding into 20 mines upon collision with slight delay which pierces terrain.
+
+Shockwave 8
+AT 1-111 x45, AGI 260-270, Range 150, Mana Cost 400, Type Thunder, BAT 1-55 x2, Buy for $22000, Sells for $2750.
+Shoots a set of 45 waves from the Wizard in a similar way as Scorching Beam 8. The waves pierce terrain, and are slightly displaced instead of all being aligned in a straight line. In addition, upon enemy hit each wave will create 2 more terrain-piercing waves in a similar way as the Wave Cannon 6.
+
+Rapid Explosion 9
+AT 50-75 x20, AGI 290-300, Range 165, Mana Cost 540, Type Fire, BAT 50-75 x4 (BAT follows PAT), Buy for $23000, Sells for $2875.
+Shoots a series of 20 bolts towards enemies. The bolts explodes into 4 blazes in a star-shaped formation upon collision with enemies or terrain. All projectiles deal splash damage. The AT of the blazes will follow the AT of the bolts, i.e. STR investments will also increase the blazes' damage.
+
+Scalding Ice Flare 9
+AT 360-600 x5, AGI 290-300, Range 180, Mana Cost 480, Type Ice, BAT 32-48 x6 (Slow 50%), Buy for $24000, Sells for $3000.
+Shoots 5 snowflakes in an arc, each releaseing 6 terrain reflecting blazes when the flake hits an enemy or the terrain. 
+
+Venom Rain 9
+AT 18-30 x40, AGI 290-300, Range 210, Mana Cost 500, Type Poison, Poison Time 5s, Buy for $25000, Sells for $3125.
+Drops 40 sparks in the same fashion as Poison Rain 4. Sparks linger on terrain and lasts for 2s.
+
+Mana Storm 9
+AT 240-320 x30, AGI 290-300, Range 210, Mana Cost 540, Type Physical, Buy for $26000, Sells for $3250.
+Shoots 30 stars from in a similar fashion as the Magician's Lightning 7. Stars are displaced slightly instead of being fired along a perfect straight line and pierce terrain.
+
+Ghost Flame 10
+AT 24-36 x30, AGI 320-330, Range 195, Mana Cost 720, Type Fire, Burn 10%, Buy for $27000, Sells for $3375.
+Shoots 30 blazes in a similar way as Shockwave 8. Blazes pierce terrain, has 100 homing range and last for 4s, but no longer does splash damage like the Scorching Beam 8.
+
+Absolute Zero 10
+AT 27-273, AGI 320-330, Range 210, Mana Cost 730, Type Freeze, BAT 27-273 @12% (Time 4.5s) (BAT follows PAT), Buy for $28000, Sells for $3500.
+Shoots a snowflake that behaves like the Magician's Thunder Orb 6; The snowflake itself is harmless, but constantly produces large clouds which deals splash damage and freeze all enemies hit. The snowflake pierces terrain and lasts for 5s.
+
+Mega Thunderstorm 10
+AT 1-444 x3, AGI 320-330, Range 240, Mana Cost 780, Type Thunder, BAT 1-444 @10% (BAT follows PAT), Buy for $29000, Sells for $3625.
+3 thunder clouds appear around the closest enemy which pierces terrain, homes into enemies and lasts for 5s. While the clouds are harmless by themselves, the clouds constantly produces big thunderbolts dropping down as the main hit. 
+
+Glacier 10
+AT 360-540, AGI 320-330, Range 225, Mana Cost 750, Type Ice, BAT 360-540 @12% (Slow 30%) (BAT follows PAT), Buy for $30000, Sells for $3750.
+Works like Mega Thunderstorm 10; A snowflake appears on the nearest enemy which pierces terrain, homes into enemies and lasts for 5s. The snowflake constantly produces spikes as the main hit which lingers around its original position.

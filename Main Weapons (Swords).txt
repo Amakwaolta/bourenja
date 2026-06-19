@@ -1,0 +1,37 @@
+Notes
+-------------------------------------------------- 
+In game abbreviations are as follows, where XXXXX is a non-empty word:
+XXXXX Broadsword => XXXXX BS
+
+Main Weapon Extension (Swords)
+--------------------------------------------------
+Broadsword 9
+AT 480-720, AGI 20-30, Range 30, Type Physical, Buy for $23000, Sells for $2875.
+
+Fire Broadsword 9
+AT 40-40, AGI 20-30, Range 30, MP 50, Type Fire, BAT 12-16 x1x15 (Burn 4%), Buy for $24000, Sells for $3000.
+Creates 15 elongated balls as magical attacks like the Fire Blade 5. Each ball lasts for 4s.
+
+Thunder Broadsword 9
+AT 40-40, AGI 20-30, Range 30, MP 50, Type Thunder, BAT 1-59 x15x9, Buy for $25000, Sells for $3125.
+Creates sparks in 9 sets of 15 like the Thunder Great Sword 7. Sparks have 10 homing range, which combined with the very short projectile time, are mostly for aestheic effects.
+
+Ice Broadsword 9
+AT 40-40, AGI 20-30, Range 30, MP 60, Type Ice, BAT 10-20 x8x10 (Slow 30%), Buy for $26000, Sells for $3250.
+Creates 80 needles in 10 sets of 8 which deals splash damage like the Ice Great Sword 7.
+
+Long Broadsword 10
+AT 500-750, AGI 20-30, Range 60, Type Physical, Buy for $27000, Sells for $3375.
+Longest Sword in the game, as well as having the highest PAT among all Swords.
+
+Miracle Lightsaber 10
+AT 40-50, AGI 20-30, Range 30, MP 150, Type Thunder, BAT 1-456 x1x150, Buy for $28000, Sells for $3500.
+Releases 150 lasers one by one. The lasers are larger than its weaker counterparts.
+
+Flame Broadsword 10
+AT 40-50, AGI 20-30, Range 30, MP 150, Type Fire, BAT 18-24 x1x150 (Burn 5%), Buy for $29000, Sells for $3625.
+Creates 150 homing fire projectiles as magical attacks. Each fire lasts for 3s and deals splash damage.
+
+Frozen Broadsword 10
+AT 40-50, AGI 20-30, Range 30, MP 150, Type Freeze, BAT 120-160 x1x9 (Time 0.1s), Buy for $30000, Sells for $3750.
+A straight upgrade of the Frozen Great Sword 8, with 3x the BAT and also Three Arrows instead of One Arrows.

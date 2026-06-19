@@ -1,0 +1,33 @@
+Main Weapon Extension (Bows)
+--------------------------------------------------
+Sept Gold Shot 9
+AT 32-48 x7, AGI 30-40, Range 150, Type Physical, Buy for $23000, Sells for $2875.
+Shoots like the previous Physical Shot Bows, with reduced arrow spread, reduced arrow gravity effects and regains the original arrow speed from the Triple Shot 1 and Quint Shot 3. (Sept Shot 5 and Nonuple Shot 7 both have reduced arrow speed)
+
+Dec Poison 9
+AT 36-48 x10, AGI 30-40, Range 90, MP 55, Type Poison, BAT 8-12 (1s), Buy for $24000, Sells for $3000.
+Shoots 10 arrows which can produce a cloud that poisons enemies. Arrows tend to fly a bit faster.
+
+Triple Inferno 9
+AT 48-72 x3, AGI 30-40, Range 90, MP 55, Type Fire, BAT 48-64 x3 (Burn 5%), Buy for $25000, Sells for $3125.
+Shoots 3 arrows, each producing 3 blazes which deals splash damage. Works like the Double Flame 6.
+
+Sext Diamond Arrow 9
+AT 192-288 x6, AGI 30-40, Range 90, Type Physical, Buy for $26000, Sells for $3250.
+Shoots 6 arrows in a similar way as the Quint Gold Arrow 8. The arrows travel faster with a lower arc like the arrows from Quad Steel Arrow 6.
+
+Sept Toxic Shot 10
+AT 18-24 x7, AGI 30-40, Range 90, MP 60, Type Poison, BAT 10-15 (1s), Buy for $27000, Sells for $3375.
+Shoots 7 arrows which can produce a cloud that poisons enemies. Arrows are slightly denser and travels much faster compared with those from Oct Poison Shot 8.
+
+Trigintuple Arrow 10
+AT 80-120 x30, AGI 45-60, Range 90, Type Physical, Buy for $28000, Sells for $3500.
+Shoots 30 arrows at once. The arrows travel faster with a lower arc compared with Vigintuple Arrow 8.
+
+Diamond Shot 10
+AT 600-800, AGI 30-40, Range 150, Type Physical, Buy for $29000, Sells for $3625.
+Shoots a single arrow directly towards the target enemy with extreme arrow velocity. The arrow pierces terrain and is not affected by gravity.
+
+Quint Flare Shot 10
+AT 24-36 x5, AGI 30-40, Range 90, MP 60, Type Fire, BAT 24-32 x5 (Burn 5%), Buy for $30000, Sells for $3750.
+Wotks like the Hell Fire Shot 8; Shoots 5 arrows which produce 5 shurikens that travels along the direction of the arrow it originates. Arrows are slightly denser and travels much faster compared with those from Hell Fire Shot 8.

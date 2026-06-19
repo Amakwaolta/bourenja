@@ -1,0 +1,168 @@
+Notes
+--------------------------------------------------
+All Blowguns have Type Physical PAT and shoots only 1 PAT projectile unless otherwise specified.
+
+War Cry is shown as X%/Y where X% is the AT Aura added and Y is the amount of Physical DF provided through DF Aura.
+
+Main Weapon List (Blowguns)
+--------------------------------------------------
+Blowgun
+AT 4-5, AGI 50-60, Range 60, Type Physical, Buy for $100, Sells for $12.
+Starting Weapon.
+
+Stone Blowgun 1
+AT 6-12, AGI 50-60, Range 60, Type Physical, Buy for $250, Sells for $31.
+
+Poison Blowgun 1
+AT 6-8, AGI 50-60, Range 60, Type Poison, BAT 1-2 x1 (0.8s), Buy for $500, Sells for $62.
+Shoots a pellet, which creates a poison cloud as magical attack after it hits an enemy or the terrain.
+
+Fire Blowgun 1
+AT 6-8, AGI 50-60, Range 60, Type Fire, BAT 3-5 x1 (Burn 5%), Buy for $750, Sells for $93.
+Shoots a pellet, which creates a Fire that drop down after the pellet hits an enemy or the terrain. The fire lasts for 2s. 
+
+Long Blowgun 1
+AT 20-40, AGI 70-80, Range 110, Type Physical, Buy for $1000, Sells for $125.
+Hits harder from a longer distance at the price of increased AGI.
+
+Ice Blowgun 2
+AT 15-30, AGI 50-60, Range 60, Type Ice, Slow 20%, Buy for $1500, Sells for $187. 
+Shoots a needle instead of a pellet, which deals Ice damage and slows down enemies.
+
+Scary Blowgun 2
+AT 15-30, AGI 50-60, Range 60, Type Physical, War Cry 50%/6, War Cry MP 1500, Buy for $2000, Sells for $250.
+The first Blowgun that supports the War Cry feature. The cost of 1500 MP can be high for a Predator at this level so utilization of this weapon should be done with sufficient DEX, high MAG investments and also compo item support.
+
+Long Flame Blowgun 2
+AT 10-20, AGI 80-100, Range 90, Type Fire, BAT 3-6 x8 (Burn 5%), Buy for $2500, Sells for $312.
+When the pellet shot hits an enemy or the terrain 8 heat clouds burst out from the pellet. Each cloud lasts for 2s.
+
+Thunder Blowgun 2
+AT 1-66, AGI 50-60, Range 60, Type Thunder, Buy for $3000, Sells for $375.
+Shoots a laser which deals Thunder damage.
+
+Iron Blowgun 3
+AT 32-48, AGI 50-60, Range 60, Type Physical, Buy for $4000, Sells for $500.
+
+Hunter Blowgun 3
+AT 12-24, AGI 20-30, Range 40, Type Physical, Buy for $4500, Sells for $562.
+Shoots smaller pellets at a higher rate, with AGI even lower than the default lower AGI limit for Predators. However this Blowgun suffers from reduced Range.
+
+Blazing Blowgun 3
+AT 3-5, AGI 50-60, Range 60, Type Fire, BAT 2-5 @3% (Burn 5%), Buy for $5000, Sells for $625.
+Shoots a spear which pierces enemies and terrain, has splashing capabilities and deals Fire damage. The spear lasts for 3s. While the spear is active it also drops fire attacks which falls and lingers on ground, with each fire having a 2s lifespan.
+
+Long Stone Blowgun 3
+AT 60-100, AGI 90-100, Range 190, Type Physical, Buy for $5500, Sells for $687.
+Hits harder from a longer distance at the price of increased AGI.
+
+Venom Blowgun 4
+AT 20-30, AGI 50-60, Range 60, Type Poison, BAT 3-4 x4 (0.8s), Buy for $6000, Sells for $750.
+Shoots a pellet which burst into 4 smaller poison pellets as magical attack after it hits an enemy or the terrain.
+
+Flare Blowgun 4
+AT 20-30, AGI 50-60, Range 60, Type Fire, BAT 3-6 x7 (Burn 4%), Buy for $6500, Sells for $812.
+Shoots a pellet which creates 7 Fire after the pellet hits an enemy or the terrain like the Volcano 2. Each fire lasts for 2s. 
+
+Bomb Blowgun 4
+AT 20-30, AGI 50-60, Range 60, Type Fire, BAT 8-12 x10, Buy for $7000, Sells for $875.
+The pellet creates 10 elongated ball attacks after the pellet hits an enemy or the terrain. The balls deal splash damage. 
+
+Fright Blowgun 4
+AT 60-80, AGI 50-60, Range 60, Type Physical, War Cry 100%/15, War Cry MP 5000, Buy for $7500, Sells for $937.
+An upgrade of Scary Blowgun 2, with higher AT, stronger War Cry effect and increased MP cost.
+
+Icicle Blowgun 5
+AT 60-80, AGI 50-60, Range 60, Type Ice, Slow 30%, Buy for $8000, Sells for $1000. 
+An upgrade of Ice Blowgun 2. Shoots a needle instead of a pellet, which deals Ice damage and slows down enemies.
+
+War Blowgun 5
+AT 24-48, AGI 20-30, Range 50, Type Physical, Buy for $8500, Sells for $1062.
+An upgrade of Hunter Blowgun 3. Shoots smaller pellets at a higher rate, with AGI even lower than the default lower AGI limit for Predators. Has higher Range than Hunter Blowgun 3 but still lower Range than most Blowguns.
+
+Long Shock Blowgun 5
+AT 1-77, AGI 100-120, Range 130, Type Thunder, BAT 1-199 x1, Buy for $9000, Sells for $1125.
+Shoots a thunderbolt which deals Thunder damage, then creates a large shock that deals splash damage.
+
+Toxic Blowgun 5
+AT 40-50, AGI 50-60, Range 60, Type Poison, BAT 5-7 @20% (0.8s), Buy for $9500, Sells for $1187.
+Shoots a pellet which constantly produces poison clouds. The pellet can hit enemies during its flight and deals Physical Damage like the Pyramid Arrow 5's arrow.
+
+Crystal Blowgun 6
+AT 200-300, AGI 50-60, Range 60, Type Physical, Buy for $10000, Sells for $1250.
+Shoots a needle instead of a pellet.
+
+Explosive Blowgun 6
+AT 40-50, AGI 50-60, Range 60, Type Fire, BAT 180-240 x1, Buy for $11000, Sells for $1375.
+Shoots a pellet that creates a large ball attack after the pellet hits an enemy or the terrain. The ball deals splash damage. 
+
+Long Iron Blowgun 6
+AT 300-400, AGI 110-120, Range 270, Type Physical, Buy for $12000, Sells for $1500.
+Hits harder from a longer distance at the price of increased AGI. Has enough Range for many outranging tasks on its own.
+
+Magma Blowgun 6
+AT 8-16, AGI 50-60, Range 60, Type Fire, BAT 8-10 @15% (Burn 5%), Buy for $13000, Sells for $1625.
+An upgrade of the Blazing Blowgun 3. Shoots a bolt which drops blaze attacks that falls and lingers on ground. The bolt deals Fire damage, has piercing and splashing capabilities, and lasts for 3s. The blazes last for 2s each.
+
+Creepy Blowgun 7
+AT 200-300, AGI 50-60, Range 60, Type Physical, War Cry 200%/30, War Cry MP 15000, Buy for $15000, Sells for $1875.
+An upgrade of Fright Blowgun 4, with higher AT, stronger War Cry effect and increased MP cost. At this point compo item use can drastically increase the MP charging rate.
+
+Tainted Blowgun 7
+AT 80-120, AGI 50-60, Range 60, Type Poison, BAT 9-16 x10 (0.8s), Buy for $16000, Sells for $2000.
+Shoots a pellet which burst into 10 poison lasers as magical attack after it hits an enemy or the terrain. The lasers can slide on ground.
+
+Long Cold Blowgun 7
+AT 160-240, AGI 120-140, Range 170, Type Ice, Slow 30%, Buy for $17000, Sells for $2125. 
+Shoots a much longer needle compared with the previous Type Ice Blowguns, which deals Ice damage and has piercing and splashing capabilities.
+
+Skirmish Blowgun 7
+AT 160-240, AGI 20-30, Range 60, Type Physical, Buy for $18000, Sells for $2250.
+An upgrade of War Blowgun 5. Shoots smaller pellets at a higher rate, with AGI even lower than the default lower AGI limit for Predators. No longer sufferes from reduced Range unlike the weaker counterparts.
+
+Thor Blowgun 8
+AT 1-333, AGI 50-60, Range 60, Type Thunder, BAT 1-666 x1, Buy for $19000, Sells for $2375.
+Shoots a mine which deals Thunder damage, then creates a large laser that cuts through the entire screen vertically and deals splash damage.
+
+Long Gem Blowgun 8
+AT 600-900, AGI 130-140, Range 350, Type Physical, Buy for $20000, Sells for $2500.
+Shoots a needle instead of a pellet. Hits harder from a longer distance at the price of increased AGI. Equipping a Catapult's Card 7 will make this weapon reach 500 Range, practically capable of hitting any position from a corner as long as no terrain is blocking the shot.
+
+Frigid Blowgun 8
+AT 80-120, AGI 50-60, Range 60, Type Ice, BAT 40-60 @15% (Slow 20%), Buy for $21000, Sells for $2625. 
+Shoots a long needle, which pierces terrain, homes into enemies, and constantly creates slowflakes that slows enemies. The needle lasts for 3s. Note that the needle itself will be capable of dealing Ice damage after 2s of its creation, and hitting an enemy at that point will end the effect prematurely.
+
+Nitro Blowgun 8
+AT 80-120, AGI 50-60, Range 60, Type Fire, BAT 40-60 x10, Buy for $22000, Sells for $2750.
+The pellet creates 10 large ball attacks one by one after the pellet hits an enemy or the terrain. The balls deal splash damage. 
+
+Dense Blowgun 9
+AT 500-750, AGI 50-60, Range 60, Type Physical, Buy for $23000, Sells for $2875.
+
+Horror Blowgun 9
+AT 360-540, AGI 50-60, Range 60, Type Physical, BAT 40-60 x2, War Cry 300%/60, War Cry MP 50000, Buy for $24000, Sells for $3000.
+An upgrade of Creepy Blowgun 7 with even higher AT, War Cry strength and MP cost. Each pellet also leaves 2 mines dealing additional damage.
+
+Combat Blowgun 9
+AT 320-480, AGI 20-30, Range 60, Type Physical, Buy for $25000, Sells for $3125.
+An upgrade of Skirmish Blowgun 7 with even higher AT.
+
+Spark Blowgun 9
+AT 1-999, AGI 50-60, Range 60, Type Thunder, BAT 1-99 @20%, Buy for $26000, Sells for $3250. 
+Shoots a long spark, which pierces terrain, homes into enemies, and constantly creates mines that slows enemies. The spark lasts for 3s. Like the Frigid Blowgun 8, the spark itself will be capable of dealing Thunder damage after 2s of its creation, and hitting an enemy at that point will end the effect prematurely.
+
+Glacial Blowgun 10
+AT 320-360, AGI 50-60, Range 60, Type Ice, BAT 128-144 x10 (Slow 30%), Buy for $27000, Sells for $3375. 
+Works like the Gunner's Wave Cannon 6; Shoots a snowflake which releases 10 Fire-shaped projectiles travelling in the direction of the snowflake and decelerate. The snowflake ignores gravity as per most Blowguns and the "Fire" have more varied speeds and hence travel distances.
+
+Long Dense Blowgun 10
+AT 1600-2400, AGI 150-160, Range 400, Type Physical, Buy for $28000, Sells for $3500.
+Hits harder from a longer distance at the price of increased AGI. Has the highest AT, AGI and Range among all Blowguns in the Main Weapon List. Has extreme outranging capabilities even without any Compo Item usage.
+
+Long Viral Blowgun 10
+AT 320-480, AGI 140-160, Range 210, Type Poison, BAT 34-55 (Time 1.32s), Buy for $29000, Sells for $3625. 
+Shoots a pellet which creates a Skull dealing splash poison damage. Has the longest range among all non-Physical Blowguns.
+
+Scorching Blowgun 10
+AT 64-96, AGI 50-60, Range 60, Type Fire, BAT 16-24 @20% (Burn 5%), Buy for $30000, Sells for $3750. 
+Shoots a Blaze which burns through enemies. The Blaze deals splash damage, pierces terrain, homes into enemies, and constantly produces smaller Blazes which burns throug enemies for additional damage but does NOT deal splash damage. Main Blaze lasts for 4s, smaller Blazes last for 2s.
